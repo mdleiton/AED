@@ -1,0 +1,676 @@
+{
+    "data": [
+        {
+            "filter_level": "low",
+            "quoted_status": {
+                "filter_level": "low",
+                "truncated": false,
+                "coordinates": null,
+                "entities": {
+                    "hashtags": [],
+                    "user_mentions": [
+                        {
+                            "id": 118794370,
+                            "id_str": "118794370",
+                            "screen_name": "mariapaularomo",
+                            "name": "Mar\u00eda Paula Romo",
+                            "indices": [
+                                88,
+                                103
+                            ]
+                        },
+                        {
+                            "id": 816831346261786624,
+                            "id_str": "816831346261786624",
+                            "screen_name": "MVEspinosaS",
+                            "name": "Ver\u00f3nica Espinosa S.",
+                            "indices": [
+                                104,
+                                116
+                            ]
+                        },
+                        {
+                            "id": 869033863166799872,
+                            "id_str": "869033863166799872",
+                            "screen_name": "ASotomayorEcu",
+                            "name": "Andrea Sotomayor",
+                            "indices": [
+                                117,
+                                131
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "symbols": []
+                },
+                "quote_count": 0,
+                "reply_count": 0,
+                "in_reply_to_status_id": null,
+                "favorited": false,
+                "contributors": null,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "place": {
+                    "id": "009924a469d7ace1",
+                    "country_code": "EC",
+                    "name": "Guayaquil",
+                    "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+                    "country": "Ecuador",
+                    "bounding_box": {
+                        "coordinates": [
+                            [
+                                [
+                                    -80.467605,
+                                    -3.063716
+                                ],
+                                [
+                                    -80.467605,
+                                    -1.962274
+                                ],
+                                [
+                                    -79.714781,
+                                    -1.962274
+                                ],
+                                [
+                                    -79.714781,
+                                    -3.063716
+                                ]
+                            ]
+                        ],
+                        "type": "Polygon"
+                    },
+                    "place_type": "city",
+                    "full_name": "Guayaquil, Ecuador",
+                    "attributes": {}
+                },
+                "lang": "es",
+                "created_at": "Wed Jun 12 05:25:12 +0000 2019",
+                "is_quote_status": false,
+                "user": {
+                    "favourites_count": 4015,
+                    "contributors_enabled": false,
+                    "statuses_count": 1146,
+                    "profile_background_tile": false,
+                    "name": "\ud83c\udde9\ud83c\uddea \ud835\udd7a\ud835\udd91\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97 \ud835\udd78\ud835\udd8e\ud835\udd88\ud835\udd8d\ud835\udd86\ud835\udd8a\ud835\udd91 \ud83c\uddea\ud83c\udde8",
+                    "url": "http://www.platincoinecuador.com",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/726901164416110592/1552247177",
+                    "utc_offset": null,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1104830067790790656/zxHyQ5OU_normal.jpg",
+                    "listed_count": 0,
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104830067790790656/zxHyQ5OU_normal.jpg",
+                    "profile_text_color": "333333",
+                    "location": "Guayaquil, Ecuador",
+                    "time_zone": null,
+                    "profile_background_image_url_https": "",
+                    "notifications": null,
+                    "friends_count": 181,
+                    "screen_name": "OliverEC101",
+                    "followers_count": 64,
+                    "lang": null,
+                    "created_at": "Sun May 01 22:28:37 +0000 2016",
+                    "following": null,
+                    "follow_request_sent": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "id_str": "726901164416110592",
+                    "protected": false,
+                    "default_profile": true,
+                    "profile_sidebar_border_color": "C0DEED",
+                    "default_profile_image": false,
+                    "profile_background_image_url": "",
+                    "profile_background_color": "F5F8FA",
+                    "profile_use_background_image": true,
+                    "profile_link_color": "1DA1F2",
+                    "translator_type": "none",
+                    "id": 726901164416110592,
+                    "is_translator": false,
+                    "description": "Top Leader \ud83d\udc8e",
+                    "profile_sidebar_fill_color": "DDEEF6"
+                },
+                "favorite_count": 0,
+                "text": "Yo me pregunto, cual de las siguientes 3 ministras fue la mejor empleada del mes?\n\ud83c\udfc6\ud83e\udd47\ud83c\udf89\ud83c\udf88\ud83d\udc78\n@mariapaularomo @MVEspinosaS @ASotomayorEcu",
+                "id_str": "1138678617020522496",
+                "geo": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_user_id": null,
+                "retweet_count": 0,
+                "id": 1138678617020522496,
+                "in_reply_to_status_id_str": null,
+                "retweeted": false,
+                "in_reply_to_screen_name": null
+            },
+            "geo": null,
+            "truncated": true,
+            "favorite_count": 0,
+            "quoted_status_id": 1138678617020522496,
+            "quote_count": 0,
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "id": 220332032,
+                        "id_str": "220332032",
+                        "screen_name": "CristinaReyesec",
+                        "name": "Cristina Reyes Hidalgo",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    },
+                    {
+                        "id": 309985367,
+                        "id_str": "309985367",
+                        "screen_name": "ProfHoax__",
+                        "name": "ProfHoax \u00ae \ud83c\udf0a\ud83d\udc99",
+                        "indices": [
+                            17,
+                            28
+                        ]
+                    },
+                    {
+                        "id": 2293822722,
+                        "id_str": "2293822722",
+                        "screen_name": "viviecuador",
+                        "name": "viviecuador",
+                        "indices": [
+                            29,
+                            41
+                        ]
+                    },
+                    {
+                        "id": 239938002,
+                        "id_str": "239938002",
+                        "screen_name": "andrespaezec",
+                        "name": "Andr\u00e9s P\u00e1ez",
+                        "indices": [
+                            42,
+                            55
+                        ]
+                    },
+                    {
+                        "id": 3361771708,
+                        "id_str": "3361771708",
+                        "screen_name": "CuenteroMuisne",
+                        "name": "Cuentero de Muisne",
+                        "indices": [
+                            56,
+                            71
+                        ]
+                    },
+                    {
+                        "id": 151485865,
+                        "id_str": "151485865",
+                        "screen_name": "HectorYepezM",
+                        "name": "H\u00e9ctor Y\u00e9pez Mart\u00ednez \ud83c\uddea\ud83c\udde8",
+                        "indices": [
+                            72,
+                            85
+                        ]
+                    },
+                    {
+                        "id": 236994974,
+                        "id_str": "236994974",
+                        "screen_name": "parosemena",
+                        "name": "Pablo Arosemena",
+                        "indices": [
+                            86,
+                            97
+                        ]
+                    },
+                    {
+                        "id": 151635175,
+                        "id_str": "151635175",
+                        "screen_name": "abdalabucaram",
+                        "name": "Abdala Bucaram Ortiz",
+                        "indices": [
+                            98,
+                            112
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/P6eYd5HvCr",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/1138679801248735232",
+                        "indices": [
+                            114,
+                            137
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "reply_count": 0,
+            "quoted_status_id_str": "1138678617020522496",
+            "in_reply_to_status_id": null,
+            "favorited": false,
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_screen_name": "CristinaReyesec",
+            "contributors": null,
+            "timestamp_ms": "1560317394922",
+            "place": {
+                "id": "009924a469d7ace1",
+                "country_code": "EC",
+                "name": "Guayaquil",
+                "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+                "country": "Ecuador",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -80.467605,
+                                -3.063716
+                            ],
+                            [
+                                -80.467605,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -3.063716
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "place_type": "city",
+                "full_name": "Guayaquil, Ecuador",
+                "attributes": {}
+            },
+            "lang": "und",
+            "created_at": "Wed Jun 12 05:29:54 +0000 2019",
+            "is_quote_status": true,
+            "user": {
+                "favourites_count": 4015,
+                "contributors_enabled": false,
+                "statuses_count": 1147,
+                "profile_background_tile": false,
+                "name": "\ud83c\udde9\ud83c\uddea \ud835\udd7a\ud835\udd91\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97 \ud835\udd78\ud835\udd8e\ud835\udd88\ud835\udd8d\ud835\udd86\ud835\udd8a\ud835\udd91 \ud83c\uddea\ud83c\udde8",
+                "url": "http://www.platincoinecuador.com",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/726901164416110592/1552247177",
+                "utc_offset": null,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1104830067790790656/zxHyQ5OU_normal.jpg",
+                "listed_count": 0,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104830067790790656/zxHyQ5OU_normal.jpg",
+                "profile_text_color": "333333",
+                "location": "Guayaquil, Ecuador",
+                "time_zone": null,
+                "profile_background_image_url_https": "",
+                "notifications": null,
+                "friends_count": 181,
+                "screen_name": "OliverEC101",
+                "followers_count": 64,
+                "lang": null,
+                "created_at": "Sun May 01 22:28:37 +0000 2016",
+                "following": null,
+                "follow_request_sent": null,
+                "geo_enabled": true,
+                "verified": false,
+                "id_str": "726901164416110592",
+                "protected": false,
+                "default_profile": true,
+                "profile_sidebar_border_color": "C0DEED",
+                "default_profile_image": false,
+                "profile_background_image_url": "",
+                "profile_background_color": "F5F8FA",
+                "profile_use_background_image": true,
+                "profile_link_color": "1DA1F2",
+                "translator_type": "none",
+                "id": 726901164416110592,
+                "is_translator": false,
+                "description": "Top Leader \ud83d\udc8e",
+                "profile_sidebar_fill_color": "DDEEF6"
+            },
+            "coordinates": null,
+            "extended_tweet": {
+                "display_text_range": [
+                    0,
+                    276
+                ],
+                "full_text": "@CristinaReyesec @ProfHoax__ @viviecuador @andrespaezec @CuenteroMuisne @HectorYepezM @parosemena @abdalabucaram @bliemsrieder @fernandobalda @bonilcaricatura @daloes10 @fabriciocorread @Jeanninecruzz @cdohrlancero @CesarMontufar51 @levantate_e @ParaguasDPutin @CrudoEcuador10",
+                "entities": {
+                    "hashtags": [],
+                    "user_mentions": [
+                        {
+                            "id": 220332032,
+                            "id_str": "220332032",
+                            "screen_name": "CristinaReyesec",
+                            "name": "Cristina Reyes Hidalgo",
+                            "indices": [
+                                0,
+                                16
+                            ]
+                        },
+                        {
+                            "id": 309985367,
+                            "id_str": "309985367",
+                            "screen_name": "ProfHoax__",
+                            "name": "ProfHoax \u00ae \ud83c\udf0a\ud83d\udc99",
+                            "indices": [
+                                17,
+                                28
+                            ]
+                        },
+                        {
+                            "id": 2293822722,
+                            "id_str": "2293822722",
+                            "screen_name": "viviecuador",
+                            "name": "viviecuador",
+                            "indices": [
+                                29,
+                                41
+                            ]
+                        },
+                        {
+                            "id": 239938002,
+                            "id_str": "239938002",
+                            "screen_name": "andrespaezec",
+                            "name": "Andr\u00e9s P\u00e1ez",
+                            "indices": [
+                                42,
+                                55
+                            ]
+                        },
+                        {
+                            "id": 3361771708,
+                            "id_str": "3361771708",
+                            "screen_name": "CuenteroMuisne",
+                            "name": "Cuentero de Muisne",
+                            "indices": [
+                                56,
+                                71
+                            ]
+                        },
+                        {
+                            "id": 151485865,
+                            "id_str": "151485865",
+                            "screen_name": "HectorYepezM",
+                            "name": "H\u00e9ctor Y\u00e9pez Mart\u00ednez \ud83c\uddea\ud83c\udde8",
+                            "indices": [
+                                72,
+                                85
+                            ]
+                        },
+                        {
+                            "id": 236994974,
+                            "id_str": "236994974",
+                            "screen_name": "parosemena",
+                            "name": "Pablo Arosemena",
+                            "indices": [
+                                86,
+                                97
+                            ]
+                        },
+                        {
+                            "id": 151635175,
+                            "id_str": "151635175",
+                            "screen_name": "abdalabucaram",
+                            "name": "Abdala Bucaram Ortiz",
+                            "indices": [
+                                98,
+                                112
+                            ]
+                        },
+                        {
+                            "id": 2388426726,
+                            "id_str": "2388426726",
+                            "screen_name": "bliemsrieder",
+                            "name": "Michael Bliemsrieder",
+                            "indices": [
+                                113,
+                                126
+                            ]
+                        },
+                        {
+                            "id": 231307908,
+                            "id_str": "231307908",
+                            "screen_name": "fernandobalda",
+                            "name": "FERNANDO BALDA",
+                            "indices": [
+                                127,
+                                141
+                            ]
+                        },
+                        {
+                            "id": 217493607,
+                            "id_str": "217493607",
+                            "screen_name": "bonilcaricatura",
+                            "name": "Xavier Bonilla",
+                            "indices": [
+                                142,
+                                158
+                            ]
+                        },
+                        {
+                            "id": 18661588,
+                            "id_str": "18661588",
+                            "screen_name": "daloes10",
+                            "name": "Dalo Bucaram",
+                            "indices": [
+                                159,
+                                168
+                            ]
+                        },
+                        {
+                            "id": 731542437508857856,
+                            "id_str": "731542437508857856",
+                            "screen_name": "fabriciocorread",
+                            "name": "Fabricio Correa",
+                            "indices": [
+                                169,
+                                185
+                            ]
+                        },
+                        {
+                            "id": 190826809,
+                            "id_str": "190826809",
+                            "screen_name": "Jeanninecruzz",
+                            "name": "Jeannine Cruz",
+                            "indices": [
+                                186,
+                                200
+                            ]
+                        },
+                        {
+                            "id": 1504540586,
+                            "id_str": "1504540586",
+                            "screen_name": "cdohrlancero",
+                            "name": "CAP. Edwin Ortega",
+                            "indices": [
+                                201,
+                                214
+                            ]
+                        },
+                        {
+                            "id": 962572027,
+                            "id_str": "962572027",
+                            "screen_name": "CesarMontufar51",
+                            "name": "C\u00e9sar Mont\u00fafar",
+                            "indices": [
+                                215,
+                                231
+                            ]
+                        },
+                        {
+                            "id": 713007427604635648,
+                            "id_str": "713007427604635648",
+                            "screen_name": "levantate_e",
+                            "name": "Mr Demus Kratos",
+                            "indices": [
+                                232,
+                                244
+                            ]
+                        },
+                        {
+                            "id": 1018653660023226368,
+                            "id_str": "1018653660023226368",
+                            "screen_name": "ParaguasDPutin",
+                            "name": "El Paraguas de Putin",
+                            "indices": [
+                                245,
+                                260
+                            ]
+                        },
+                        {
+                            "id": 2873384314,
+                            "id_str": "2873384314",
+                            "screen_name": "CrudoEcuador10",
+                            "name": "Crudo Ecuador 10",
+                            "indices": [
+                                261,
+                                276
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "symbols": []
+                }
+            },
+            "id_str": "1138679801248735232",
+            "quoted_status_permalink": {
+                "url": "https://t.co/ACxrW2V3EB",
+                "display": "twitter.com/OliverEC101/st\u2026",
+                "expanded": "https://twitter.com/OliverEC101/status/1138678617020522496"
+            },
+            "text": "@CristinaReyesec @ProfHoax__ @viviecuador @andrespaezec @CuenteroMuisne @HectorYepezM @parosemena @abdalabucaram\u2026 https://t.co/P6eYd5HvCr",
+            "in_reply_to_user_id": 220332032,
+            "retweet_count": 0,
+            "id": 1138679801248735232,
+            "in_reply_to_status_id_str": null,
+            "retweeted": false,
+            "in_reply_to_user_id_str": "220332032"
+        },
+        {
+            "filter_level": "low",
+            "truncated": true,
+            "coordinates": null,
+            "entities": {
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/RDSRtiOzg4",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/1138680013035900928",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "symbols": []
+            },
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "reply_count": 0,
+            "in_reply_to_status_id": null,
+            "favorited": false,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "contributors": null,
+            "timestamp_ms": "1560317445416",
+            "place": {
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -79.892494,
+                                -2.159323
+                            ],
+                            [
+                                -79.892494,
+                                -1.863649
+                            ],
+                            [
+                                -79.648594,
+                                -1.863649
+                            ],
+                            [
+                                -79.648594,
+                                -2.159323
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "country_code": "EC",
+                "name": "Samborondon",
+                "url": "https://api.twitter.com/1.1/geo/id/016d8a4a6eb3af15.json",
+                "country": "Ecuador",
+                "id": "016d8a4a6eb3af15",
+                "place_type": "city",
+                "full_name": "Samborondon, Ecuador",
+                "attributes": {}
+            },
+            "lang": "es",
+            "created_at": "Wed Jun 12 05:30:45 +0000 2019",
+            "retweeted": false,
+            "user": {
+                "favourites_count": 337,
+                "contributors_enabled": false,
+                "statuses_count": 737,
+                "profile_background_tile": false,
+                "translator_type": "none",
+                "following": null,
+                "profile_text_color": "333333",
+                "url": null,
+                "utc_offset": null,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2240118372/23778_1411427762735_1143720593_1217172_2014836_n_normal.jpg",
+                "friends_count": 326,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2240118372/23778_1411427762735_1143720593_1217172_2014836_n_normal.jpg",
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "time_zone": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "notifications": null,
+                "listed_count": 3,
+                "screen_name": "AndreitaMaciasH",
+                "followers_count": 426,
+                "lang": null,
+                "created_at": "Thu Jul 07 04:09:17 +0000 2011",
+                "profile_link_color": "1DA1F2",
+                "follow_request_sent": null,
+                "geo_enabled": true,
+                "verified": false,
+                "id_str": "330776863",
+                "protected": false,
+                "default_profile": true,
+                "profile_sidebar_border_color": "C0DEED",
+                "default_profile_image": false,
+                "location": null,
+                "profile_use_background_image": true,
+                "is_translator": false,
+                "name": "Andrea Macias Huerta",
+                "id": 330776863,
+                "description": null,
+                "profile_sidebar_fill_color": "DDEEF6"
+            },
+            "favorite_count": 0,
+            "text": "Que pena decirlo, pero si no pueden controlar a los delincuentes que tienen encerrados en las c\u00e1rceles como pretend\u2026 https://t.co/RDSRtiOzg4",
+            "id_str": "1138680013035900928",
+            "geo": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_user_id": null,
+            "retweet_count": 0,
+            "id": 1138680013035900928,
+            "in_reply_to_status_id_str": null,
+            "extended_tweet": {
+                "display_text_range": [
+                    0,
+                    159
+                ],
+                "full_text": "Que pena decirlo, pero si no pueden controlar a los delincuentes que tienen encerrados en las c\u00e1rceles como pretenden controlar a los que est\u00e1n libres afuera??",
+                "entities": {
+                    "hashtags": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "symbols": []
+                }
+            },
+            "is_quote_status": false
+        }
+    ]
+}
