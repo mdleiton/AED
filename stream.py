@@ -24,7 +24,7 @@ class TweetsListener(StreamListener):
             self.contador = 0
             self.fecha = self.path + fecha + "/" + fecha + str(self.file) +".json"
             if not os.path.exists(self.fecha):
-	        data_ = {"data":[]}
+                data_ = {"data":[]}
                 with open(self.fecha, 'w') as outfile:  
                     json.dump(data_, outfile,indent=4)  
         tweet = json.loads(data)
