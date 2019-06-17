@@ -21,6 +21,9 @@ NEWSPIDER_MODULE = 'edina.spiders'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 
+# Rate Limits
+DOWNLOAD_DELAY = 1 # 1 s of delay
+
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 

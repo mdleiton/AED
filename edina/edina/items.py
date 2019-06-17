@@ -10,5 +10,8 @@ import scrapy
 
 class EdinaItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
+    name = scrapy.Field()
+    direction = scrapy.Field()
+    category = scrapy.Field()
+    website = scrapy.Field()
     pass
