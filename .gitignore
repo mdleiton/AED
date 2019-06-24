@@ -1,3 +1,4 @@
 env/
 conf_twitter.json
 __pycache__/
+*.csv
