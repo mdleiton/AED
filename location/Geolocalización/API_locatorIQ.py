@@ -9,7 +9,7 @@ import datetime
 
 # Initial values
 URL = "https://us1.locationiq.com/v1/search.php"
-
+VIEWBOX_GUAYAQUIL = '-79.95912,-2.287573,-79.856351,-2.053362'
 KEYS = [
     #Byron
     #'42e21cf0c2eb57',
@@ -54,9 +54,9 @@ def create_query(row):
         query += ', '+row.loc['DESCRIPCION_CANTON']
     if row.loc['DESCRIPCION_PARROQUIA']:
         query += ', '+row.loc['DESCRIPCION_PARROQUIA']
-    if row.loc['CALLE']:
+    if str(row.loc['CALLE']) != 'S/N':
         query += ', '+str(row.loc['CALLE'])
-    if row.loc['INTERSECCION']:
+    if str(row.loc['INTERSECCION']) != 'S/N':
         query += ' y '+str(row.loc['INTERSECCION'])
     return query
 
@@ -64,7 +64,9 @@ def get_response(key,query):
     data = {
         'key':key,
         'q': query,
-        'format': 'json'
+        'format': 'json',
+        'viewbox' = VIEWBOX_GUAYAQUIL,
+        'bounded' = 1
     }
     return requests.get(URL, params=data)
 
