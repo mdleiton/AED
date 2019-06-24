@@ -1,0 +1,1369 @@
+{
+    "data": [
+        {
+            "quoted_status_permalink": {
+                "expanded": "https://twitter.com/InformacionCABJ/status/1142990776097546240",
+                "url": "https://t.co/6u38nbc5HJ",
+                "display": "twitter.com/InformacionCAB\u2026"
+            },
+            "contributors": null,
+            "lang": "es",
+            "is_quote_status": true,
+            "filter_level": "low",
+            "id_str": "1142994312470380545",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "timestamp_ms": "1561346054557",
+            "quoted_status": {
+                "contributors": null,
+                "lang": "es",
+                "filter_level": "low",
+                "id_str": "1142990776097546240",
+                "in_reply_to_screen_name": null,
+                "in_reply_to_status_id": null,
+                "quote_count": 18,
+                "in_reply_to_status_id_str": null,
+                "reply_count": 2,
+                "retweet_count": 247,
+                "in_reply_to_user_id_str": null,
+                "coordinates": null,
+                "truncated": true,
+                "text": "\ud83c\udf82 \u00a1FELIZ CUMPLE, ROM\u00c1N \ud83d\udd1f! \n\n\u27a1 388 partidos\n\u26bd 92 goles\n\ud83c\udfaf 119 asistencias\n\ud83c\udfc6 11 t\u00edtulos (Apertura 1998, 2000, 2008 y 2\u2026 https://t.co/nwRThG8oT9",
+                "created_at": "Mon Jun 24 03:00:11 +0000 2019",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "url": "https://t.co/nwRThG8oT9",
+                            "expanded_url": "https://twitter.com/i/web/status/1142990776097546240",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "symbols": [],
+                    "hashtags": []
+                },
+                "geo": null,
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "favorite_count": 572,
+                "in_reply_to_user_id": null,
+                "place": null,
+                "extended_tweet": {
+                    "entities": {
+                        "hashtags": [
+                            {
+                                "text": "41A\u00f1osDeROMANce",
+                                "indices": [
+                                    226,
+                                    242
+                                ]
+                            }
+                        ],
+                        "media": [
+                            {
+                                "source_status_id": 1010719223126134784,
+                                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1010718141746434048/pu/img/Ok2Xv-59gdCtjDjg.jpg",
+                                "expanded_url": "https://twitter.com/InformacionCABJ/status/1010719223126134784/video/1",
+                                "additional_media_info": {
+                                    "monetizable": false
+                                },
+                                "id_str": "1010718141746434048",
+                                "source_user_id_str": "324042128",
+                                "video_info": {
+                                    "aspect_ratio": [
+                                        16,
+                                        9
+                                    ],
+                                    "variants": [
+                                        {
+                                            "bitrate": 256000,
+                                            "url": "https://video.twimg.com/ext_tw_video/1010718141746434048/pu/vid/320x180/7hsnBN2JhRDSVdpc.mp4?tag=3",
+                                            "content_type": "video/mp4"
+                                        },
+                                        {
+                                            "content_type": "application/x-mpegURL",
+                                            "url": "https://video.twimg.com/ext_tw_video/1010718141746434048/pu/pl/AZFdxXVCAfNBGYAG.m3u8?tag=3"
+                                        },
+                                        {
+                                            "bitrate": 832000,
+                                            "url": "https://video.twimg.com/ext_tw_video/1010718141746434048/pu/vid/640x360/CmQCXJicSZFOP9Kn.mp4?tag=3",
+                                            "content_type": "video/mp4"
+                                        }
+                                    ],
+                                    "duration_millis": 14500
+                                },
+                                "source_status_id_str": "1010719223126134784",
+                                "type": "video",
+                                "display_url": "pic.twitter.com/EjarAkqLVC",
+                                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1010718141746434048/pu/img/Ok2Xv-59gdCtjDjg.jpg",
+                                "sizes": {
+                                    "large": {
+                                        "h": 360,
+                                        "resize": "fit",
+                                        "w": 640
+                                    },
+                                    "thumb": {
+                                        "h": 150,
+                                        "resize": "crop",
+                                        "w": 150
+                                    },
+                                    "medium": {
+                                        "h": 360,
+                                        "resize": "fit",
+                                        "w": 640
+                                    },
+                                    "small": {
+                                        "h": 360,
+                                        "resize": "fit",
+                                        "w": 640
+                                    }
+                                },
+                                "id": 1010718141746434048,
+                                "indices": [
+                                    247,
+                                    270
+                                ],
+                                "url": "https://t.co/EjarAkqLVC",
+                                "source_user_id": 324042128
+                            }
+                        ],
+                        "urls": [],
+                        "symbols": [],
+                        "user_mentions": []
+                    },
+                    "full_text": "\ud83c\udf82 \u00a1FELIZ CUMPLE, ROM\u00c1N \ud83d\udd1f! \n\n\u27a1 388 partidos\n\u26bd 92 goles\n\ud83c\udfaf 119 asistencias\n\ud83c\udfc6 11 t\u00edtulos (Apertura 1998, 2000, 2008 y 2011, Clausura 1999, Libertadores 2000, 2001 y 2007, Intercontinental 2000, Recopa 2008 y Copa Argentina 2012)\n\n#41A\u00f1osDeROMANce \ud83d\udc99\ud83d\udc9b\ud83d\udc99 https://t.co/EjarAkqLVC",
+                    "display_text_range": [
+                        0,
+                        270
+                    ],
+                    "extended_entities": {
+                        "media": [
+                            {
+                                "source_status_id": 1010719223126134784,
+                                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1010718141746434048/pu/img/Ok2Xv-59gdCtjDjg.jpg",
+                                "expanded_url": "https://twitter.com/InformacionCABJ/status/1010719223126134784/video/1",
+                                "additional_media_info": {
+                                    "monetizable": false
+                                },
+                                "id_str": "1010718141746434048",
+                                "source_user_id_str": "324042128",
+                                "video_info": {
+                                    "aspect_ratio": [
+                                        16,
+                                        9
+                                    ],
+                                    "variants": [
+                                        {
+                                            "bitrate": 256000,
+                                            "url": "https://video.twimg.com/ext_tw_video/1010718141746434048/pu/vid/320x180/7hsnBN2JhRDSVdpc.mp4?tag=3",
+                                            "content_type": "video/mp4"
+                                        },
+                                        {
+                                            "content_type": "application/x-mpegURL",
+                                            "url": "https://video.twimg.com/ext_tw_video/1010718141746434048/pu/pl/AZFdxXVCAfNBGYAG.m3u8?tag=3"
+                                        },
+                                        {
+                                            "bitrate": 832000,
+                                            "url": "https://video.twimg.com/ext_tw_video/1010718141746434048/pu/vid/640x360/CmQCXJicSZFOP9Kn.mp4?tag=3",
+                                            "content_type": "video/mp4"
+                                        }
+                                    ],
+                                    "duration_millis": 14500
+                                },
+                                "source_status_id_str": "1010719223126134784",
+                                "type": "video",
+                                "display_url": "pic.twitter.com/EjarAkqLVC",
+                                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1010718141746434048/pu/img/Ok2Xv-59gdCtjDjg.jpg",
+                                "sizes": {
+                                    "large": {
+                                        "h": 360,
+                                        "resize": "fit",
+                                        "w": 640
+                                    },
+                                    "thumb": {
+                                        "h": 150,
+                                        "resize": "crop",
+                                        "w": 150
+                                    },
+                                    "medium": {
+                                        "h": 360,
+                                        "resize": "fit",
+                                        "w": 640
+                                    },
+                                    "small": {
+                                        "h": 360,
+                                        "resize": "fit",
+                                        "w": 640
+                                    }
+                                },
+                                "id": 1010718141746434048,
+                                "indices": [
+                                    247,
+                                    270
+                                ],
+                                "url": "https://t.co/EjarAkqLVC",
+                                "source_user_id": 324042128
+                            }
+                        ]
+                    }
+                },
+                "favorited": false,
+                "possibly_sensitive": false,
+                "retweeted": false,
+                "id": 1142990776097546240,
+                "user": {
+                    "default_profile": false,
+                    "verified": false,
+                    "contributors_enabled": false,
+                    "default_profile_image": false,
+                    "utc_offset": null,
+                    "id_str": "324042128",
+                    "time_zone": null,
+                    "lang": null,
+                    "profile_text_color": "666666",
+                    "is_translator": false,
+                    "follow_request_sent": null,
+                    "followers_count": 262245,
+                    "protected": false,
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "statuses_count": 125415,
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/811664766078976001/pR5jGcW7_normal.jpg",
+                    "screen_name": "InformacionCABJ",
+                    "friends_count": 4713,
+                    "favourites_count": 1113,
+                    "following": null,
+                    "profile_background_tile": false,
+                    "location": "La Bombonera",
+                    "profile_background_color": "1A1B1F",
+                    "listed_count": 524,
+                    "translator_type": "none",
+                    "created_at": "Sat Jun 25 22:06:27 +0000 2011",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/324042128/1482349951",
+                    "profile_link_color": "FFCC4D",
+                    "profile_sidebar_fill_color": "252429",
+                    "geo_enabled": false,
+                    "notifications": null,
+                    "description": "Medio partidario referido \u00fanicamente a Boca Juniors. Due\u00f1o: @JulianPatrici.\n Staff TW: @Aguscalvo, @JulioBritez12 y @yoheitmann.  Facebook: http://goo.gl/JUWkBP",
+                    "profile_use_background_image": false,
+                    "id": 324042128,
+                    "name": "Informaci\u00f3n CABJ",
+                    "url": "http://Instagram.com/informacioncabj/",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/811664766078976001/pR5jGcW7_normal.jpg"
+                },
+                "is_quote_status": false
+            },
+            "place": {
+                "place_type": "city",
+                "name": "Gualaceo",
+                "full_name": "Gualaceo, Ecuador",
+                "attributes": {},
+                "id": "002be3816d236888",
+                "country_code": "EC",
+                "url": "https://api.twitter.com/1.1/geo/id/002be3816d236888.json",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -78.916114,
+                                -3.029483
+                            ],
+                            [
+                                -78.916114,
+                                -2.806139
+                            ],
+                            [
+                                -78.630911,
+                                -2.806139
+                            ],
+                            [
+                                -78.630911,
+                                -3.029483
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "country": "Ecuador"
+            },
+            "in_reply_to_status_id_str": null,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "in_reply_to_user_id_str": null,
+            "coordinates": null,
+            "truncated": false,
+            "text": "El mejor jugador que vi en mis 22 a\u00f1os, la Libertadores  del 2007 es si mejor recital. #JRR10 #ElUltimoDiez",
+            "created_at": "Mon Jun 24 03:14:14 +0000 2019",
+            "entities": {
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "hashtags": [
+                    {
+                        "text": "JRR10",
+                        "indices": [
+                            87,
+                            93
+                        ]
+                    },
+                    {
+                        "text": "ElUltimoDiez",
+                        "indices": [
+                            94,
+                            107
+                        ]
+                    }
+                ]
+            },
+            "quoted_status_id": 1142990776097546240,
+            "quoted_status_id_str": "1142990776097546240",
+            "in_reply_to_screen_name": null,
+            "favorite_count": 0,
+            "in_reply_to_user_id": null,
+            "favorited": false,
+            "retweeted": false,
+            "id": 1142994312470380545,
+            "user": {
+                "default_profile": false,
+                "verified": false,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "utc_offset": null,
+                "id_str": "308056457",
+                "time_zone": null,
+                "lang": null,
+                "profile_text_color": "666666",
+                "is_translator": false,
+                "follow_request_sent": null,
+                "followers_count": 772,
+                "protected": false,
+                "profile_sidebar_border_color": "181A1E",
+                "statuses_count": 5157,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1110722123889299456/RqAca9sU_normal.jpg",
+                "screen_name": "juanpiavecillas",
+                "friends_count": 3805,
+                "favourites_count": 65251,
+                "following": null,
+                "profile_background_tile": false,
+                "location": "Ecuador",
+                "profile_background_color": "1A1B1F",
+                "listed_count": 1,
+                "translator_type": "none",
+                "created_at": "Mon May 30 19:15:51 +0000 2011",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/308056457/1560199222",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_fill_color": "252429",
+                "geo_enabled": true,
+                "notifications": null,
+                "description": "Cerati y Bunbury,\nMessi y Rom\u00e1n,\nLiga y Boca,\nH\u00e9roes del Silencio y Soda Stereo.",
+                "profile_use_background_image": true,
+                "id": 308056457,
+                "name": "Juan Pablo Avecillas",
+                "url": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110722123889299456/RqAca9sU_normal.jpg"
+            },
+            "geo": null
+        },
+        {
+            "contributors": null,
+            "lang": "es",
+            "filter_level": "low",
+            "id_str": "1142994393063972870",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "timestamp_ms": "1561346073772",
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id_str": null,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_user_id": null,
+            "truncated": false,
+            "text": "Sobre los mandiles rosados (1) https://t.co/x6bDxqdmeo",
+            "created_at": "Mon Jun 24 03:14:33 +0000 2019",
+            "entities": {
+                "symbols": [],
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/x6bDxqdmeo",
+                        "media_url_https": "https://pbs.twimg.com/media/D9y7VJ9XYAERQLd.png",
+                        "media_url": "http://pbs.twimg.com/media/D9y7VJ9XYAERQLd.png",
+                        "expanded_url": "https://twitter.com/Tedfarfan/status/1142994393063972870/photo/1",
+                        "sizes": {
+                            "large": {
+                                "h": 357,
+                                "resize": "fit",
+                                "w": 766
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            },
+                            "medium": {
+                                "h": 357,
+                                "resize": "fit",
+                                "w": 766
+                            },
+                            "small": {
+                                "h": 317,
+                                "resize": "fit",
+                                "w": 680
+                            }
+                        },
+                        "id_str": "1142994377570213889",
+                        "id": 1142994377570213889,
+                        "type": "photo",
+                        "url": "https://t.co/x6bDxqdmeo",
+                        "indices": [
+                            31,
+                            54
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "hashtags": []
+            },
+            "favorited": false,
+            "geo": null,
+            "favorite_count": 0,
+            "coordinates": null,
+            "place": {
+                "place_type": "country",
+                "country_code": "PE",
+                "full_name": "Peru",
+                "attributes": {},
+                "id": "2dfa9ecb0179a4e4",
+                "name": "Peru",
+                "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -81.328148,
+                                -18.349728
+                            ],
+                            [
+                                -81.328148,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -18.349728
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "country": "Peru"
+            },
+            "display_text_range": [
+                0,
+                30
+            ],
+            "possibly_sensitive": false,
+            "retweeted": false,
+            "id": 1142994393063972870,
+            "user": {
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/991544394384896000/ZQwNx66v_normal.jpg",
+                "following": null,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "utc_offset": null,
+                "id_str": "915941682",
+                "time_zone": null,
+                "profile_text_color": "000000",
+                "is_translator": false,
+                "follow_request_sent": null,
+                "followers_count": 637,
+                "protected": false,
+                "profile_sidebar_border_color": "000000",
+                "statuses_count": 19842,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/991544394384896000/ZQwNx66v_normal.jpg",
+                "screen_name": "Tedfarfan",
+                "friends_count": 326,
+                "profile_background_color": "000000",
+                "favourites_count": 3147,
+                "default_profile": false,
+                "profile_background_tile": false,
+                "location": "Lima, Peru   \ud83c\uddf5\ud83c\uddea",
+                "created_at": "Wed Oct 31 02:13:05 +0000 2012",
+                "translator_type": "none",
+                "lang": null,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/915941682/1525011241",
+                "profile_link_color": "9B0909",
+                "profile_sidebar_fill_color": "000000",
+                "geo_enabled": true,
+                "notifications": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "description": "Analista basado en evidencias no en simpat\u00edas. No defiendo a nadie, no  tolero campa\u00f1as de desinformaci\u00f3n.Informarse para no ser manipulado.  Eterno aprendiz",
+                "profile_use_background_image": false,
+                "id": 915941682,
+                "name": "Ted Farf\u00e1n",
+                "url": null,
+                "listed_count": 6,
+                "verified": false
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "display_url": "pic.twitter.com/x6bDxqdmeo",
+                        "media_url_https": "https://pbs.twimg.com/media/D9y7VJ9XYAERQLd.png",
+                        "media_url": "http://pbs.twimg.com/media/D9y7VJ9XYAERQLd.png",
+                        "expanded_url": "https://twitter.com/Tedfarfan/status/1142994393063972870/photo/1",
+                        "sizes": {
+                            "large": {
+                                "h": 357,
+                                "resize": "fit",
+                                "w": 766
+                            },
+                            "thumb": {
+                                "h": 150,
+                                "resize": "crop",
+                                "w": 150
+                            },
+                            "medium": {
+                                "h": 357,
+                                "resize": "fit",
+                                "w": 766
+                            },
+                            "small": {
+                                "h": 317,
+                                "resize": "fit",
+                                "w": 680
+                            }
+                        },
+                        "id_str": "1142994377570213889",
+                        "id": 1142994377570213889,
+                        "type": "photo",
+                        "url": "https://t.co/x6bDxqdmeo",
+                        "indices": [
+                            31,
+                            54
+                        ]
+                    }
+                ]
+            },
+            "is_quote_status": false
+        },
+        {
+            "contributors": null,
+            "lang": "es",
+            "filter_level": "low",
+            "id_str": "1142994576958984192",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "timestamp_ms": "1561346117616",
+            "quote_count": 0,
+            "in_reply_to_status_id_str": null,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_user_id": null,
+            "truncated": false,
+            "text": "Ese chico que est\u00e1 asustado huyendo de las chavas si ya es Aristoteles y no Emilio jajaja\n\n#EstrenoECNSE",
+            "created_at": "Mon Jun 24 03:15:17 +0000 2019",
+            "entities": {
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "hashtags": [
+                    {
+                        "text": "EstrenoECNSE",
+                        "indices": [
+                            91,
+                            104
+                        ]
+                    }
+                ]
+            },
+            "geo": null,
+            "in_reply_to_screen_name": null,
+            "favorite_count": 0,
+            "coordinates": null,
+            "place": {
+                "place_type": "country",
+                "name": "Colombia",
+                "full_name": "Colombia",
+                "attributes": {},
+                "id": "0639360bd49a15e3",
+                "country_code": "CO",
+                "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -81.728111,
+                                -4.227073
+                            ],
+                            [
+                                -81.728111,
+                                13.390292
+                            ],
+                            [
+                                -66.854502,
+                                13.390292
+                            ],
+                            [
+                                -66.854502,
+                                -4.227073
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "country": "Colombia"
+            },
+            "favorited": false,
+            "retweeted": false,
+            "id": 1142994576958984192,
+            "user": {
+                "default_profile": true,
+                "verified": false,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "utc_offset": null,
+                "id_str": "1054948040874885121",
+                "time_zone": null,
+                "profile_text_color": "333333",
+                "is_translator": false,
+                "follow_request_sent": null,
+                "followers_count": 1642,
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "statuses_count": 12981,
+                "profile_background_image_url": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1142220377512382464/jNG9ddsh_normal.jpg",
+                "screen_name": "ElArnoldo_",
+                "friends_count": 1384,
+                "favourites_count": 26917,
+                "created_at": "Wed Oct 24 04:09:47 +0000 2018",
+                "following": null,
+                "profile_background_tile": false,
+                "location": "Colombia \ud83c\udde8\ud83c\uddf4",
+                "profile_background_color": "F5F8FA",
+                "listed_count": 1,
+                "translator_type": "none",
+                "lang": null,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1054948040874885121/1554955228",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "geo_enabled": true,
+                "notifications": null,
+                "description": "De d\u00eda soy f\u00edsico de noche una se\u00f1ora extricta que llama confundidos a los geis  Mejorando el mundo desde 1996.",
+                "profile_use_background_image": true,
+                "id": 1054948040874885121,
+                "name": "Dora Arnoldo Ortega. \ud83c\udde8\ud83c\uddf4",
+                "url": null,
+                "profile_background_image_url_https": "",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142220377512382464/jNG9ddsh_normal.jpg"
+            },
+            "is_quote_status": false
+        },
+        {
+            "contributors": null,
+            "lang": "es",
+            "filter_level": "low",
+            "id_str": "1142994795956191233",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "timestamp_ms": "1561346169829",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "quote_count": 0,
+            "in_reply_to_status_id_str": null,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "in_reply_to_user_id_str": null,
+            "coordinates": null,
+            "truncated": false,
+            "text": "mi celular\u2014 /se mete un trancazo\n\n#EstrenoECNSE",
+            "created_at": "Mon Jun 24 03:16:09 +0000 2019",
+            "entities": {
+                "urls": [],
+                "symbols": [],
+                "user_mentions": [],
+                "hashtags": [
+                    {
+                        "text": "EstrenoECNSE",
+                        "indices": [
+                            34,
+                            47
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "geo": null,
+            "favorite_count": 0,
+            "in_reply_to_user_id": null,
+            "place": {
+                "place_type": "country",
+                "country_code": "CO",
+                "full_name": "Colombia",
+                "attributes": {},
+                "id": "0639360bd49a15e3",
+                "name": "Colombia",
+                "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -81.728111,
+                                -4.227073
+                            ],
+                            [
+                                -81.728111,
+                                13.390292
+                            ],
+                            [
+                                -66.854502,
+                                13.390292
+                            ],
+                            [
+                                -66.854502,
+                                -4.227073
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "country": "Colombia"
+            },
+            "retweeted": false,
+            "id": 1142994795956191233,
+            "user": {
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140830882355449856/BtV4gTja_normal.jpg",
+                "following": null,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "utc_offset": null,
+                "id_str": "1129436584586162182",
+                "time_zone": null,
+                "lang": null,
+                "profile_text_color": "333333",
+                "is_translator": false,
+                "follow_request_sent": null,
+                "followers_count": 70,
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "statuses_count": 582,
+                "profile_background_image_url": "",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1140830882355449856/BtV4gTja_normal.jpg",
+                "screen_name": "mailolovebot",
+                "friends_count": 109,
+                "favourites_count": 485,
+                "default_profile": true,
+                "profile_background_tile": false,
+                "location": "emilio's smile",
+                "profile_background_color": "F5F8FA",
+                "translator_type": "none",
+                "created_at": "Fri May 17 17:20:40 +0000 2019",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1129436584586162182/1560830251",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "geo_enabled": true,
+                "notifications": null,
+                "profile_background_image_url_https": "",
+                "description": "\u21ac 1:46 \u2500\u2500\u2500\u2500\u2500\u25cf\u2500\u2500\u2500\u2500\u2500\u2500 3:59\n@mailomarcos @JoaquinBondoni \ud83e\udd1f\ud83d\udc97\u270c\n                             \u275b \u00bfc\u00f3mo cabe tanta perfecci\u00f3n, en tu cuerpo y en tu coraz\u00f3n? \ud83d\ude80\ud83d\udc9c",
+                "profile_use_background_image": true,
+                "id": 1129436584586162182,
+                "name": "aby \ud83c\udde8\ud83c\uddf4 [HOY JUEMADRE]",
+                "url": null,
+                "listed_count": 5,
+                "verified": false
+            },
+            "is_quote_status": false
+        },
+        {
+            "contributors": null,
+            "lang": "es",
+            "extended_tweet": {
+                "entities": {
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1134238091051487237",
+                            "id": 1134238091051487237,
+                            "name": "sebastian",
+                            "screen_name": "SebastianLoay16",
+                            "indices": [
+                                0,
+                                16
+                            ]
+                        },
+                        {
+                            "id_str": "4452890315",
+                            "id": 4452890315,
+                            "name": "Jos\u00e9 Barba Caballero",
+                            "screen_name": "JBCPERU",
+                            "indices": [
+                                17,
+                                25
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "hashtags": []
+                },
+                "full_text": "@SebastianLoay16 @JBCPERU El problema es la ignorancia de algunos q no se da cuenta que estos fiscales han perdido toda credibilidad, se jactan de luchar contra la corrupci\u00f3n solo han demostrado ser traidores, mas aun cuando est\u00e1n digitados por un despreciable defensor de terrucos y corruptos como Gorriti",
+                "display_text_range": [
+                    26,
+                    306
+                ]
+            },
+            "filter_level": "low",
+            "id_str": "1142994930568257537",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 1142932770420903936,
+            "timestamp_ms": "1561346201923",
+            "quote_count": 0,
+            "in_reply_to_status_id_str": "1142932770420903936",
+            "reply_count": 0,
+            "retweet_count": 0,
+            "in_reply_to_user_id_str": "1134238091051487237",
+            "coordinates": null,
+            "truncated": true,
+            "text": "@SebastianLoay16 @JBCPERU El problema es la ignorancia de algunos q no se da cuenta que estos fiscales han perdido\u2026 https://t.co/OPxc9rwkcP",
+            "created_at": "Mon Jun 24 03:16:41 +0000 2019",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "url": "https://t.co/OPxc9rwkcP",
+                        "expanded_url": "https://twitter.com/i/web/status/1142994930568257537",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id_str": "1134238091051487237",
+                        "id": 1134238091051487237,
+                        "name": "sebastian",
+                        "screen_name": "SebastianLoay16",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    },
+                    {
+                        "id_str": "4452890315",
+                        "id": 4452890315,
+                        "name": "Jos\u00e9 Barba Caballero",
+                        "screen_name": "JBCPERU",
+                        "indices": [
+                            17,
+                            25
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "hashtags": []
+            },
+            "favorited": false,
+            "in_reply_to_screen_name": "SebastianLoay16",
+            "is_quote_status": false,
+            "favorite_count": 0,
+            "in_reply_to_user_id": 1134238091051487237,
+            "place": {
+                "place_type": "country",
+                "name": "Peru",
+                "full_name": "Peru",
+                "attributes": {},
+                "id": "2dfa9ecb0179a4e4",
+                "country_code": "PE",
+                "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -81.328148,
+                                -18.349728
+                            ],
+                            [
+                                -81.328148,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -18.349728
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "country": "Peru"
+            },
+            "display_text_range": [
+                26,
+                140
+            ],
+            "retweeted": false,
+            "id": 1142994930568257537,
+            "user": {
+                "default_profile": true,
+                "verified": false,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "utc_offset": null,
+                "id_str": "1976987462",
+                "time_zone": null,
+                "profile_text_color": "333333",
+                "is_translator": false,
+                "follow_request_sent": null,
+                "followers_count": 528,
+                "protected": false,
+                "profile_sidebar_border_color": "C0DEED",
+                "statuses_count": 23726,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1052033163898294272/Lag_3tGj_normal.jpg",
+                "screen_name": "R23Era",
+                "friends_count": 790,
+                "profile_background_color": "C0DEED",
+                "favourites_count": 44031,
+                "following": null,
+                "profile_background_tile": false,
+                "location": "Lima- Per\u00fa",
+                "created_at": "Mon Oct 21 01:18:40 +0000 2013",
+                "listed_count": 1,
+                "translator_type": "none",
+                "lang": null,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976987462/1556399277",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "geo_enabled": true,
+                "notifications": null,
+                "description": null,
+                "profile_use_background_image": true,
+                "id": 1976987462,
+                "name": "Raquel",
+                "url": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052033163898294272/Lag_3tGj_normal.jpg"
+            },
+            "geo": null
+        },
+        {
+            "contributors": null,
+            "lang": "es",
+            "filter_level": "low",
+            "id_str": "1142995164371345408",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1142994604893114369,
+            "timestamp_ms": "1561346257666",
+            "quote_count": 0,
+            "in_reply_to_screen_name": "MaFernandaMosc1",
+            "in_reply_to_status_id_str": "1142994604893114369",
+            "reply_count": 0,
+            "retweet_count": 0,
+            "in_reply_to_user_id_str": "1038255223037468677",
+            "in_reply_to_user_id": 1038255223037468677,
+            "truncated": false,
+            "text": "@MaFernandaMosc1 Gracias beb\u00e9 ! \u2763\ufe0f\ud83e\udd70 te quiero",
+            "created_at": "Mon Jun 24 03:17:37 +0000 2019",
+            "entities": {
+                "urls": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "id_str": "1038255223037468677",
+                        "id": 1038255223037468677,
+                        "name": "Ma.Fernanda Moscoso Sarmiento",
+                        "screen_name": "MaFernandaMosc1",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ],
+                "hashtags": []
+            },
+            "favorited": false,
+            "geo": null,
+            "favorite_count": 0,
+            "coordinates": null,
+            "place": {
+                "place_type": "admin",
+                "country_code": "EC",
+                "full_name": "Azuay, Ecuador",
+                "attributes": {},
+                "id": "016b73f534e8d5e5",
+                "name": "Azuay",
+                "url": "https://api.twitter.com/1.1/geo/id/016b73f534e8d5e5.json",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -79.763292,
+                                -3.630016
+                            ],
+                            [
+                                -79.763292,
+                                -2.554768
+                            ],
+                            [
+                                -78.421948,
+                                -2.554768
+                            ],
+                            [
+                                -78.421948,
+                                -3.630016
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "country": "Ecuador"
+            },
+            "display_text_range": [
+                17,
+                45
+            ],
+            "retweeted": false,
+            "id": 1142995164371345408,
+            "user": {
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116135115355295744/A8HS2MRf_normal.jpg",
+                "following": null,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "utc_offset": null,
+                "id_str": "143952549",
+                "time_zone": null,
+                "profile_text_color": "3C3940",
+                "description": "Qui\u00e9n no vive para servir, no sirve para vivir \ud83d\udc95",
+                "follow_request_sent": null,
+                "is_translator": false,
+                "protected": false,
+                "profile_sidebar_border_color": "5ED4DC",
+                "statuses_count": 5761,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1116135115355295744/A8HS2MRf_normal.jpg",
+                "screen_name": "_alep_24",
+                "friends_count": 188,
+                "favourites_count": 821,
+                "created_at": "Fri May 14 22:05:39 +0000 2010",
+                "default_profile": false,
+                "profile_background_tile": true,
+                "location": null,
+                "profile_background_color": "FFCC4D",
+                "translator_type": "none",
+                "lang": null,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/143952549/1484463587",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_fill_color": "95E8EC",
+                "geo_enabled": true,
+                "followers_count": 260,
+                "notifications": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_use_background_image": true,
+                "id": 143952549,
+                "name": "Alexandra Pe\u00f1aranda L.",
+                "url": null,
+                "listed_count": 0,
+                "verified": false
+            },
+            "is_quote_status": false
+        },
+        {
+            "contributors": null,
+            "lang": "es",
+            "extended_tweet": {
+                "entities": {
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "190842959",
+                            "id": 190842959,
+                            "name": "Diana V\u00e1squez",
+                            "screen_name": "dianavasquezj",
+                            "indices": [
+                                0,
+                                14
+                            ]
+                        },
+                        {
+                            "id_str": "731542437508857856",
+                            "id": 731542437508857856,
+                            "name": "Fabricio Correa",
+                            "screen_name": "fabriciocorread",
+                            "indices": [
+                                15,
+                                31
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "hashtags": []
+                },
+                "full_text": "@dianavasquezj @fabriciocorread \u00bfEn qu\u00e9 mundo est\u00e1 viviendo?. \u00bfAcaso no lee las noticias, lo que est\u00e1 pasando en canad\u00e1, Holanda, Dinamarca, Noruega, Finlandia, en algunos estados de USA? Investigue, Todo lo que est\u00e1 pasando ahora se viene planificando desde los 60' y 70', cambiando sistemas jur\u00eddicos de pa\u00edses",
+                "display_text_range": [
+                    32,
+                    312
+                ]
+            },
+            "filter_level": "low",
+            "id_str": "1142995657420132354",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 1142993375110602758,
+            "timestamp_ms": "1561346375218",
+            "place": {
+                "place_type": "country",
+                "name": "Ecuador",
+                "full_name": "Ecuador",
+                "attributes": {},
+                "id": "4e43cac8250a8b20",
+                "country_code": "EC",
+                "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -92.008973,
+                                -5.013285
+                            ],
+                            [
+                                -92.008973,
+                                1.681834
+                            ],
+                            [
+                                -75.192627,
+                                1.681834
+                            ],
+                            [
+                                -75.192627,
+                                -5.013285
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "country": "Ecuador"
+            },
+            "in_reply_to_status_id_str": "1142993375110602758",
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "in_reply_to_user_id_str": "190842959",
+            "coordinates": null,
+            "truncated": true,
+            "text": "@dianavasquezj @fabriciocorread \u00bfEn qu\u00e9 mundo est\u00e1 viviendo?. \u00bfAcaso no lee las noticias, lo que est\u00e1 pasando en ca\u2026 https://t.co/fvqdIQnzqC",
+            "created_at": "Mon Jun 24 03:19:35 +0000 2019",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "url": "https://t.co/fvqdIQnzqC",
+                        "expanded_url": "https://twitter.com/i/web/status/1142995657420132354",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id_str": "190842959",
+                        "id": 190842959,
+                        "name": "Diana V\u00e1squez",
+                        "screen_name": "dianavasquezj",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    },
+                    {
+                        "id_str": "731542437508857856",
+                        "id": 731542437508857856,
+                        "name": "Fabricio Correa",
+                        "screen_name": "fabriciocorread",
+                        "indices": [
+                            15,
+                            31
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "hashtags": []
+            },
+            "favorited": false,
+            "in_reply_to_screen_name": "dianavasquezj",
+            "is_quote_status": false,
+            "favorite_count": 0,
+            "in_reply_to_user_id": 190842959,
+            "display_text_range": [
+                32,
+                140
+            ],
+            "retweeted": false,
+            "id": 1142995657420132354,
+            "user": {
+                "default_profile": false,
+                "verified": false,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "utc_offset": null,
+                "id_str": "124305910",
+                "time_zone": null,
+                "lang": null,
+                "profile_text_color": "333333",
+                "description": "Ing. El\u00e9ctrico.",
+                "follow_request_sent": null,
+                "is_translator": false,
+                "protected": false,
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_background_tile": false,
+                "statuses_count": 56656,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/516368085809246209/3y_XFsHZ_normal.jpeg",
+                "screen_name": "thefloodgate",
+                "friends_count": 396,
+                "favourites_count": 24400,
+                "following": null,
+                "listed_count": 87,
+                "location": "Guayaquil-Ecuador",
+                "profile_background_color": "022330",
+                "translator_type": "regular",
+                "created_at": "Thu Mar 18 23:50:52 +0000 2010",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/124305910/1411853838",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "geo_enabled": true,
+                "followers_count": 364,
+                "notifications": null,
+                "profile_use_background_image": true,
+                "id": 124305910,
+                "name": "Jos\u00e9 V\u00e9lez",
+                "url": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/516368085809246209/3y_XFsHZ_normal.jpeg"
+            },
+            "geo": null
+        },
+        {
+            "contributors": null,
+            "lang": "es",
+            "filter_level": "low",
+            "id_str": "1142995665502593026",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "timestamp_ms": "1561346377145",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "place": {
+                "place_type": "city",
+                "country_code": "EC",
+                "full_name": "Gualaceo, Ecuador",
+                "attributes": {},
+                "id": "002be3816d236888",
+                "name": "Gualaceo",
+                "url": "https://api.twitter.com/1.1/geo/id/002be3816d236888.json",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -78.916114,
+                                -3.029483
+                            ],
+                            [
+                                -78.916114,
+                                -2.806139
+                            ],
+                            [
+                                -78.630911,
+                                -2.806139
+                            ],
+                            [
+                                -78.630911,
+                                -3.029483
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "country": "Ecuador"
+            },
+            "in_reply_to_status_id_str": null,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_user_id": null,
+            "truncated": false,
+            "text": "Yo te ayud\u00e9 a armar carnaval.",
+            "created_at": "Mon Jun 24 03:19:37 +0000 2019",
+            "entities": {
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [],
+                "hashtags": []
+            },
+            "favorited": false,
+            "geo": null,
+            "favorite_count": 0,
+            "coordinates": null,
+            "retweeted": false,
+            "id": 1142995665502593026,
+            "user": {
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110722123889299456/RqAca9sU_normal.jpg",
+                "following": null,
+                "contributors_enabled": false,
+                "default_profile_image": false,
+                "utc_offset": null,
+                "id_str": "308056457",
+                "time_zone": null,
+                "profile_text_color": "666666",
+                "description": "Cerati y Bunbury,\nMessi y Rom\u00e1n,\nLiga y Boca,\nH\u00e9roes del Silencio y Soda Stereo.",
+                "follow_request_sent": null,
+                "listed_count": 1,
+                "protected": false,
+                "profile_sidebar_border_color": "181A1E",
+                "statuses_count": 5159,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1110722123889299456/RqAca9sU_normal.jpg",
+                "screen_name": "juanpiavecillas",
+                "friends_count": 3805,
+                "profile_background_color": "1A1B1F",
+                "favourites_count": 65254,
+                "is_translator": false,
+                "default_profile": false,
+                "followers_count": 772,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/308056457/1560199222",
+                "location": "Ecuador",
+                "created_at": "Mon May 30 19:15:51 +0000 2011",
+                "translator_type": "none",
+                "lang": null,
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_fill_color": "252429",
+                "geo_enabled": true,
+                "notifications": null,
+                "profile_use_background_image": true,
+                "id": 308056457,
+                "name": "Juan Pablo Avecillas",
+                "url": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "verified": false
+            },
+            "is_quote_status": false
+        }
+    ]
+}
