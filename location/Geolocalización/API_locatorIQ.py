@@ -12,18 +12,19 @@ URL = "https://us1.locationiq.com/v1/search.php"
 
 KEYS = [
     #Byron
-    #'42e21cf0c2eb57',
+    '42e21cf0c2eb57',
     #Mauricio
-    #'679e8ce7ebef3d',
-   # '682ff2322d6870',
-  #  'f2453ef379d738',
- #   '28315e9c4f5a69',
+    '679e8ce7ebef3d',
+    '682ff2322d6870',
+    'f2453ef379d738',
+    '28315e9c4f5a69',
     '66f24e7bf9fe3c',
     # GeanCarlo
-    '7d3f9e46790faa'
+    '7d3f9e46790faa',
+    '42e21cf0c2eb57'
     ]
 
-FILES = [('faltantes.csv',992150),('QUITO.csv',1284051),('CUENCA.csv',218315)]
+FILES = [('finalMayorIgual3_2QUITO.csv',992150),('QUITO.csv',1284051),('CUENCA.csv',218315)]
 MAX_RATE = 10000
 
 file_id = open('next_id.txt','r+')
@@ -31,20 +32,15 @@ file_origin = open('origin.txt','r+')
 file_success = open('success.csv','a')
 file_fail = open('fail.csv','a')
 file_log = open('log.txt','a')
-file_count = open('counter.txt','r+')
-counter = int(file_count.read())
 id = int(file_id.read())
 file_id.seek(0)
-file_count.seek(0)
-file_count.write(str(counter+1))
-file_count.close()
 num_origin = int(file_origin.read())
 origin,max_ids = FILES[num_origin]
 file_origin.seek(0)
-print(counter)
+VIEWBOX_GUAYAQUIL = '-79.95912,-2.287573,-79.856351,-2.053362'
+VIEWBOX_QUITO = '-78.619545,-0.365889,-78.441315,-0.047208'
 # load initial data
 data = pandaExport.read_csv(origin,sep=",",encoding ="UTF-8",error_bad_lines=False)
-
 
 def create_query(row):
     query = ''
@@ -54,9 +50,9 @@ def create_query(row):
         query += ', '+row.loc['DESCRIPCION_CANTON']
     if row.loc['DESCRIPCION_PARROQUIA']:
         query += ', '+row.loc['DESCRIPCION_PARROQUIA']
-    if row.loc['CALLE']:
+    if str(row.loc['CALLE']) != 'S/N':
         query += ', '+str(row.loc['CALLE'])
-    if row.loc['INTERSECCION']:
+    if str(row.loc['INTERSECCION']) != 'S/N':
         query += ' y '+str(row.loc['INTERSECCION'])
     return query
 
@@ -64,9 +60,12 @@ def get_response(key,query):
     data = {
         'key':key,
         'q': query,
-        'format': 'json'
+        'format': 'json',
+        'viewbox' :VIEWBOX_QUITO,
+        'bounded' : 1
     }
     return requests.get(URL, params=data)
+
 
 def create_error_log(row,status):
     dat = row.tolist()
@@ -83,7 +82,6 @@ def create_success_log(response,row):
     dat.append(lon)
     return ','.join(str(x) for x in dat)+'\n'
 
-id=10855
 for i in range(0,MAX_RATE*len(KEYS)):
     
     # current row

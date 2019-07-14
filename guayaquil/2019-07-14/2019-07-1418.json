@@ -1,0 +1,1760 @@
+{
+    "data": [
+        {
+            "timestamp_ms": "1563077239862",
+            "id": 1150255429919879168,
+            "in_reply_to_status_id": 1150250558818832384,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "in_reply_to_screen_name": "_SantinoBoy",
+            "reply_count": 0,
+            "geo": null,
+            "in_reply_to_user_id_str": "333091292",
+            "created_at": "Sun Jul 14 04:07:19 +0000 2019",
+            "retweeted": false,
+            "lang": "en",
+            "entities": {
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "_SantinoBoy",
+                        "id": 333091292,
+                        "name": "Sonny Snow",
+                        "id_str": "333091292",
+                        "indices": [
+                            0,
+                            12
+                        ]
+                    },
+                    {
+                        "screen_name": "Qkita1989",
+                        "id": 122740637,
+                        "name": "Gaby L\u00f3pez C",
+                        "id_str": "122740637",
+                        "indices": [
+                            13,
+                            23
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "urls": []
+            },
+            "favorite_count": 0,
+            "id_str": "1150255429919879168",
+            "retweet_count": 0,
+            "user": {
+                "screen_name": "fcordovez",
+                "id": 216827086,
+                "translator_type": "none",
+                "url": null,
+                "geo_enabled": true,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "followers_count": 303,
+                "profile_background_tile": false,
+                "favourites_count": 61,
+                "is_translator": false,
+                "statuses_count": 14991,
+                "time_zone": null,
+                "profile_background_color": "C0DEED",
+                "name": "Francisco Cordovez",
+                "lang": null,
+                "contributors_enabled": false,
+                "default_profile": true,
+                "profile_sidebar_border_color": "C0DEED",
+                "friends_count": 268,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/849297464029065217/yjfLU8b__normal.jpg",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/849297464029065217/yjfLU8b__normal.jpg",
+                "id_str": "216827086",
+                "profile_text_color": "333333",
+                "utc_offset": null,
+                "follow_request_sent": null,
+                "default_profile_image": false,
+                "protected": false,
+                "listed_count": 7,
+                "verified": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/216827086/1491323465",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": "Ecuador",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "created_at": "Wed Nov 17 20:46:55 +0000 2010",
+                "description": null,
+                "notifications": null
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "filter_level": "low",
+            "place": {
+                "country": "Ecuador",
+                "id": "016d8a4a6eb3af15",
+                "full_name": "Samborondon, Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/016d8a4a6eb3af15.json",
+                "place_type": "city",
+                "country_code": "EC",
+                "name": "Samborondon",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -79.892494,
+                                -2.159323
+                            ],
+                            [
+                                -79.892494,
+                                -1.863649
+                            ],
+                            [
+                                -79.648594,
+                                -1.863649
+                            ],
+                            [
+                                -79.648594,
+                                -2.159323
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "attributes": {}
+            },
+            "text": "@_SantinoBoy @Qkita1989 Stranger Things 3",
+            "contributors": null,
+            "coordinates": null,
+            "display_text_range": [
+                24,
+                41
+            ],
+            "truncated": false,
+            "in_reply_to_status_id_str": "1150250558818832384",
+            "in_reply_to_user_id": 333091292,
+            "favorited": false
+        },
+        {
+            "timestamp_ms": "1563077261352",
+            "id": 1150255520055484416,
+            "in_reply_to_status_id": null,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "reply_count": 0,
+            "geo": null,
+            "in_reply_to_user_id_str": null,
+            "retweeted": false,
+            "place": {
+                "country": "Ecuador",
+                "id": "009924a469d7ace1",
+                "full_name": "Guayaquil, Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+                "place_type": "city",
+                "country_code": "EC",
+                "name": "Guayaquil",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -80.467605,
+                                -3.063716
+                            ],
+                            [
+                                -80.467605,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -3.063716
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "attributes": {}
+            },
+            "entities": {
+                "symbols": [],
+                "user_mentions": [],
+                "hashtags": [],
+                "urls": []
+            },
+            "favorite_count": 0,
+            "id_str": "1150255520055484416",
+            "retweet_count": 0,
+            "user": {
+                "screen_name": "NaniiRichards",
+                "id": 294931346,
+                "translator_type": "none",
+                "url": "https://www.instagram.com/koko_blue_93",
+                "geo_enabled": true,
+                "profile_link_color": "981CEB",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "followers_count": 379,
+                "follow_request_sent": null,
+                "favourites_count": 8643,
+                "is_translator": false,
+                "statuses_count": 18984,
+                "verified": false,
+                "time_zone": null,
+                "name": "NaniRichards.\ud83d\udc9c",
+                "lang": null,
+                "contributors_enabled": false,
+                "default_profile": false,
+                "profile_sidebar_border_color": "FFFFFF",
+                "friends_count": 324,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140420526298554373/wyVORM2g_normal.jpg",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1140420526298554373/wyVORM2g_normal.jpg",
+                "profile_use_background_image": true,
+                "id_str": "294931346",
+                "profile_text_color": "333333",
+                "profile_background_tile": false,
+                "default_profile_image": false,
+                "protected": false,
+                "listed_count": 0,
+                "utc_offset": null,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/294931346/1481033184",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "location": "Ecuador",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "notifications": null,
+                "created_at": "Sun May 08 02:00:19 +0000 2011",
+                "description": "BARCELONASPORTINGCLUB \u2665 ! Sono fatta divolant\u00e1 , non di dolore \u2764\ud83d\udcaa Para mi Dios , Es mi Viejo \ud83c\udf0c",
+                "profile_background_color": "05022E"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "filter_level": "low",
+            "lang": "es",
+            "text": "Mi vida necesita salir a trotar !!",
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Jul 14 04:07:41 +0000 2019",
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "favorited": false
+        },
+        {
+            "timestamp_ms": "1563077262668",
+            "id": 1150255525575188482,
+            "in_reply_to_status_id": null,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "reply_count": 0,
+            "geo": null,
+            "in_reply_to_user_id_str": null,
+            "created_at": "Sun Jul 14 04:07:42 +0000 2019",
+            "retweeted": false,
+            "lang": "pt",
+            "entities": {
+                "symbols": [],
+                "user_mentions": [],
+                "hashtags": [],
+                "urls": []
+            },
+            "favorite_count": 0,
+            "id_str": "1150255525575188482",
+            "retweet_count": 0,
+            "user": {
+                "screen_name": "wilfranqg16",
+                "id": 2259397945,
+                "translator_type": "none",
+                "url": "https://www.instagram.com/wilfranqg16/",
+                "geo_enabled": true,
+                "profile_link_color": "19CF86",
+                "profile_sidebar_fill_color": "000000",
+                "followers_count": 710,
+                "profile_background_tile": false,
+                "favourites_count": 1993,
+                "is_translator": false,
+                "statuses_count": 807,
+                "time_zone": null,
+                "profile_background_color": "000000",
+                "name": "Wilfran Qui\u00f1ones G \ud83c\udde8\ud83c\uddf4",
+                "lang": null,
+                "contributors_enabled": false,
+                "default_profile": false,
+                "profile_sidebar_border_color": "000000",
+                "friends_count": 1607,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150253873405321216/CyLRVtvs_normal.jpg",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1150253873405321216/CyLRVtvs_normal.jpg",
+                "id_str": "2259397945",
+                "profile_text_color": "000000",
+                "utc_offset": null,
+                "follow_request_sent": null,
+                "default_profile_image": false,
+                "protected": false,
+                "listed_count": 0,
+                "verified": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2259397945/1563059164",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": "Bogot\u00e1, D.C., Colombia",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "created_at": "Mon Dec 23 20:49:36 +0000 2013",
+                "description": "idiomas \ud83c\udde8\ud83c\uddf4\ud83c\udde7\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8",
+                "notifications": null
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "filter_level": "low",
+            "place": {
+                "country": "Colombia",
+                "id": "0639360bd49a15e3",
+                "full_name": "Colombia",
+                "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
+                "place_type": "country",
+                "country_code": "CO",
+                "name": "Colombia",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -81.728111,
+                                -4.227073
+                            ],
+                            [
+                                -81.728111,
+                                13.390292
+                            ],
+                            [
+                                -66.854502,
+                                13.390292
+                            ],
+                            [
+                                -66.854502,
+                                -4.227073
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "attributes": {}
+            },
+            "text": "\u00c9 desnecess\u00e1rio ficar tentando provar algo pra algu\u00e9m, as pessoas tomam como verdade aquilo que lhes conv\u00e9m.",
+            "contributors": null,
+            "coordinates": null,
+            "truncated": false,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "favorited": false
+        },
+        {
+            "timestamp_ms": "1563077349454",
+            "id": 1150255889582100480,
+            "in_reply_to_status_id": 1150162410289938433,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "in_reply_to_screen_name": "gallardogerman",
+            "reply_count": 0,
+            "geo": null,
+            "in_reply_to_user_id_str": "196899274",
+            "retweeted": false,
+            "place": {
+                "country": "Ecuador",
+                "id": "009924a469d7ace1",
+                "full_name": "Guayaquil, Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+                "place_type": "city",
+                "country_code": "EC",
+                "name": "Guayaquil",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -80.467605,
+                                -3.063716
+                            ],
+                            [
+                                -80.467605,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -3.063716
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "attributes": {}
+            },
+            "entities": {
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "gallardogerman",
+                        "id": 196899274,
+                        "name": "Germ\u00e1n Gallardo R.",
+                        "indices": [
+                            0,
+                            15
+                        ],
+                        "id_str": "196899274"
+                    },
+                    {
+                        "screen_name": "FernandoRoseroR",
+                        "id": 100368358,
+                        "name": "Fernando Rosero",
+                        "indices": [
+                            16,
+                            32
+                        ],
+                        "id_str": "100368358"
+                    },
+                    {
+                        "screen_name": "Manuel_M2012",
+                        "id": 346392254,
+                        "name": "Manuel A. Mendoza",
+                        "indices": [
+                            33,
+                            46
+                        ],
+                        "id_str": "346392254"
+                    },
+                    {
+                        "screen_name": "CSEmelec",
+                        "id": 15447575,
+                        "name": "Club Sport Emelec",
+                        "indices": [
+                            47,
+                            56
+                        ],
+                        "id_str": "15447575"
+                    }
+                ],
+                "hashtags": [],
+                "urls": []
+            },
+            "favorite_count": 0,
+            "id_str": "1150255889582100480",
+            "retweet_count": 0,
+            "user": {
+                "screen_name": "jfalarcon27",
+                "id": 119165825,
+                "translator_type": "none",
+                "url": null,
+                "geo_enabled": true,
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_fill_color": "252429",
+                "followers_count": 702,
+                "follow_request_sent": null,
+                "favourites_count": 715,
+                "is_translator": false,
+                "statuses_count": 11740,
+                "verified": false,
+                "time_zone": null,
+                "name": "Juan Fco. Alarc\u00f3n \uf8ff",
+                "lang": null,
+                "contributors_enabled": false,
+                "default_profile": false,
+                "profile_sidebar_border_color": "181A1E",
+                "friends_count": 920,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109463864423387136/ufMD1_tZ_normal.jpg",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1109463864423387136/ufMD1_tZ_normal.jpg",
+                "profile_use_background_image": true,
+                "id_str": "119165825",
+                "profile_text_color": "666666",
+                "profile_background_tile": false,
+                "default_profile_image": false,
+                "protected": false,
+                "listed_count": 9,
+                "utc_offset": null,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/119165825/1473085791",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "location": "Guayaquil-Ecuador",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "notifications": null,
+                "created_at": "Tue Mar 02 21:31:36 +0000 2010",
+                "description": "Guayaquile\u00f1o, Felizmente Casado y Orgullosamente Pap\u00e1!",
+                "profile_background_color": "1A1B1F"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "filter_level": "low",
+            "lang": "es",
+            "text": "@gallardogerman @FernandoRoseroR @Manuel_M2012 @CSEmelec Tipo imb\u00e9cil, un Don nadie, odiador de Emelec. Se\u00f1ores no lo sigan!",
+            "contributors": null,
+            "coordinates": null,
+            "display_text_range": [
+                57,
+                124
+            ],
+            "created_at": "Sun Jul 14 04:09:09 +0000 2019",
+            "in_reply_to_status_id_str": "1150162410289938433",
+            "in_reply_to_user_id": 196899274,
+            "favorited": false
+        },
+        {
+            "timestamp_ms": "1563077354429",
+            "id": 1150255910448705537,
+            "in_reply_to_status_id": 1150153372692959233,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "in_reply_to_screen_name": "Soffiesta",
+            "reply_count": 0,
+            "geo": null,
+            "in_reply_to_user_id_str": "190678803",
+            "created_at": "Sun Jul 14 04:09:14 +0000 2019",
+            "retweeted": false,
+            "lang": "es",
+            "entities": {
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Soffiesta",
+                        "id": 190678803,
+                        "name": "S o f f i e s t a \u263a\ufe0f\ud83e\udddc\ud83c\udffc\u200d\u2640\ufe0f",
+                        "id_str": "190678803",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ],
+                "hashtags": [],
+                "urls": []
+            },
+            "favorite_count": 0,
+            "id_str": "1150255910448705537",
+            "retweet_count": 0,
+            "user": {
+                "screen_name": "EduardoBarrio7",
+                "id": 845639591315062784,
+                "translator_type": "none",
+                "url": null,
+                "geo_enabled": true,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "followers_count": 63,
+                "profile_background_tile": false,
+                "favourites_count": 7916,
+                "is_translator": false,
+                "statuses_count": 593,
+                "time_zone": null,
+                "profile_background_color": "F5F8FA",
+                "name": "Eduardo Barrio",
+                "lang": null,
+                "contributors_enabled": false,
+                "default_profile": true,
+                "profile_sidebar_border_color": "C0DEED",
+                "friends_count": 296,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/964836627481812992/aC-3ZaG9_normal.jpg",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/964836627481812992/aC-3ZaG9_normal.jpg",
+                "id_str": "845639591315062784",
+                "profile_text_color": "333333",
+                "utc_offset": null,
+                "follow_request_sent": null,
+                "default_profile_image": false,
+                "protected": false,
+                "listed_count": 0,
+                "verified": false,
+                "following": null,
+                "profile_background_image_url": "",
+                "location": "Buenos Aires, Argentina",
+                "profile_background_image_url_https": "",
+                "created_at": "Sat Mar 25 14:12:44 +0000 2017",
+                "description": "Orgullosamente Ecuatoriano \ud83d\udc99Cardiologo Intervencionista",
+                "notifications": null
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "filter_level": "low",
+            "place": {
+                "country": "Ecuador",
+                "id": "00f4a3c038acc3c5",
+                "full_name": "Daule, Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/00f4a3c038acc3c5.json",
+                "place_type": "city",
+                "country_code": "EC",
+                "name": "Daule",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -80.068017,
+                                -2.065155
+                            ],
+                            [
+                                -80.068017,
+                                -1.77466
+                            ],
+                            [
+                                -79.843111,
+                                -1.77466
+                            ],
+                            [
+                                -79.843111,
+                                -2.065155
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "attributes": {}
+            },
+            "text": "@Soffiesta A veces cambiar de lente de enfoque, mejora la visi\u00f3n del mismo objeto . Aplicable a la vida cotidiana \u263a",
+            "contributors": null,
+            "coordinates": null,
+            "display_text_range": [
+                11,
+                115
+            ],
+            "truncated": false,
+            "in_reply_to_status_id_str": "1150153372692959233",
+            "in_reply_to_user_id": 190678803,
+            "favorited": false
+        },
+        {
+            "timestamp_ms": "1563077356305",
+            "id": 1150255918317277184,
+            "in_reply_to_status_id": 1150232830087225345,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "in_reply_to_screen_name": "Cristian_LDU91",
+            "reply_count": 0,
+            "geo": null,
+            "in_reply_to_user_id_str": "821805674",
+            "retweeted": false,
+            "place": {
+                "country": "Ecuador",
+                "id": "009924a469d7ace1",
+                "full_name": "Guayaquil, Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+                "place_type": "city",
+                "country_code": "EC",
+                "name": "Guayaquil",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -80.467605,
+                                -3.063716
+                            ],
+                            [
+                                -80.467605,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -3.063716
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "attributes": {}
+            },
+            "entities": {
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Cristian_LDU91",
+                        "id": 821805674,
+                        "name": "Cristian LDU \ud83c\uddea\ud83c\udde8\ud83c\udfc6",
+                        "indices": [
+                            0,
+                            15
+                        ],
+                        "id_str": "821805674"
+                    },
+                    {
+                        "screen_name": "Raidkkonen",
+                        "id": 277460541,
+                        "name": "Ronald \ud83d\udc3a.",
+                        "indices": [
+                            16,
+                            27
+                        ],
+                        "id_str": "277460541"
+                    }
+                ],
+                "hashtags": [],
+                "urls": []
+            },
+            "favorite_count": 0,
+            "id_str": "1150255918317277184",
+            "retweet_count": 0,
+            "user": {
+                "screen_name": "CabreraOskr",
+                "id": 454680538,
+                "translator_type": "none",
+                "url": null,
+                "geo_enabled": true,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "followers_count": 1497,
+                "follow_request_sent": null,
+                "favourites_count": 1511,
+                "is_translator": false,
+                "statuses_count": 12576,
+                "verified": false,
+                "time_zone": null,
+                "name": "Roberto Sedinho",
+                "lang": null,
+                "contributors_enabled": false,
+                "default_profile": true,
+                "profile_sidebar_border_color": "C0DEED",
+                "friends_count": 1172,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/987256497498443776/KC9gNLGc_normal.jpg",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/987256497498443776/KC9gNLGc_normal.jpg",
+                "profile_use_background_image": true,
+                "id_str": "454680538",
+                "profile_text_color": "333333",
+                "profile_background_tile": false,
+                "default_profile_image": false,
+                "protected": false,
+                "listed_count": 1,
+                "utc_offset": null,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/454680538/1518999047",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": "guayaquil ecuador",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "notifications": null,
+                "created_at": "Wed Jan 04 08:01:19 +0000 2012",
+                "description": "Baterista-Musico / Fountain Bar / Mansi\u00f3n Bar / Jurisprudencia / Anal\u00edtico/ Socio C.S Emelec - Born in USA-NY",
+                "profile_background_color": "C0DEED"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "filter_level": "low",
+            "lang": "und",
+            "text": "@Cristian_LDU91 @Raidkkonen \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "contributors": null,
+            "coordinates": null,
+            "display_text_range": [
+                28,
+                31
+            ],
+            "created_at": "Sun Jul 14 04:09:16 +0000 2019",
+            "in_reply_to_status_id_str": "1150232830087225345",
+            "in_reply_to_user_id": 821805674,
+            "favorited": false
+        },
+        {
+            "timestamp_ms": "1563077357128",
+            "id": 1150255921769209857,
+            "in_reply_to_status_id": null,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "reply_count": 0,
+            "geo": {
+                "coordinates": [
+                    -2.1194513,
+                    -79.94701318
+                ],
+                "type": "Point"
+            },
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_status_id_str": null,
+            "retweeted": false,
+            "lang": "es",
+            "entities": {
+                "symbols": [],
+                "user_mentions": [],
+                "hashtags": [],
+                "urls": [
+                    {
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "url": "https://t.co/1tH8jdlwQ7",
+                        "expanded_url": "https://twitter.com/i/web/status/1150255921769209857"
+                    }
+                ]
+            },
+            "favorite_count": 0,
+            "id_str": "1150255921769209857",
+            "retweet_count": 0,
+            "user": {
+                "screen_name": "FundacionClemen",
+                "id": 363518753,
+                "translator_type": "none",
+                "url": "http://www.fundacionclemencia.com",
+                "geo_enabled": true,
+                "profile_link_color": "9266CC",
+                "profile_sidebar_fill_color": "000000",
+                "followers_count": 237,
+                "profile_background_tile": false,
+                "favourites_count": 278,
+                "is_translator": false,
+                "statuses_count": 1306,
+                "time_zone": null,
+                "profile_background_color": "000000",
+                "name": "Fundacion Clemencia",
+                "lang": null,
+                "contributors_enabled": false,
+                "default_profile": false,
+                "profile_sidebar_border_color": "000000",
+                "friends_count": 1498,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1057537980863266817/bm-AwLdA_normal.jpg",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1057537980863266817/bm-AwLdA_normal.jpg",
+                "id_str": "363518753",
+                "profile_text_color": "000000",
+                "utc_offset": null,
+                "follow_request_sent": null,
+                "default_profile_image": false,
+                "protected": false,
+                "listed_count": 0,
+                "verified": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/363518753/1540971737",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+                "location": "Guayaquil- Ecuador  ",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+                "created_at": "Sun Aug 28 06:32:04 +0000 2011",
+                "description": "DEDICADOS AL CUIDADO INTEGRAL DEL ADULTO MAYOR EN ABANDONO EN LAS  CALLES DE GYE, BRINDANDOLES UN HOGAR ESTABLE,  AMOR, PROTECCION,  MEDICINA Y REINCERSION 100%",
+                "notifications": null
+            },
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "extended_tweet": {
+                "full_text": "El coqueto Don Luis!! desde que llego no hace otra cosa que sonreir y pedir comida \u2764\u2764\u2764\u2764 Ayudanos a brindarle una vejez digna!! #juntosporluis #vejezdigna\ud83d\udc75\ud83d\udc74\ud83e\udde1 en Fundacion Clemencia &amp; Asilo Sofia Ratinoff de Solimano https://t.co/j3KkgWmI6Z",
+                "display_text_range": [
+                    0,
+                    242
+                ],
+                "entities": {
+                    "symbols": [],
+                    "user_mentions": [],
+                    "hashtags": [
+                        {
+                            "indices": [
+                                127,
+                                141
+                            ],
+                            "text": "juntosporluis"
+                        },
+                        {
+                            "indices": [
+                                142,
+                                153
+                            ],
+                            "text": "vejezdigna"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "indices": [
+                                219,
+                                242
+                            ],
+                            "display_url": "instagram.com/p/Bz4hsaXA9eo/\u2026",
+                            "url": "https://t.co/j3KkgWmI6Z",
+                            "expanded_url": "https://www.instagram.com/p/Bz4hsaXA9eo/?igshid=1rw3ls79lzlf2"
+                        }
+                    ]
+                }
+            },
+            "filter_level": "low",
+            "place": {
+                "country": "Ecuador",
+                "id": "009924a469d7ace1",
+                "full_name": "Guayaquil, Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+                "place_type": "city",
+                "country_code": "EC",
+                "name": "Guayaquil",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -80.467605,
+                                -3.063716
+                            ],
+                            [
+                                -80.467605,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -3.063716
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "attributes": {}
+            },
+            "text": "El coqueto Don Luis!! desde que llego no hace otra cosa que sonreir y pedir comida \u2764\u2764\u2764\u2764 Ayudanos a brindarle una ve\u2026 https://t.co/1tH8jdlwQ7",
+            "contributors": null,
+            "coordinates": {
+                "coordinates": [
+                    -79.94701318,
+                    -2.1194513
+                ],
+                "type": "Point"
+            },
+            "possibly_sensitive": false,
+            "created_at": "Sun Jul 14 04:09:17 +0000 2019",
+            "truncated": true,
+            "in_reply_to_user_id": null,
+            "favorited": false
+        },
+        {
+            "timestamp_ms": "1563077385092",
+            "id": 1150256039058710529,
+            "in_reply_to_status_id": 1150037672834011136,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "in_reply_to_screen_name": "caacosta1962",
+            "reply_count": 0,
+            "geo": null,
+            "in_reply_to_user_id_str": "412764716",
+            "retweeted": false,
+            "place": {
+                "country": "Ecuador",
+                "id": "009924a469d7ace1",
+                "full_name": "Guayaquil, Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+                "place_type": "city",
+                "country_code": "EC",
+                "name": "Guayaquil",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -80.467605,
+                                -3.063716
+                            ],
+                            [
+                                -80.467605,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -3.063716
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "attributes": {}
+            },
+            "entities": {
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "caacosta1962",
+                        "id": 412764716,
+                        "name": "Carlos A Acosta",
+                        "indices": [
+                            0,
+                            13
+                        ],
+                        "id_str": "412764716"
+                    },
+                    {
+                        "screen_name": "nellyvelascor",
+                        "id": 2654580010,
+                        "name": "Nelly Velasco",
+                        "indices": [
+                            14,
+                            28
+                        ],
+                        "id_str": "2654580010"
+                    },
+                    {
+                        "screen_name": "CPCCS",
+                        "id": 200140664,
+                        "name": "Participa Ecuador",
+                        "indices": [
+                            29,
+                            35
+                        ],
+                        "id_str": "200140664"
+                    }
+                ],
+                "hashtags": [],
+                "urls": []
+            },
+            "favorite_count": 0,
+            "id_str": "1150256039058710529",
+            "retweet_count": 0,
+            "user": {
+                "screen_name": "WhympperB",
+                "id": 756276392959021056,
+                "translator_type": "none",
+                "url": null,
+                "geo_enabled": true,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "followers_count": 180,
+                "follow_request_sent": null,
+                "favourites_count": 14971,
+                "is_translator": false,
+                "statuses_count": 17921,
+                "verified": false,
+                "time_zone": null,
+                "name": "Whympper Barahona R.",
+                "lang": null,
+                "contributors_enabled": false,
+                "default_profile": true,
+                "profile_sidebar_border_color": "C0DEED",
+                "friends_count": 180,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060584862061604864/iu6aWTW5_normal.jpg",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1060584862061604864/iu6aWTW5_normal.jpg",
+                "profile_use_background_image": true,
+                "id_str": "756276392959021056",
+                "profile_text_color": "333333",
+                "profile_background_tile": false,
+                "default_profile_image": false,
+                "protected": false,
+                "listed_count": 1,
+                "utc_offset": null,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/756276392959021056/1536336675",
+                "following": null,
+                "profile_background_image_url": "",
+                "location": "Guayaquil, Ecuador",
+                "profile_background_image_url_https": "",
+                "notifications": null,
+                "created_at": "Thu Jul 21 23:55:17 +0000 2016",
+                "description": "Vicentino, Abogado, Exfuncionario Judicial por m\u00e1s de veinte a\u00f1os. Guayaquile\u00f1o.",
+                "profile_background_color": "F5F8FA"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "filter_level": "low",
+            "lang": "es",
+            "text": "@caacosta1962 @nellyvelascor @CPCCS Y despu\u00e9s de la Encuesta, QU\u00c9?",
+            "contributors": null,
+            "coordinates": null,
+            "display_text_range": [
+                36,
+                66
+            ],
+            "created_at": "Sun Jul 14 04:09:45 +0000 2019",
+            "in_reply_to_status_id_str": "1150037672834011136",
+            "in_reply_to_user_id": 412764716,
+            "favorited": false
+        },
+        {
+            "timestamp_ms": "1563077421435",
+            "id": 1150256191492231168,
+            "in_reply_to_status_id": null,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "reply_count": 0,
+            "geo": null,
+            "in_reply_to_user_id_str": null,
+            "created_at": "Sun Jul 14 04:10:21 +0000 2019",
+            "extended_entities": {
+                "media": [
+                    {
+                        "indices": [
+                            37,
+                            60
+                        ],
+                        "id": 1150256183493713920,
+                        "sizes": {
+                            "small": {
+                                "w": 383,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1152,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        },
+                        "url": "https://t.co/F3ZKjB7SU1",
+                        "media_url": "http://pbs.twimg.com/media/D_aH55HW4AANayt.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D_aH55HW4AANayt.jpg",
+                        "display_url": "pic.twitter.com/F3ZKjB7SU1",
+                        "id_str": "1150256183493713920",
+                        "type": "photo",
+                        "expanded_url": "https://twitter.com/DarylMaldonado/status/1150256191492231168/photo/1"
+                    }
+                ]
+            },
+            "retweeted": false,
+            "lang": "es",
+            "entities": {
+                "symbols": [],
+                "user_mentions": [],
+                "hashtags": [
+                    {
+                        "indices": [
+                            24,
+                            36
+                        ],
+                        "text": "picoftheday"
+                    }
+                ],
+                "media": [
+                    {
+                        "indices": [
+                            37,
+                            60
+                        ],
+                        "id": 1150256183493713920,
+                        "sizes": {
+                            "small": {
+                                "w": 383,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1152,
+                                "h": 2048,
+                                "resize": "fit"
+                            }
+                        },
+                        "url": "https://t.co/F3ZKjB7SU1",
+                        "media_url": "http://pbs.twimg.com/media/D_aH55HW4AANayt.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D_aH55HW4AANayt.jpg",
+                        "display_url": "pic.twitter.com/F3ZKjB7SU1",
+                        "id_str": "1150256183493713920",
+                        "type": "photo",
+                        "expanded_url": "https://twitter.com/DarylMaldonado/status/1150256191492231168/photo/1"
+                    }
+                ],
+                "urls": []
+            },
+            "favorite_count": 0,
+            "id_str": "1150256191492231168",
+            "retweet_count": 0,
+            "user": {
+                "screen_name": "DarylMaldonado",
+                "id": 163227608,
+                "translator_type": "none",
+                "url": null,
+                "geo_enabled": true,
+                "profile_link_color": "981CEB",
+                "profile_sidebar_fill_color": "99CC33",
+                "followers_count": 860,
+                "profile_background_tile": true,
+                "favourites_count": 9838,
+                "is_translator": false,
+                "statuses_count": 94898,
+                "time_zone": null,
+                "profile_background_color": "FAFFFE",
+                "name": "\ud835\ude73\ud835\ude8a\ud835\ude9b\ud835\udea2\ud835\ude95 \ud835\ude7c\ud835\ude8a\ud835\ude95\ud835\ude8d\ud835\ude98\ud835\ude97\ud835\ude8a\ud835\ude8d\ud835\ude98",
+                "lang": null,
+                "contributors_enabled": false,
+                "default_profile": false,
+                "profile_sidebar_border_color": "000000",
+                "friends_count": 571,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142118082909036544/XLrJuOFc_normal.jpg",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1142118082909036544/XLrJuOFc_normal.jpg",
+                "id_str": "163227608",
+                "profile_text_color": "3E4415",
+                "utc_offset": null,
+                "follow_request_sent": null,
+                "default_profile_image": false,
+                "protected": false,
+                "listed_count": 13,
+                "verified": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/163227608/1558631203",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                "location": "Guayaquil, Guayas Ecuador",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                "created_at": "Mon Jul 05 21:54:40 +0000 2010",
+                "description": "\ud835\ude75\ud835\ude8a\ud835\ude97 \ud835\ude8d\ud835\ude8e \ud835\ude95\ud835\ude8a \ud835\ude95\ud835\ude9e\ud835\ude97\ud835\ude8a, \ud835\ude8a\ud835\ude96\ud835\ude98 \ud835\ude8c\ud835\ude9e\ud835\ude8a\ud835\ude97\ud835\ude8d\ud835\ude98 \ud835\ude95\ud835\ude8a \ud835\ude9f\ud835\ude8e\ud835\ude97 \ud835\udea2 \ud835\ude9c\ud835\ude8e \ud835\ude8a\ud835\ude8c\ud835\ude9e\ud835\ude8e\ud835\ude9b\ud835\ude8d\ud835\ude8a\ud835\ude97 \ud835\ude8d\ud835\ude8e \ud835\ude96\ud835\ude92! #\ud835\ude7c\ud835\ude98\ud835\ude98\ud835\ude97\ud835\ude7b\ud835\ude98\ud835\ude9f\ud835\ude8e\ud835\ude9b\ud83c\udf19",
+                "notifications": null
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "filter_level": "low",
+            "place": {
+                "country": "Ecuador",
+                "id": "009924a469d7ace1",
+                "full_name": "Guayaquil, Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+                "place_type": "city",
+                "country_code": "EC",
+                "name": "Guayaquil",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -80.467605,
+                                -3.063716
+                            ],
+                            [
+                                -80.467605,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -3.063716
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "attributes": {}
+            },
+            "text": "Hoy me hice chorros!! \ud83e\udd70 #picoftheday https://t.co/F3ZKjB7SU1",
+            "contributors": null,
+            "coordinates": null,
+            "display_text_range": [
+                0,
+                36
+            ],
+            "possibly_sensitive": false,
+            "truncated": false,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "favorited": false
+        },
+        {
+            "timestamp_ms": "1563077431177",
+            "id": 1150256232353140736,
+            "in_reply_to_status_id": 1150034816022302721,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "in_reply_to_screen_name": "Diamonds8668",
+            "reply_count": 0,
+            "geo": null,
+            "in_reply_to_user_id_str": "1049559807185887232",
+            "retweeted": false,
+            "place": {
+                "country": "Ecuador",
+                "id": "009924a469d7ace1",
+                "full_name": "Guayaquil, Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+                "place_type": "city",
+                "country_code": "EC",
+                "name": "Guayaquil",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -80.467605,
+                                -3.063716
+                            ],
+                            [
+                                -80.467605,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -3.063716
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "attributes": {}
+            },
+            "entities": {
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Diamonds8668",
+                        "id": 1049559807185887232,
+                        "name": "\ud835\udcd3\ud835\udcf2\ud835\udcea\ud835\udcf6\ud835\udcf8\ud835\udcf7\ud835\udced\ud835\udcfc 130K",
+                        "indices": [
+                            0,
+                            13
+                        ],
+                        "id_str": "1049559807185887232"
+                    },
+                    {
+                        "screen_name": "Gatita_kristal1",
+                        "id": 1019438437756166144,
+                        "name": "\ud83d\udc3e\ua543\u0105\u13bf\u1d62\u13bf\u0105_\ua317\u212f\u03d7\u05e6\ud83d\udc3e",
+                        "indices": [
+                            14,
+                            30
+                        ],
+                        "id_str": "1019438437756166144"
+                    }
+                ],
+                "hashtags": [],
+                "urls": []
+            },
+            "favorite_count": 0,
+            "id_str": "1150256232353140736",
+            "retweet_count": 0,
+            "user": {
+                "screen_name": "JCPG05031980",
+                "id": 2838081934,
+                "translator_type": "none",
+                "url": null,
+                "geo_enabled": true,
+                "profile_link_color": "FFCC4D",
+                "profile_sidebar_fill_color": "000000",
+                "followers_count": 31,
+                "follow_request_sent": null,
+                "favourites_count": 7959,
+                "is_translator": false,
+                "statuses_count": 1232,
+                "verified": false,
+                "time_zone": null,
+                "name": "Juan Carlos PachecoG",
+                "lang": null,
+                "contributors_enabled": false,
+                "default_profile": false,
+                "profile_sidebar_border_color": "000000",
+                "friends_count": 658,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/524192215787008001/O7WQ8C7Z_normal.jpeg",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/524192215787008001/O7WQ8C7Z_normal.jpeg",
+                "profile_use_background_image": false,
+                "id_str": "2838081934",
+                "profile_text_color": "000000",
+                "profile_background_tile": false,
+                "default_profile_image": false,
+                "protected": false,
+                "listed_count": 0,
+                "utc_offset": null,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2838081934/1413813735",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": "Guayaquil",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "notifications": null,
+                "created_at": "Mon Oct 20 13:21:20 +0000 2014",
+                "description": null,
+                "profile_background_color": "000000"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "filter_level": "low",
+            "lang": "es",
+            "text": "@Diamonds8668 @Gatita_kristal1 Increible",
+            "contributors": null,
+            "coordinates": null,
+            "display_text_range": [
+                31,
+                40
+            ],
+            "created_at": "Sun Jul 14 04:10:31 +0000 2019",
+            "in_reply_to_status_id_str": "1150034816022302721",
+            "in_reply_to_user_id": 1049559807185887232,
+            "favorited": false
+        },
+        {
+            "timestamp_ms": "1563077442033",
+            "id": 1150256277886554113,
+            "in_reply_to_status_id": 1150256191492231168,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "in_reply_to_screen_name": "DarylMaldonado",
+            "reply_count": 0,
+            "geo": null,
+            "in_reply_to_user_id_str": "163227608",
+            "created_at": "Sun Jul 14 04:10:42 +0000 2019",
+            "retweeted": false,
+            "lang": "es",
+            "entities": {
+                "symbols": [],
+                "user_mentions": [],
+                "hashtags": [],
+                "urls": []
+            },
+            "favorite_count": 0,
+            "id_str": "1150256277886554113",
+            "retweet_count": 0,
+            "user": {
+                "screen_name": "DarylMaldonado",
+                "id": 163227608,
+                "translator_type": "none",
+                "url": null,
+                "geo_enabled": true,
+                "profile_link_color": "981CEB",
+                "profile_sidebar_fill_color": "99CC33",
+                "followers_count": 860,
+                "profile_background_tile": true,
+                "favourites_count": 9838,
+                "is_translator": false,
+                "statuses_count": 94899,
+                "time_zone": null,
+                "profile_background_color": "FAFFFE",
+                "name": "\ud835\ude73\ud835\ude8a\ud835\ude9b\ud835\udea2\ud835\ude95 \ud835\ude7c\ud835\ude8a\ud835\ude95\ud835\ude8d\ud835\ude98\ud835\ude97\ud835\ude8a\ud835\ude8d\ud835\ude98",
+                "lang": null,
+                "contributors_enabled": false,
+                "default_profile": false,
+                "profile_sidebar_border_color": "000000",
+                "friends_count": 571,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142118082909036544/XLrJuOFc_normal.jpg",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1142118082909036544/XLrJuOFc_normal.jpg",
+                "id_str": "163227608",
+                "profile_text_color": "3E4415",
+                "utc_offset": null,
+                "follow_request_sent": null,
+                "default_profile_image": false,
+                "protected": false,
+                "listed_count": 13,
+                "verified": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/163227608/1558631203",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                "location": "Guayaquil, Guayas Ecuador",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                "created_at": "Mon Jul 05 21:54:40 +0000 2010",
+                "description": "\ud835\ude75\ud835\ude8a\ud835\ude97 \ud835\ude8d\ud835\ude8e \ud835\ude95\ud835\ude8a \ud835\ude95\ud835\ude9e\ud835\ude97\ud835\ude8a, \ud835\ude8a\ud835\ude96\ud835\ude98 \ud835\ude8c\ud835\ude9e\ud835\ude8a\ud835\ude97\ud835\ude8d\ud835\ude98 \ud835\ude95\ud835\ude8a \ud835\ude9f\ud835\ude8e\ud835\ude97 \ud835\udea2 \ud835\ude9c\ud835\ude8e \ud835\ude8a\ud835\ude8c\ud835\ude9e\ud835\ude8e\ud835\ude9b\ud835\ude8d\ud835\ude8a\ud835\ude97 \ud835\ude8d\ud835\ude8e \ud835\ude96\ud835\ude92! #\ud835\ude7c\ud835\ude98\ud835\ude98\ud835\ude97\ud835\ude7b\ud835\ude98\ud835\ude9f\ud835\ude8e\ud835\ude9b\ud83c\udf19",
+                "notifications": null
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "filter_level": "low",
+            "place": {
+                "country": "Ecuador",
+                "id": "009924a469d7ace1",
+                "full_name": "Guayaquil, Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+                "place_type": "city",
+                "country_code": "EC",
+                "name": "Guayaquil",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -80.467605,
+                                -3.063716
+                            ],
+                            [
+                                -80.467605,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -3.063716
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "attributes": {}
+            },
+            "text": "Claro, pero tengo una oreja quemada y por la mu\u00f1eca tambi\u00e9n! Jajajajaja",
+            "contributors": null,
+            "coordinates": null,
+            "truncated": false,
+            "in_reply_to_status_id_str": "1150256191492231168",
+            "in_reply_to_user_id": 163227608,
+            "favorited": false
+        },
+        {
+            "timestamp_ms": "1563077445365",
+            "id": 1150256291861979136,
+            "in_reply_to_status_id": null,
+            "is_quote_status": true,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "reply_count": 0,
+            "geo": null,
+            "in_reply_to_user_id_str": null,
+            "favorite_count": 0,
+            "quoted_status_id_str": "1149473343604609031",
+            "lang": "und",
+            "retweeted": false,
+            "quoted_status_permalink": {
+                "display": "twitter.com/fercorreaa1/st\u2026",
+                "url": "https://t.co/x7LJc8T063",
+                "expanded": "https://twitter.com/fercorreaa1/status/1149473343604609031"
+            },
+            "entities": {
+                "symbols": [],
+                "user_mentions": [],
+                "hashtags": [],
+                "urls": []
+            },
+            "truncated": false,
+            "id_str": "1150256291861979136",
+            "retweet_count": 0,
+            "user": {
+                "screen_name": "IvoSarmiento",
+                "id": 231181097,
+                "translator_type": "none",
+                "url": null,
+                "follow_request_sent": null,
+                "geo_enabled": true,
+                "profile_link_color": "CC3366",
+                "profile_sidebar_fill_color": "E6F6F9",
+                "followers_count": 258,
+                "profile_background_tile": false,
+                "favourites_count": 769,
+                "is_translator": false,
+                "statuses_count": 28162,
+                "time_zone": null,
+                "name": "Gisella Sarmiento\u2661",
+                "lang": null,
+                "contributors_enabled": false,
+                "default_profile": false,
+                "profile_sidebar_border_color": "DBE9ED",
+                "friends_count": 127,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/764466256133128192/6z4yZOrh_normal.jpg",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/764466256133128192/6z4yZOrh_normal.jpg",
+                "profile_use_background_image": true,
+                "id_str": "231181097",
+                "profile_text_color": "333333",
+                "verified": false,
+                "default_profile_image": false,
+                "protected": false,
+                "listed_count": 1,
+                "utc_offset": null,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/231181097/1481993222",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+                "location": "Ecuador",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+                "notifications": null,
+                "created_at": "Mon Dec 27 20:46:19 +0000 2010",
+                "description": null,
+                "profile_background_color": "DBE9ED"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "filter_level": "low",
+            "quoted_status_id": 1149473343604609031,
+            "place": {
+                "country": "Ecuador",
+                "id": "009924a469d7ace1",
+                "full_name": "Guayaquil, Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+                "place_type": "city",
+                "country_code": "EC",
+                "name": "Guayaquil",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -80.467605,
+                                -3.063716
+                            ],
+                            [
+                                -80.467605,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -3.063716
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "attributes": {}
+            },
+            "text": "Yo \u2639\ufe0f\ud83d\udc3d",
+            "quoted_status": {
+                "id": 1149473343604609031,
+                "in_reply_to_status_id": null,
+                "is_quote_status": false,
+                "quote_count": 265,
+                "in_reply_to_screen_name": null,
+                "reply_count": 20,
+                "geo": null,
+                "in_reply_to_user_id_str": null,
+                "favorite_count": 10787,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "indices": [
+                                5,
+                                28
+                            ],
+                            "id": 1149473341226405889,
+                            "sizes": {
+                                "small": {
+                                    "w": 540,
+                                    "h": 540,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 540,
+                                    "h": 540,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 540,
+                                    "h": 540,
+                                    "resize": "fit"
+                                }
+                            },
+                            "media_url_https": "https://pbs.twimg.com/media/D_O_6eaU0AETdxH.jpg",
+                            "url": "https://t.co/0QQf4bMehy",
+                            "media_url": "http://pbs.twimg.com/media/D_O_6eaU0AETdxH.jpg",
+                            "id_str": "1149473341226405889",
+                            "display_url": "pic.twitter.com/0QQf4bMehy",
+                            "expanded_url": "https://twitter.com/fercorreaa1/status/1149473343604609031/photo/1",
+                            "type": "photo"
+                        }
+                    ]
+                },
+                "retweeted": false,
+                "place": null,
+                "entities": {
+                    "symbols": [],
+                    "user_mentions": [],
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "indices": [
+                                5,
+                                28
+                            ],
+                            "id": 1149473341226405889,
+                            "sizes": {
+                                "small": {
+                                    "w": 540,
+                                    "h": 540,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 540,
+                                    "h": 540,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 540,
+                                    "h": 540,
+                                    "resize": "fit"
+                                }
+                            },
+                            "media_url_https": "https://pbs.twimg.com/media/D_O_6eaU0AETdxH.jpg",
+                            "url": "https://t.co/0QQf4bMehy",
+                            "media_url": "http://pbs.twimg.com/media/D_O_6eaU0AETdxH.jpg",
+                            "id_str": "1149473341226405889",
+                            "display_url": "pic.twitter.com/0QQf4bMehy",
+                            "expanded_url": "https://twitter.com/fercorreaa1/status/1149473343604609031/photo/1",
+                            "type": "photo"
+                        }
+                    ],
+                    "urls": []
+                },
+                "truncated": false,
+                "id_str": "1149473343604609031",
+                "retweet_count": 8729,
+                "user": {
+                    "screen_name": "fercorreaa1",
+                    "id": 1145006012317011968,
+                    "translator_type": "none",
+                    "url": "https://www.instagram.com/fercorreaa1/?hl=es-la",
+                    "follow_request_sent": null,
+                    "geo_enabled": false,
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "followers_count": 66,
+                    "profile_background_tile": false,
+                    "favourites_count": 202,
+                    "is_translator": false,
+                    "statuses_count": 92,
+                    "time_zone": null,
+                    "name": "\u0493\u1d07\u0280",
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "default_profile": true,
+                    "profile_sidebar_border_color": "C0DEED",
+                    "friends_count": 66,
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150134384508448769/cc838JAG_normal.jpg",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1150134384508448769/cc838JAG_normal.jpg",
+                    "profile_use_background_image": true,
+                    "id_str": "1145006012317011968",
+                    "profile_text_color": "333333",
+                    "verified": false,
+                    "default_profile_image": false,
+                    "protected": false,
+                    "listed_count": 0,
+                    "utc_offset": null,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145006012317011968/1562880155",
+                    "following": null,
+                    "profile_background_image_url": "",
+                    "location": "C\u00f3rdoba, Argentina",
+                    "profile_background_image_url_https": "",
+                    "notifications": null,
+                    "created_at": "Sat Jun 29 16:28:01 +0000 2019",
+                    "description": "\ud83c\udf3819.",
+                    "profile_background_color": "F5F8FA"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "filter_level": "low",
+                "lang": "en",
+                "text": "mood https://t.co/0QQf4bMehy",
+                "contributors": null,
+                "coordinates": null,
+                "display_text_range": [
+                    0,
+                    4
+                ],
+                "possibly_sensitive": false,
+                "created_at": "Fri Jul 12 00:19:35 +0000 2019",
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "favorited": false
+            },
+            "contributors": null,
+            "coordinates": null,
+            "created_at": "Sun Jul 14 04:10:45 +0000 2019",
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "favorited": false
+        }
+    ]
+}

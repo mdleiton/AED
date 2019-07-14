@@ -1,0 +1,2578 @@
+{
+    "data": [
+        {
+            "in_reply_to_status_id_str": null,
+            "reply_count": 0,
+            "contributors": null,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "quoted_status_id": 1145102228333715457,
+            "user": {
+                "location": "Quito, Ecuador",
+                "time_zone": null,
+                "screen_name": "wilsonpavonv",
+                "following": null,
+                "profile_background_image_url": "",
+                "url": null,
+                "profile_text_color": "333333",
+                "name": "Wilson Pavon",
+                "geo_enabled": true,
+                "default_profile_image": false,
+                "listed_count": 0,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/841625439655329792/1537368995",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072483029094936584/t9yHWpkD_normal.jpg",
+                "contributors_enabled": false,
+                "translator_type": "none",
+                "protected": false,
+                "description": "University teacher @ups. PhD student @ferrara. Passionate researcher and traveller. IEEE member",
+                "profile_background_color": "F5F8FA",
+                "lang": null,
+                "id_str": "841625439655329792",
+                "followers_count": 53,
+                "profile_link_color": "1DA1F2",
+                "friends_count": 229,
+                "created_at": "Tue Mar 14 12:21:56 +0000 2017",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1072483029094936584/t9yHWpkD_normal.jpg",
+                "favourites_count": 278,
+                "profile_use_background_image": true,
+                "id": 841625439655329792,
+                "utc_offset": null,
+                "profile_background_tile": false,
+                "profile_background_image_url_https": "",
+                "default_profile": true,
+                "statuses_count": 500,
+                "profile_sidebar_fill_color": "DDEEF6",
+                "notifications": null,
+                "profile_sidebar_border_color": "C0DEED",
+                "verified": false,
+                "is_translator": false,
+                "follow_request_sent": null
+            },
+            "retweeted": false,
+            "favorite_count": 0,
+            "lang": "en",
+            "truncated": false,
+            "quoted_status": {
+                "in_reply_to_status_id_str": null,
+                "reply_count": 9,
+                "contributors": null,
+                "quote_count": 32,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "location": "Mx",
+                    "time_zone": null,
+                    "screen_name": "eczezivo",
+                    "following": null,
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "url": null,
+                    "profile_text_color": "333333",
+                    "name": "Eczezivo",
+                    "geo_enabled": false,
+                    "default_profile_image": false,
+                    "listed_count": 86,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3464506992/1561383522",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143176014866067458/HaSJh9dG_normal.jpg",
+                    "contributors_enabled": false,
+                    "translator_type": "none",
+                    "protected": false,
+                    "description": "Causa y efecto",
+                    "profile_background_color": "C0DEED",
+                    "lang": null,
+                    "id_str": "3464506992",
+                    "followers_count": 32130,
+                    "profile_link_color": "1DA1F2",
+                    "friends_count": 19442,
+                    "created_at": "Sat Sep 05 23:52:36 +0000 2015",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1143176014866067458/HaSJh9dG_normal.jpg",
+                    "favourites_count": 15235,
+                    "profile_use_background_image": true,
+                    "id": 3464506992,
+                    "utc_offset": null,
+                    "profile_background_tile": false,
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "default_profile": true,
+                    "statuses_count": 2278,
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "notifications": null,
+                    "profile_sidebar_border_color": "C0DEED",
+                    "verified": false,
+                    "is_translator": false,
+                    "follow_request_sent": null
+                },
+                "retweeted": false,
+                "favorite_count": 1218,
+                "lang": "es",
+                "truncated": false,
+                "in_reply_to_user_id": null,
+                "text": "Alguien entren\u00f3 duro en el gym para este fin de semana https://t.co/3KnOsFgDn6",
+                "possibly_sensitive": false,
+                "display_text_range": [
+                    0,
+                    54
+                ],
+                "geo": null,
+                "created_at": "Sat Jun 29 22:50:20 +0000 2019",
+                "is_quote_status": false,
+                "filter_level": "low",
+                "favorited": false,
+                "id": 1145102228333715457,
+                "place": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "type": "video",
+                            "display_url": "pic.twitter.com/3KnOsFgDn6",
+                            "url": "https://t.co/3KnOsFgDn6",
+                            "id": 1145102089997209605,
+                            "video_info": {
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1145102089997209605/pu/vid/320x320/Ljs4jjXf--ucRhfQ.mp4?tag=10",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 432000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1145102089997209605/pu/pl/YvyJvv-Kh_hLlfjI.m3u8?tag=10",
+                                        "content_type": "application/x-mpegURL"
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1145102089997209605/pu/vid/480x480/-D4jGoUp3hsK0uvg.mp4?tag=10",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 832000
+                                    },
+                                    {
+                                        "url": "https://video.twimg.com/ext_tw_video/1145102089997209605/pu/vid/640x640/dShIOKAxwGAGthv-.mp4?tag=10",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 1280000
+                                    }
+                                ],
+                                "aspect_ratio": [
+                                    1,
+                                    1
+                                ],
+                                "duration_millis": 7028
+                            },
+                            "expanded_url": "https://twitter.com/eczezivo/status/1145102228333715457/video/1",
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1145102089997209605/pu/img/YqOk4xVb61Ajz-YF.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1145102089997209605/pu/img/YqOk4xVb61Ajz-YF.jpg",
+                            "id_str": "1145102089997209605",
+                            "sizes": {
+                                "large": {
+                                    "w": 640,
+                                    "resize": "fit",
+                                    "h": 640
+                                },
+                                "small": {
+                                    "w": 640,
+                                    "resize": "fit",
+                                    "h": 640
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 640,
+                                    "resize": "fit",
+                                    "h": 640
+                                }
+                            },
+                            "indices": [
+                                55,
+                                78
+                            ]
+                        }
+                    ]
+                },
+                "retweet_count": 478,
+                "coordinates": null,
+                "id_str": "1145102228333715457",
+                "in_reply_to_user_id_str": null,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "entities": {
+                    "symbols": [],
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "additional_media_info": {
+                                "monetizable": false
+                            },
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1145102089997209605/pu/img/YqOk4xVb61Ajz-YF.jpg",
+                            "type": "photo",
+                            "expanded_url": "https://twitter.com/eczezivo/status/1145102228333715457/video/1",
+                            "display_url": "pic.twitter.com/3KnOsFgDn6",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1145102089997209605/pu/img/YqOk4xVb61Ajz-YF.jpg",
+                            "url": "https://t.co/3KnOsFgDn6",
+                            "sizes": {
+                                "large": {
+                                    "w": 640,
+                                    "resize": "fit",
+                                    "h": 640
+                                },
+                                "small": {
+                                    "w": 640,
+                                    "resize": "fit",
+                                    "h": 640
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 640,
+                                    "resize": "fit",
+                                    "h": 640
+                                }
+                            },
+                            "id_str": "1145102089997209605",
+                            "id": 1145102089997209605,
+                            "indices": [
+                                55,
+                                78
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "in_reply_to_user_id_str": null,
+            "coordinates": null,
+            "quoted_status_permalink": {
+                "url": "https://t.co/DOf78yx0MM",
+                "display": "twitter.com/eczezivo/statu\u2026",
+                "expanded": "https://twitter.com/eczezivo/status/1145102228333715457"
+            },
+            "geo": null,
+            "created_at": "Mon Jul 01 21:50:41 +0000 2019",
+            "is_quote_status": true,
+            "filter_level": "low",
+            "favorited": false,
+            "id": 1145811991317102593,
+            "place": {
+                "id": "0177bc687a9ac697",
+                "name": "Quito",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -78.948466,
+                                -0.588618
+                            ],
+                            [
+                                -78.948466,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                -0.588618
+                            ]
+                        ]
+                    ]
+                },
+                "country": "Ecuador",
+                "country_code": "EC",
+                "place_type": "city",
+                "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+                "full_name": "Quito, Ecuador"
+            },
+            "in_reply_to_user_id": null,
+            "timestamp_ms": "1562017841544",
+            "retweet_count": 0,
+            "id_str": "1145811991317102593",
+            "text": "Friday Training day",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "quoted_status_id_str": "1145102228333715457",
+            "entities": {
+                "symbols": [],
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": []
+            }
+        },
+        {
+            "in_reply_to_status_id_str": null,
+            "reply_count": 0,
+            "contributors": null,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "profile_link_color": "1DA1F2",
+                "location": "Lince, Peru",
+                "time_zone": null,
+                "screen_name": "Apecc_",
+                "following": null,
+                "profile_use_background_image": true,
+                "url": null,
+                "profile_text_color": "333333",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/750390778908770305/N52qO6j1_normal.jpg",
+                "name": "Apecc",
+                "default_profile_image": false,
+                "listed_count": 0,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/750390778908770305/N52qO6j1_normal.jpg",
+                "protected": false,
+                "description": "Cursos Jur\u00eddicos de Alto Nivel",
+                "profile_background_color": "F5F8FA",
+                "lang": null,
+                "notifications": null,
+                "followers_count": 31,
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "created_at": "Tue Jul 05 17:56:03 +0000 2016",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "favourites_count": 11,
+                "translator_type": "none",
+                "id": 750387783626350596,
+                "statuses_count": 126,
+                "utc_offset": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/750387783626350596/1467742318",
+                "default_profile": true,
+                "follow_request_sent": null,
+                "geo_enabled": true,
+                "friends_count": 238,
+                "id_str": "750387783626350596",
+                "profile_sidebar_border_color": "C0DEED",
+                "verified": false,
+                "is_translator": false,
+                "contributors_enabled": false
+            },
+            "retweeted": false,
+            "favorite_count": 0,
+            "is_quote_status": false,
+            "id_str": "1145812122749886465",
+            "in_reply_to_user_id_str": null,
+            "text": "\u00a1\u00a1APECC MODO COPA AM\u00c9RICA!! \u26bd\ufe0f\ud83c\udfc6\ud83c\uddf5\ud83c\uddea\nPRECIO ESPECIAL HASTA EL JUEVES 04 DE JULIO, A SOLO 30 SOLES LOS DOS LIBROS (PREC\u2026 https://t.co/BKDQmu0wEb",
+            "possibly_sensitive": false,
+            "display_text_range": [
+                0,
+                140
+            ],
+            "geo": null,
+            "created_at": "Mon Jul 01 21:51:12 +0000 2019",
+            "lang": "es",
+            "filter_level": "low",
+            "favorited": false,
+            "id": 1145812122749886465,
+            "place": {
+                "name": "Peru",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -81.328148,
+                                -18.349728
+                            ],
+                            [
+                                -81.328148,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -18.349728
+                            ]
+                        ]
+                    ]
+                },
+                "country": "Peru",
+                "country_code": "PE",
+                "place_type": "country",
+                "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+                "full_name": "Peru",
+                "id": "2dfa9ecb0179a4e4"
+            },
+            "in_reply_to_user_id": null,
+            "timestamp_ms": "1562017872880",
+            "entities": {
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/BKDQmu0wEb",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "expanded_url": "https://twitter.com/i/web/status/1145812122749886465",
+                        "display_url": "twitter.com/i/web/status/1\u2026"
+                    }
+                ],
+                "user_mentions": [],
+                "hashtags": []
+            },
+            "retweet_count": 0,
+            "truncated": true,
+            "extended_tweet": {
+                "full_text": "\u00a1\u00a1APECC MODO COPA AM\u00c9RICA!! \u26bd\ufe0f\ud83c\udfc6\ud83c\uddf5\ud83c\uddea\nPRECIO ESPECIAL HASTA EL JUEVES 04 DE JULIO, A SOLO 30 SOLES LOS DOS LIBROS (PRECIO NORMAL DE DOS LIBROS: 80 SOLES)\n\ud83d\udea8 VENTAS EN APECC:\nAV. C\u00c9SAR VALLEJO 503, LINCE (Altura cuadra 24 de Av. Arenales)\n\ud83d\udcf2 983334951 / 996894994 / 440-8941 / 4229843 https://t.co/LKdDjoOYkL",
+                "display_text_range": [
+                    0,
+                    277
+                ],
+                "extended_entities": {
+                    "media": [
+                        {
+                            "sizes": {
+                                "large": {
+                                    "w": 1451,
+                                    "resize": "fit",
+                                    "h": 2048
+                                },
+                                "small": {
+                                    "w": 482,
+                                    "resize": "fit",
+                                    "h": 680
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 850,
+                                    "resize": "fit",
+                                    "h": 1200
+                                }
+                            },
+                            "type": "photo",
+                            "expanded_url": "https://twitter.com/Apecc_/status/1145812122749886465/photo/1",
+                            "media_url_https": "https://pbs.twimg.com/media/D-a9_A-XoAENuEr.jpg",
+                            "media_url": "http://pbs.twimg.com/media/D-a9_A-XoAENuEr.jpg",
+                            "url": "https://t.co/LKdDjoOYkL",
+                            "display_url": "pic.twitter.com/LKdDjoOYkL",
+                            "id_str": "1145812045503373313",
+                            "id": 1145812045503373313,
+                            "indices": [
+                                278,
+                                301
+                            ]
+                        }
+                    ]
+                },
+                "entities": {
+                    "symbols": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "sizes": {
+                                "large": {
+                                    "w": 1451,
+                                    "resize": "fit",
+                                    "h": 2048
+                                },
+                                "small": {
+                                    "w": 482,
+                                    "resize": "fit",
+                                    "h": 680
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 850,
+                                    "resize": "fit",
+                                    "h": 1200
+                                }
+                            },
+                            "type": "photo",
+                            "expanded_url": "https://twitter.com/Apecc_/status/1145812122749886465/photo/1",
+                            "media_url_https": "https://pbs.twimg.com/media/D-a9_A-XoAENuEr.jpg",
+                            "media_url": "http://pbs.twimg.com/media/D-a9_A-XoAENuEr.jpg",
+                            "url": "https://t.co/LKdDjoOYkL",
+                            "display_url": "pic.twitter.com/LKdDjoOYkL",
+                            "id_str": "1145812045503373313",
+                            "id": 1145812045503373313,
+                            "indices": [
+                                278,
+                                301
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "hashtags": []
+                }
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "coordinates": null
+        },
+        {
+            "in_reply_to_status_id_str": null,
+            "reply_count": 0,
+            "contributors": null,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "location": "Quito",
+                "time_zone": null,
+                "screen_name": "diazenos",
+                "profile_sidebar_fill_color": "000000",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "url": null,
+                "profile_text_color": "000000",
+                "default_profile_image": false,
+                "listed_count": 17,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/358399996/1522187470",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090944362471714818/S4DOx97U_normal.jpg",
+                "contributors_enabled": false,
+                "translator_type": "none",
+                "protected": false,
+                "description": "Vi\u00f1amarino de nacimiento, patag\u00f3n por linaje, santiaguino por crianza y quite\u00f1o por circunstancia. Periodista en @elcomerciocom Mis opiniones son personales.",
+                "profile_background_color": "000000",
+                "lang": null,
+                "id_str": "358399996",
+                "followers_count": 798,
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "000000",
+                "created_at": "Fri Aug 19 21:30:13 +0000 2011",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1090944362471714818/S4DOx97U_normal.jpg",
+                "favourites_count": 2200,
+                "profile_use_background_image": false,
+                "id": 358399996,
+                "utc_offset": null,
+                "profile_background_tile": false,
+                "verified": false,
+                "name": "Valent\u00edn D\u00edaz Enos",
+                "default_profile": false,
+                "follow_request_sent": null,
+                "geo_enabled": true,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "notifications": null,
+                "statuses_count": 4939,
+                "is_translator": false,
+                "friends_count": 3559
+            },
+            "retweeted": false,
+            "favorite_count": 0,
+            "lang": "es",
+            "truncated": true,
+            "in_reply_to_user_id_str": null,
+            "coordinates": null,
+            "extended_tweet": {
+                "full_text": "Me aburren la mayor\u00eda de abogados, escritores y periodistas en Twitter. Cuando no est\u00e1n dando c\u00e1tedra con aires de superioridad, andan de zalameros con sus respectivos clubs de amiguis que, al final, son siempre los mismos \u00bfCuando le paramos bola a los ciudadanos de a pie?",
+                "display_text_range": [
+                    0,
+                    273
+                ],
+                "entities": {
+                    "symbols": [],
+                    "hashtags": [],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "geo": null,
+            "created_at": "Mon Jul 01 21:51:36 +0000 2019",
+            "is_quote_status": false,
+            "filter_level": "low",
+            "favorited": false,
+            "id": 1145812222985326593,
+            "place": {
+                "name": "Quito",
+                "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -78.948466,
+                                -0.588618
+                            ],
+                            [
+                                -78.948466,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                -0.588618
+                            ]
+                        ]
+                    ]
+                },
+                "country": "Ecuador",
+                "country_code": "EC",
+                "place_type": "city",
+                "id": "0177bc687a9ac697",
+                "full_name": "Quito, Ecuador"
+            },
+            "in_reply_to_user_id": null,
+            "timestamp_ms": "1562017896778",
+            "retweet_count": 0,
+            "id_str": "1145812222985326593",
+            "text": "Me aburren la mayor\u00eda de abogados, escritores y periodistas en Twitter. Cuando no est\u00e1n dando c\u00e1tedra con aires de\u2026 https://t.co/eTcBMkBQxC",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "entities": {
+                "symbols": [],
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/eTcBMkBQxC",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/1145812222985326593",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "in_reply_to_status_id_str": null,
+            "reply_count": 0,
+            "contributors": null,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "profile_link_color": "1DA1F2",
+                "location": "Ecuador",
+                "time_zone": null,
+                "screen_name": "Salud_CZ2",
+                "follow_request_sent": null,
+                "following": null,
+                "profile_use_background_image": true,
+                "url": null,
+                "profile_text_color": "333333",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1140231610555609089/6cA3580O_normal.jpg",
+                "name": "Coordinaci\u00f3n Zonal 2",
+                "default_profile_image": false,
+                "listed_count": 22,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "protected": false,
+                "description": "Cuenta oficial de Twitter de la Coordinaci\u00f3n Zonal de Salud 2 (Napo, Orellana y Pichincha)",
+                "profile_background_color": "C0DEED",
+                "lang": null,
+                "id_str": "1324573592",
+                "followers_count": 3588,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140231610555609089/6cA3580O_normal.jpg",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "friends_count": 466,
+                "created_at": "Wed Apr 03 13:15:06 +0000 2013",
+                "geo_enabled": true,
+                "favourites_count": 9615,
+                "translator_type": "none",
+                "id": 1324573592,
+                "utc_offset": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1324573592/1559693583",
+                "default_profile": true,
+                "statuses_count": 26051,
+                "profile_sidebar_fill_color": "DDEEF6",
+                "notifications": null,
+                "profile_sidebar_border_color": "C0DEED",
+                "verified": false,
+                "is_translator": false,
+                "contributors_enabled": false
+            },
+            "retweeted": false,
+            "favorite_count": 0,
+            "is_quote_status": false,
+            "id_str": "1145812230677696514",
+            "in_reply_to_user_id_str": null,
+            "text": "#Orellana | Con la finalidad de brindar atenci\u00f3n m\u00e9dica inmediata a v\u00edctimas de violencia intrafamiliar, magister J\u2026 https://t.co/JFrsjRXpJh",
+            "possibly_sensitive": false,
+            "display_text_range": [
+                0,
+                140
+            ],
+            "geo": null,
+            "created_at": "Mon Jul 01 21:51:38 +0000 2019",
+            "lang": "es",
+            "filter_level": "low",
+            "favorited": false,
+            "id": 1145812230677696514,
+            "place": {
+                "id": "4e43cac8250a8b20",
+                "name": "Ecuador",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -92.008973,
+                                -5.013285
+                            ],
+                            [
+                                -92.008973,
+                                1.681834
+                            ],
+                            [
+                                -75.192627,
+                                1.681834
+                            ],
+                            [
+                                -75.192627,
+                                -5.013285
+                            ]
+                        ]
+                    ]
+                },
+                "country": "Ecuador",
+                "country_code": "EC",
+                "place_type": "country",
+                "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+                "full_name": "Ecuador"
+            },
+            "in_reply_to_user_id": null,
+            "timestamp_ms": "1562017898612",
+            "entities": {
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/JFrsjRXpJh",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "expanded_url": "https://twitter.com/i/web/status/1145812230677696514",
+                        "display_url": "twitter.com/i/web/status/1\u2026"
+                    }
+                ],
+                "user_mentions": [],
+                "hashtags": [
+                    {
+                        "text": "Orellana",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ]
+            },
+            "retweet_count": 0,
+            "truncated": true,
+            "extended_tweet": {
+                "full_text": "#Orellana | Con la finalidad de brindar atenci\u00f3n m\u00e9dica inmediata a v\u00edctimas de violencia intrafamiliar, magister Juan Pablo Cevallos, director Distrital 22D02 LORETO-LORETO y profesionales de la instituci\u00f3n, mantienen reuni\u00f3n de trabajo con representante de la Polic\u00eda Nacional. https://t.co/1FX308mLvt",
+                "display_text_range": [
+                    0,
+                    279
+                ],
+                "extended_entities": {
+                    "media": [
+                        {
+                            "type": "photo",
+                            "expanded_url": "https://twitter.com/Salud_CZ2/status/1145812230677696514/photo/1",
+                            "media_url_https": "https://pbs.twimg.com/media/D-a-JYqX4AA38_x.jpg",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D-a-JYqX4AA38_x.jpg",
+                            "url": "https://t.co/1FX308mLvt",
+                            "sizes": {
+                                "large": {
+                                    "w": 1280,
+                                    "resize": "fit",
+                                    "h": 960
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "resize": "fit",
+                                    "h": 510
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "resize": "fit",
+                                    "h": 900
+                                }
+                            },
+                            "id_str": "1145812223660646400",
+                            "display_url": "pic.twitter.com/1FX308mLvt",
+                            "id": 1145812223660646400
+                        },
+                        {
+                            "type": "photo",
+                            "expanded_url": "https://twitter.com/Salud_CZ2/status/1145812230677696514/photo/1",
+                            "media_url_https": "https://pbs.twimg.com/media/D-a-JYpWkAEz9QZ.jpg",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D-a-JYpWkAEz9QZ.jpg",
+                            "url": "https://t.co/1FX308mLvt",
+                            "sizes": {
+                                "large": {
+                                    "w": 1280,
+                                    "resize": "fit",
+                                    "h": 960
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "resize": "fit",
+                                    "h": 510
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "resize": "fit",
+                                    "h": 900
+                                }
+                            },
+                            "id_str": "1145812223656366081",
+                            "display_url": "pic.twitter.com/1FX308mLvt",
+                            "id": 1145812223656366081
+                        },
+                        {
+                            "type": "photo",
+                            "expanded_url": "https://twitter.com/Salud_CZ2/status/1145812230677696514/photo/1",
+                            "media_url_https": "https://pbs.twimg.com/media/D-a-JYqW4AATJp2.jpg",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D-a-JYqW4AATJp2.jpg",
+                            "url": "https://t.co/1FX308mLvt",
+                            "sizes": {
+                                "large": {
+                                    "w": 1280,
+                                    "resize": "fit",
+                                    "h": 960
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "resize": "fit",
+                                    "h": 510
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "resize": "fit",
+                                    "h": 900
+                                }
+                            },
+                            "id_str": "1145812223660580864",
+                            "display_url": "pic.twitter.com/1FX308mLvt",
+                            "id": 1145812223660580864
+                        },
+                        {
+                            "type": "photo",
+                            "expanded_url": "https://twitter.com/Salud_CZ2/status/1145812230677696514/photo/1",
+                            "media_url_https": "https://pbs.twimg.com/media/D-a-JYrXsAAPD9n.jpg",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D-a-JYrXsAAPD9n.jpg",
+                            "url": "https://t.co/1FX308mLvt",
+                            "sizes": {
+                                "large": {
+                                    "w": 1280,
+                                    "resize": "fit",
+                                    "h": 960
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "resize": "fit",
+                                    "h": 510
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "resize": "fit",
+                                    "h": 900
+                                }
+                            },
+                            "id_str": "1145812223664828416",
+                            "display_url": "pic.twitter.com/1FX308mLvt",
+                            "id": 1145812223664828416
+                        }
+                    ]
+                },
+                "entities": {
+                    "symbols": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "type": "photo",
+                            "expanded_url": "https://twitter.com/Salud_CZ2/status/1145812230677696514/photo/1",
+                            "media_url_https": "https://pbs.twimg.com/media/D-a-JYqX4AA38_x.jpg",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D-a-JYqX4AA38_x.jpg",
+                            "url": "https://t.co/1FX308mLvt",
+                            "sizes": {
+                                "large": {
+                                    "w": 1280,
+                                    "resize": "fit",
+                                    "h": 960
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "resize": "fit",
+                                    "h": 510
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "resize": "fit",
+                                    "h": 900
+                                }
+                            },
+                            "id_str": "1145812223660646400",
+                            "display_url": "pic.twitter.com/1FX308mLvt",
+                            "id": 1145812223660646400
+                        },
+                        {
+                            "type": "photo",
+                            "expanded_url": "https://twitter.com/Salud_CZ2/status/1145812230677696514/photo/1",
+                            "media_url_https": "https://pbs.twimg.com/media/D-a-JYpWkAEz9QZ.jpg",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D-a-JYpWkAEz9QZ.jpg",
+                            "url": "https://t.co/1FX308mLvt",
+                            "sizes": {
+                                "large": {
+                                    "w": 1280,
+                                    "resize": "fit",
+                                    "h": 960
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "resize": "fit",
+                                    "h": 510
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "resize": "fit",
+                                    "h": 900
+                                }
+                            },
+                            "id_str": "1145812223656366081",
+                            "display_url": "pic.twitter.com/1FX308mLvt",
+                            "id": 1145812223656366081
+                        },
+                        {
+                            "type": "photo",
+                            "expanded_url": "https://twitter.com/Salud_CZ2/status/1145812230677696514/photo/1",
+                            "media_url_https": "https://pbs.twimg.com/media/D-a-JYqW4AATJp2.jpg",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D-a-JYqW4AATJp2.jpg",
+                            "url": "https://t.co/1FX308mLvt",
+                            "sizes": {
+                                "large": {
+                                    "w": 1280,
+                                    "resize": "fit",
+                                    "h": 960
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "resize": "fit",
+                                    "h": 510
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "resize": "fit",
+                                    "h": 900
+                                }
+                            },
+                            "id_str": "1145812223660580864",
+                            "display_url": "pic.twitter.com/1FX308mLvt",
+                            "id": 1145812223660580864
+                        },
+                        {
+                            "type": "photo",
+                            "expanded_url": "https://twitter.com/Salud_CZ2/status/1145812230677696514/photo/1",
+                            "media_url_https": "https://pbs.twimg.com/media/D-a-JYrXsAAPD9n.jpg",
+                            "indices": [
+                                280,
+                                303
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/D-a-JYrXsAAPD9n.jpg",
+                            "url": "https://t.co/1FX308mLvt",
+                            "sizes": {
+                                "large": {
+                                    "w": 1280,
+                                    "resize": "fit",
+                                    "h": 960
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "resize": "fit",
+                                    "h": 510
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "resize": "fit",
+                                    "h": 900
+                                }
+                            },
+                            "id_str": "1145812223664828416",
+                            "display_url": "pic.twitter.com/1FX308mLvt",
+                            "id": 1145812223664828416
+                        }
+                    ],
+                    "user_mentions": [],
+                    "hashtags": [
+                        {
+                            "text": "Orellana",
+                            "indices": [
+                                0,
+                                9
+                            ]
+                        }
+                    ]
+                }
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "coordinates": null
+        },
+        {
+            "in_reply_to_status_id_str": null,
+            "reply_count": 0,
+            "contributors": null,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "location": "Lima, Peru",
+                "time_zone": null,
+                "screen_name": "WaykaPeru",
+                "following": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "url": "http://wayka.pe",
+                "profile_text_color": "000000",
+                "name": "\ud83c\uddf5\ud83c\uddea Wayka\ud83d\udce2",
+                "geo_enabled": true,
+                "default_profile_image": false,
+                "listed_count": 111,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2180222485/1531847561",
+                "contributors_enabled": false,
+                "protected": false,
+                "description": "M\u00e1s que periodismo.",
+                "profile_link_color": "2CFEFE",
+                "lang": null,
+                "notifications": null,
+                "followers_count": 23392,
+                "profile_background_color": "000000",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "created_at": "Thu Nov 07 14:37:02 +0000 2013",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1140626887397580800/hjvzDSO4_normal.png",
+                "favourites_count": 1813,
+                "translator_type": "none",
+                "id": 2180222485,
+                "statuses_count": 15537,
+                "profile_use_background_image": false,
+                "utc_offset": null,
+                "profile_background_tile": false,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140626887397580800/hjvzDSO4_normal.png",
+                "default_profile": false,
+                "follow_request_sent": null,
+                "profile_sidebar_fill_color": "000000",
+                "id_str": "2180222485",
+                "profile_sidebar_border_color": "000000",
+                "verified": false,
+                "is_translator": false,
+                "friends_count": 1189
+            },
+            "retweeted": false,
+            "favorite_count": 0,
+            "lang": "es",
+            "truncated": false,
+            "in_reply_to_user_id": null,
+            "text": "#Comas: Ampliaci\u00f3n del @MetropolitanoPT afectar\u00eda parque Sinchi Roca.\n\u27a1\ufe0f https://t.co/AZYaRPnhqr https://t.co/UWYiqQBaAZ",
+            "possibly_sensitive": false,
+            "display_text_range": [
+                0,
+                96
+            ],
+            "geo": null,
+            "created_at": "Mon Jul 01 21:51:41 +0000 2019",
+            "is_quote_status": false,
+            "filter_level": "low",
+            "favorited": false,
+            "id": 1145812241452871683,
+            "place": {
+                "name": "Peru",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -81.328148,
+                                -18.349728
+                            ],
+                            [
+                                -81.328148,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -18.349728
+                            ]
+                        ]
+                    ]
+                },
+                "country": "Peru",
+                "country_code": "PE",
+                "place_type": "country",
+                "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+                "full_name": "Peru",
+                "id": "2dfa9ecb0179a4e4"
+            },
+            "timestamp_ms": "1562017901181",
+            "extended_entities": {
+                "media": [
+                    {
+                        "sizes": {
+                            "large": {
+                                "w": 916,
+                                "resize": "fit",
+                                "h": 540
+                            },
+                            "small": {
+                                "w": 680,
+                                "resize": "fit",
+                                "h": 401
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "resize": "crop",
+                                "h": 150
+                            },
+                            "medium": {
+                                "w": 916,
+                                "resize": "fit",
+                                "h": 540
+                            }
+                        },
+                        "type": "photo",
+                        "expanded_url": "https://twitter.com/WaykaPeru/status/1145812241452871683/photo/1",
+                        "media_url": "http://pbs.twimg.com/media/D-a-JNfXUAA0ZSs.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D-a-JNfXUAA0ZSs.jpg",
+                        "url": "https://t.co/UWYiqQBaAZ",
+                        "display_url": "pic.twitter.com/UWYiqQBaAZ",
+                        "id_str": "1145812220661682176",
+                        "id": 1145812220661682176,
+                        "indices": [
+                            97,
+                            120
+                        ]
+                    }
+                ]
+            },
+            "retweet_count": 0,
+            "coordinates": null,
+            "id_str": "1145812241452871683",
+            "in_reply_to_user_id_str": null,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "entities": {
+                "symbols": [],
+                "hashtags": [
+                    {
+                        "text": "Comas",
+                        "indices": [
+                            0,
+                            6
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "sizes": {
+                            "large": {
+                                "w": 916,
+                                "resize": "fit",
+                                "h": 540
+                            },
+                            "small": {
+                                "w": 680,
+                                "resize": "fit",
+                                "h": 401
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "resize": "crop",
+                                "h": 150
+                            },
+                            "medium": {
+                                "w": 916,
+                                "resize": "fit",
+                                "h": 540
+                            }
+                        },
+                        "type": "photo",
+                        "expanded_url": "https://twitter.com/WaykaPeru/status/1145812241452871683/photo/1",
+                        "media_url": "http://pbs.twimg.com/media/D-a-JNfXUAA0ZSs.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/D-a-JNfXUAA0ZSs.jpg",
+                        "url": "https://t.co/UWYiqQBaAZ",
+                        "display_url": "pic.twitter.com/UWYiqQBaAZ",
+                        "id_str": "1145812220661682176",
+                        "id": 1145812220661682176,
+                        "indices": [
+                            97,
+                            120
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "id_str": "1357830498",
+                        "screen_name": "MetropolitanoPT",
+                        "name": "Metropolitano",
+                        "id": 1357830498,
+                        "indices": [
+                            23,
+                            39
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/AZYaRPnhqr",
+                        "display_url": "bit.ly/2FJyhiE",
+                        "expanded_url": "http://bit.ly/2FJyhiE",
+                        "indices": [
+                            73,
+                            96
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "in_reply_to_status_id_str": "1145670889599643648",
+            "reply_count": 0,
+            "contributors": null,
+            "quote_count": 0,
+            "in_reply_to_screen_name": "el_telegrafo",
+            "user": {
+                "profile_link_color": "1DA1F2",
+                "location": null,
+                "time_zone": null,
+                "screen_name": "jhcc22554",
+                "profile_sidebar_border_color": "C0DEED",
+                "follow_request_sent": null,
+                "favourites_count": 360,
+                "translator_type": "none",
+                "url": null,
+                "profile_text_color": "333333",
+                "following": null,
+                "default_profile_image": false,
+                "listed_count": 0,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/764618717582032896/1534202550",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029146205501186048/B-3fSWde_normal.jpg",
+                "verified": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1029146205501186048/B-3fSWde_normal.jpg",
+                "protected": false,
+                "description": null,
+                "profile_background_color": "F5F8FA",
+                "lang": null,
+                "id_str": "764618717582032896",
+                "followers_count": 35,
+                "profile_background_image_url": "",
+                "created_at": "Sun Aug 14 00:24:43 +0000 2016",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "id": 764618717582032896,
+                "profile_use_background_image": true,
+                "is_translator": false,
+                "utc_offset": null,
+                "profile_background_tile": false,
+                "name": "Jorge Cordero",
+                "default_profile": true,
+                "friends_count": 186,
+                "geo_enabled": true,
+                "profile_background_image_url_https": "",
+                "notifications": null,
+                "statuses_count": 7864,
+                "contributors_enabled": false
+            },
+            "retweeted": false,
+            "favorite_count": 0,
+            "is_quote_status": false,
+            "id_str": "1145812302366683139",
+            "in_reply_to_user_id": 51254405,
+            "display_text_range": [
+                14,
+                121
+            ],
+            "in_reply_to_user_id_str": "51254405",
+            "geo": null,
+            "created_at": "Mon Jul 01 21:51:55 +0000 2019",
+            "lang": "es",
+            "filter_level": "low",
+            "favorited": false,
+            "id": 1145812302366683139,
+            "place": {
+                "name": "Quito",
+                "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -78.948466,
+                                -0.588618
+                            ],
+                            [
+                                -78.948466,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                -0.588618
+                            ]
+                        ]
+                    ]
+                },
+                "country": "Ecuador",
+                "country_code": "EC",
+                "place_type": "city",
+                "id": "0177bc687a9ac697",
+                "full_name": "Quito, Ecuador"
+            },
+            "timestamp_ms": "1562017915704",
+            "entities": {
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "id_str": "51254405",
+                        "screen_name": "el_telegrafo",
+                        "indices": [
+                            0,
+                            13
+                        ],
+                        "name": "El Tel\u00e9grafo Ecuador",
+                        "id": 51254405
+                    }
+                ],
+                "hashtags": []
+            },
+            "retweet_count": 0,
+            "truncated": false,
+            "text": "@el_telegrafo Y el.\"vice\" babeando como perro por la caridad, no hay la mas minima dignidad en este gobierno de corruptos",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1145670889599643648,
+            "coordinates": null
+        },
+        {
+            "in_reply_to_status_id_str": null,
+            "reply_count": 0,
+            "contributors": null,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/813167894435655680/rLZWVWm4_normal.jpg",
+                "location": "Per\u00fa",
+                "time_zone": null,
+                "screen_name": "e_crevoisier",
+                "profile_sidebar_fill_color": "000000",
+                "favourites_count": 8,
+                "profile_use_background_image": false,
+                "url": null,
+                "profile_text_color": "000000",
+                "following": null,
+                "name": "Enrique Crevoisier",
+                "default_profile_image": false,
+                "listed_count": 0,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "contributors_enabled": false,
+                "protected": false,
+                "description": "Administrador de Empresas",
+                "profile_background_color": "000000",
+                "lang": null,
+                "id_str": "2836750992",
+                "is_translator": false,
+                "followers_count": 12,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "friends_count": 26,
+                "created_at": "Wed Oct 01 15:03:47 +0000 2014",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/813167894435655680/rLZWVWm4_normal.jpg",
+                "translator_type": "none",
+                "id": 2836750992,
+                "utc_offset": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2836750992/1469214505",
+                "default_profile": false,
+                "statuses_count": 2958,
+                "geo_enabled": true,
+                "notifications": null,
+                "profile_sidebar_border_color": "000000",
+                "verified": false,
+                "profile_link_color": "1B95E0",
+                "follow_request_sent": null
+            },
+            "retweeted": false,
+            "favorite_count": 0,
+            "lang": "es",
+            "truncated": true,
+            "in_reply_to_user_id_str": null,
+            "coordinates": null,
+            "possibly_sensitive": false,
+            "display_text_range": [
+                0,
+                140
+            ],
+            "geo": null,
+            "created_at": "Mon Jul 01 21:51:56 +0000 2019",
+            "is_quote_status": false,
+            "filter_level": "low",
+            "favorited": false,
+            "id": 1145812306598735872,
+            "place": {
+                "id": "2dfa9ecb0179a4e4",
+                "name": "Peru",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -81.328148,
+                                -18.349728
+                            ],
+                            [
+                                -81.328148,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -18.349728
+                            ]
+                        ]
+                    ]
+                },
+                "country": "Peru",
+                "country_code": "PE",
+                "place_type": "country",
+                "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+                "full_name": "Peru"
+            },
+            "in_reply_to_user_id": null,
+            "extended_tweet": {
+                "full_text": "Si hubiera sido cualquier otro,los medios y las redes estar\u00edan revent\u00e1ndolo y adem\u00e1s ya le habr\u00edan abierto investigaci\u00f3n x ser tan delincuente como al delincuente q le dio arresto domiciliario x exceso d c\u00e1rcel x asesinato a pesar d tener una sentencia d 25a x intento d homicidio https://t.co/3xru7SOnOu",
+                "display_text_range": [
+                    0,
+                    280
+                ],
+                "extended_entities": {
+                    "media": [
+                        {
+                            "type": "photo",
+                            "expanded_url": "https://twitter.com/e_crevoisier/status/1145812306598735872/photo/1",
+                            "media_url": "http://pbs.twimg.com/media/D-a97s_XUAUaJY8.jpg",
+                            "indices": [
+                                281,
+                                304
+                            ],
+                            "media_url_https": "https://pbs.twimg.com/media/D-a97s_XUAUaJY8.jpg",
+                            "url": "https://t.co/3xru7SOnOu",
+                            "sizes": {
+                                "large": {
+                                    "w": 1200,
+                                    "resize": "fit",
+                                    "h": 600
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "resize": "fit",
+                                    "h": 340
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "resize": "fit",
+                                    "h": 600
+                                }
+                            },
+                            "id_str": "1145811988599230469",
+                            "id": 1145811988599230469,
+                            "display_url": "pic.twitter.com/3xru7SOnOu"
+                        }
+                    ]
+                },
+                "entities": {
+                    "symbols": [],
+                    "hashtags": [],
+                    "media": [
+                        {
+                            "type": "photo",
+                            "expanded_url": "https://twitter.com/e_crevoisier/status/1145812306598735872/photo/1",
+                            "media_url": "http://pbs.twimg.com/media/D-a97s_XUAUaJY8.jpg",
+                            "indices": [
+                                281,
+                                304
+                            ],
+                            "media_url_https": "https://pbs.twimg.com/media/D-a97s_XUAUaJY8.jpg",
+                            "url": "https://t.co/3xru7SOnOu",
+                            "sizes": {
+                                "large": {
+                                    "w": 1200,
+                                    "resize": "fit",
+                                    "h": 600
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "resize": "fit",
+                                    "h": 340
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "resize": "fit",
+                                    "h": 600
+                                }
+                            },
+                            "id_str": "1145811988599230469",
+                            "id": 1145811988599230469,
+                            "display_url": "pic.twitter.com/3xru7SOnOu"
+                        }
+                    ],
+                    "user_mentions": [],
+                    "urls": []
+                }
+            },
+            "timestamp_ms": "1562017916713",
+            "retweet_count": 0,
+            "id_str": "1145812306598735872",
+            "text": "Si hubiera sido cualquier otro,los medios y las redes estar\u00edan revent\u00e1ndolo y adem\u00e1s ya le habr\u00edan abierto investig\u2026 https://t.co/pjq3S2mLdp",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "entities": {
+                "symbols": [],
+                "hashtags": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/pjq3S2mLdp",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/1145812306598735872",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "in_reply_to_status_id_str": "1145812306598735872",
+            "reply_count": 0,
+            "contributors": null,
+            "quote_count": 0,
+            "in_reply_to_screen_name": "e_crevoisier",
+            "user": {
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/813167894435655680/rLZWVWm4_normal.jpg",
+                "location": "Per\u00fa",
+                "time_zone": null,
+                "screen_name": "e_crevoisier",
+                "favourites_count": 8,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "url": null,
+                "profile_text_color": "000000",
+                "following": null,
+                "default_profile_image": false,
+                "listed_count": 0,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2836750992/1469214505",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/813167894435655680/rLZWVWm4_normal.jpg",
+                "protected": false,
+                "description": "Administrador de Empresas",
+                "profile_background_color": "000000",
+                "lang": null,
+                "notifications": null,
+                "followers_count": 12,
+                "profile_link_color": "1B95E0",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "created_at": "Wed Oct 01 15:03:47 +0000 2014",
+                "geo_enabled": true,
+                "translator_type": "none",
+                "id": 2836750992,
+                "statuses_count": 2959,
+                "profile_use_background_image": false,
+                "utc_offset": null,
+                "profile_background_tile": false,
+                "name": "Enrique Crevoisier",
+                "default_profile": false,
+                "follow_request_sent": null,
+                "profile_sidebar_fill_color": "000000",
+                "friends_count": 26,
+                "id_str": "2836750992",
+                "profile_sidebar_border_color": "000000",
+                "verified": false,
+                "is_translator": false,
+                "contributors_enabled": false
+            },
+            "retweeted": false,
+            "favorite_count": 0,
+            "is_quote_status": false,
+            "id_str": "1145812309820026880",
+            "in_reply_to_user_id_str": "2836750992",
+            "text": "Pero,como es otro d los h\u00e9roes..los medios ni c inmutan,nadie lo conmina a explicar,no lo investigan,nadie le hace\u2026 https://t.co/5ZFXFPDs1o",
+            "possibly_sensitive": false,
+            "display_text_range": [
+                0,
+                140
+            ],
+            "geo": null,
+            "created_at": "Mon Jul 01 21:51:57 +0000 2019",
+            "lang": "es",
+            "filter_level": "low",
+            "favorited": false,
+            "id": 1145812309820026880,
+            "place": {
+                "name": "Peru",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -81.328148,
+                                -18.349728
+                            ],
+                            [
+                                -81.328148,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -18.349728
+                            ]
+                        ]
+                    ]
+                },
+                "country": "Peru",
+                "country_code": "PE",
+                "place_type": "country",
+                "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+                "full_name": "Peru",
+                "id": "2dfa9ecb0179a4e4"
+            },
+            "in_reply_to_user_id": 2836750992,
+            "timestamp_ms": "1562017917481",
+            "entities": {
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/5ZFXFPDs1o",
+                        "indices": [
+                            116,
+                            139
+                        ],
+                        "expanded_url": "https://twitter.com/i/web/status/1145812309820026880",
+                        "display_url": "twitter.com/i/web/status/1\u2026"
+                    }
+                ],
+                "user_mentions": [],
+                "hashtags": []
+            },
+            "retweet_count": 0,
+            "truncated": true,
+            "extended_tweet": {
+                "full_text": "Pero,como es otro d los h\u00e9roes..los medios ni c inmutan,nadie lo conmina a explicar,no lo investigan,nadie le hace siquiera una notita en alg\u00fan periodicucho amix,las redes mudas,los canales y sus empleaditos prefieren ocuparse d alg\u00fan enemiguito del d\u00eda,silbar y mirar a otra lado https://t.co/BZMdi36RLJ",
+                "display_text_range": [
+                    0,
+                    280
+                ],
+                "extended_entities": {
+                    "media": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D-a7AU3XoAAxriy.jpg",
+                            "url": "https://t.co/BZMdi36RLJ",
+                            "type": "animated_gif",
+                            "expanded_url": "https://twitter.com/e_crevoisier/status/1145812309820026880/photo/1",
+                            "display_url": "pic.twitter.com/BZMdi36RLJ",
+                            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D-a7AU3XoAAxriy.jpg",
+                            "id_str": "1145808769487708160",
+                            "sizes": {
+                                "large": {
+                                    "w": 498,
+                                    "resize": "fit",
+                                    "h": 278
+                                },
+                                "small": {
+                                    "w": 498,
+                                    "resize": "fit",
+                                    "h": 278
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 498,
+                                    "resize": "fit",
+                                    "h": 278
+                                }
+                            },
+                            "video_info": {
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/tweet_video/D-a7AU3XoAAxriy.mp4",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 0
+                                    }
+                                ],
+                                "aspect_ratio": [
+                                    249,
+                                    139
+                                ]
+                            },
+                            "id": 1145808769487708160,
+                            "indices": [
+                                281,
+                                304
+                            ]
+                        }
+                    ]
+                },
+                "entities": {
+                    "symbols": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D-a7AU3XoAAxriy.jpg",
+                            "url": "https://t.co/BZMdi36RLJ",
+                            "type": "animated_gif",
+                            "expanded_url": "https://twitter.com/e_crevoisier/status/1145812309820026880/photo/1",
+                            "display_url": "pic.twitter.com/BZMdi36RLJ",
+                            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D-a7AU3XoAAxriy.jpg",
+                            "id_str": "1145808769487708160",
+                            "sizes": {
+                                "large": {
+                                    "w": 498,
+                                    "resize": "fit",
+                                    "h": 278
+                                },
+                                "small": {
+                                    "w": 498,
+                                    "resize": "fit",
+                                    "h": 278
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "resize": "crop",
+                                    "h": 150
+                                },
+                                "medium": {
+                                    "w": 498,
+                                    "resize": "fit",
+                                    "h": 278
+                                }
+                            },
+                            "video_info": {
+                                "variants": [
+                                    {
+                                        "url": "https://video.twimg.com/tweet_video/D-a7AU3XoAAxriy.mp4",
+                                        "content_type": "video/mp4",
+                                        "bitrate": 0
+                                    }
+                                ],
+                                "aspect_ratio": [
+                                    249,
+                                    139
+                                ]
+                            },
+                            "id": 1145808769487708160,
+                            "indices": [
+                                281,
+                                304
+                            ]
+                        }
+                    ],
+                    "user_mentions": [],
+                    "hashtags": []
+                }
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": 1145812306598735872,
+            "coordinates": null
+        },
+        {
+            "in_reply_to_status_id_str": "1145794879357894659",
+            "reply_count": 0,
+            "contributors": null,
+            "quote_count": 0,
+            "in_reply_to_screen_name": "AMTQuito",
+            "user": {
+                "location": "Ecuador",
+                "time_zone": null,
+                "screen_name": "soleaso",
+                "favourites_count": 780,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "url": null,
+                "profile_text_color": "333333",
+                "following": null,
+                "name": "Santiago Oleas",
+                "geo_enabled": true,
+                "default_profile_image": false,
+                "listed_count": 3,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1116187237937557504/2eRNs1i6_normal.jpg",
+                "contributors_enabled": false,
+                "translator_type": "none",
+                "protected": false,
+                "description": "No s\u00f3lo eres responsable de lo que haces, sino de lo que no haces, de lo que no defiendes y de lo que callas",
+                "profile_background_color": "C0DEED",
+                "lang": null,
+                "id_str": "53701333",
+                "followers_count": 351,
+                "profile_link_color": "1DA1F2",
+                "friends_count": 376,
+                "created_at": "Sat Jul 04 16:16:30 +0000 2009",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1116187237937557504/2eRNs1i6_normal.jpg",
+                "profile_use_background_image": true,
+                "id": 53701333,
+                "utc_offset": null,
+                "profile_background_tile": false,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "default_profile": true,
+                "follow_request_sent": null,
+                "profile_sidebar_fill_color": "DDEEF6",
+                "notifications": null,
+                "profile_sidebar_border_color": "C0DEED",
+                "verified": false,
+                "is_translator": false,
+                "statuses_count": 4625
+            },
+            "retweeted": false,
+            "favorite_count": 0,
+            "lang": "es",
+            "truncated": false,
+            "in_reply_to_user_id": 545416010,
+            "coordinates": null,
+            "display_text_range": [
+                10,
+                55
+            ],
+            "in_reply_to_user_id_str": "545416010",
+            "geo": null,
+            "created_at": "Mon Jul 01 21:52:23 +0000 2019",
+            "is_quote_status": false,
+            "filter_level": "low",
+            "favorited": false,
+            "id": 1145812417978544128,
+            "place": {
+                "name": "Quito",
+                "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -78.948466,
+                                -0.588618
+                            ],
+                            [
+                                -78.948466,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                -0.588618
+                            ]
+                        ]
+                    ]
+                },
+                "country": "Ecuador",
+                "country_code": "EC",
+                "place_type": "city",
+                "id": "0177bc687a9ac697",
+                "full_name": "Quito, Ecuador"
+            },
+            "timestamp_ms": "1562017943268",
+            "retweet_count": 0,
+            "id_str": "1145812417978544128",
+            "text": "@AMTQuito Se refieren a Uber y Cabify? Sean espec\u00edficos",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1145794879357894659,
+            "entities": {
+                "symbols": [],
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "id_str": "545416010",
+                        "screen_name": "AMTQuito",
+                        "name": "AMT Quito",
+                        "id": 545416010,
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": []
+            }
+        },
+        {
+            "in_reply_to_status_id_str": null,
+            "reply_count": 0,
+            "contributors": null,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/935197423064047623/Ne-dZT3v_normal.jpg",
+                "location": "Lima, Per\u00fa",
+                "time_zone": null,
+                "screen_name": "callissiani",
+                "follow_request_sent": null,
+                "favourites_count": 203,
+                "profile_use_background_image": true,
+                "url": "http://solocuentoimpares.com",
+                "profile_text_color": "333333",
+                "following": null,
+                "default_profile_image": false,
+                "listed_count": 0,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1111444986/1476659859",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/935197423064047623/Ne-dZT3v_normal.jpg",
+                "protected": false,
+                "description": "una cerveza? un caf\u00e9?",
+                "profile_background_color": "EBEBEB",
+                "lang": null,
+                "notifications": null,
+                "is_translator": false,
+                "followers_count": 91,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "created_at": "Tue Jan 22 12:48:03 +0000 2013",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "translator_type": "none",
+                "id": 1111444986,
+                "utc_offset": null,
+                "profile_background_tile": false,
+                "name": "solocuentoimpares",
+                "default_profile": false,
+                "statuses_count": 2421,
+                "geo_enabled": true,
+                "friends_count": 396,
+                "id_str": "1111444986",
+                "profile_sidebar_border_color": "FFFFFF",
+                "verified": false,
+                "profile_link_color": "D10C0C",
+                "contributors_enabled": false
+            },
+            "retweeted": false,
+            "favorite_count": 0,
+            "is_quote_status": false,
+            "id_str": "1145812780047577089",
+            "in_reply_to_user_id": null,
+            "text": "\"uno nunca sabe a ciencia cierta c\u00f3mo es un \u00e1ngel de la guarda\" #tokio",
+            "geo": null,
+            "created_at": "Mon Jul 01 21:53:49 +0000 2019",
+            "lang": "es",
+            "filter_level": "low",
+            "favorited": false,
+            "id": 1145812780047577089,
+            "place": {
+                "id": "2dfa9ecb0179a4e4",
+                "name": "Peru",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -81.328148,
+                                -18.349728
+                            ],
+                            [
+                                -81.328148,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -18.349728
+                            ]
+                        ]
+                    ]
+                },
+                "country": "Peru",
+                "country_code": "PE",
+                "place_type": "country",
+                "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+                "full_name": "Peru"
+            },
+            "timestamp_ms": "1562018029592",
+            "entities": {
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [],
+                "hashtags": [
+                    {
+                        "text": "tokio",
+                        "indices": [
+                            64,
+                            70
+                        ]
+                    }
+                ]
+            },
+            "retweet_count": 0,
+            "truncated": false,
+            "in_reply_to_user_id_str": null,
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "coordinates": null
+        },
+        {
+            "in_reply_to_status_id_str": null,
+            "reply_count": 0,
+            "contributors": null,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1094217853006422017/kDomhJlW_normal.jpg",
+                "location": "Quito",
+                "time_zone": null,
+                "screen_name": "RADIOGITANA",
+                "profile_sidebar_fill_color": "95E8EC",
+                "favourites_count": 795,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "url": "http://www.gitana.com.ec",
+                "profile_text_color": "3C3940",
+                "following": null,
+                "name": "GITANA ECUADOR",
+                "default_profile_image": false,
+                "listed_count": 68,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/164715056/1546863091",
+                "translator_type": "none",
+                "protected": false,
+                "description": null,
+                "profile_background_color": "0099B9",
+                "lang": null,
+                "id_str": "164715056",
+                "followers_count": 5510,
+                "profile_link_color": "ABB8C2",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "created_at": "Fri Jul 09 15:28:16 +0000 2010",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1094217853006422017/kDomhJlW_normal.jpg",
+                "id": 164715056,
+                "profile_use_background_image": true,
+                "is_translator": false,
+                "statuses_count": 11307,
+                "utc_offset": null,
+                "profile_background_tile": true,
+                "contributors_enabled": false,
+                "default_profile": false,
+                "follow_request_sent": null,
+                "geo_enabled": true,
+                "notifications": null,
+                "profile_sidebar_border_color": "5ED4DC",
+                "verified": false,
+                "friends_count": 711
+            },
+            "retweeted": false,
+            "favorite_count": 0,
+            "lang": "es",
+            "truncated": false,
+            "in_reply_to_user_id_str": null,
+            "coordinates": null,
+            "possibly_sensitive": false,
+            "display_text_range": [
+                0,
+                108
+            ],
+            "geo": null,
+            "created_at": "Mon Jul 01 21:54:19 +0000 2019",
+            "is_quote_status": false,
+            "filter_level": "low",
+            "favorited": false,
+            "id": 1145812905159532544,
+            "place": {
+                "name": "Quito",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -78.948466,
+                                -0.588618
+                            ],
+                            [
+                                -78.948466,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                -0.588618
+                            ]
+                        ]
+                    ]
+                },
+                "country": "Ecuador",
+                "country_code": "EC",
+                "place_type": "city",
+                "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+                "full_name": "Quito, Ecuador",
+                "id": "0177bc687a9ac697"
+            },
+            "in_reply_to_user_id": null,
+            "timestamp_ms": "1562018059421",
+            "extended_entities": {
+                "media": [
+                    {
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "type": "video",
+                        "display_url": "pic.twitter.com/EnQTEOI3YC",
+                        "url": "https://t.co/EnQTEOI3YC",
+                        "id": 1145812789090537472,
+                        "video_info": {
+                            "variants": [
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1145812789090537472/pu/vid/480x848/tcvBkOq3YQC0Q1al.mp4?tag=10",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 2176000
+                                },
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1145812789090537472/pu/vid/320x564/mNiu1lfLYq2IxdB4.mp4?tag=10",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 632000
+                                },
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1145812789090537472/pu/vid/360x636/T4EaDmL58Lt3Fzbk.mp4?tag=10",
+                                    "content_type": "video/mp4",
+                                    "bitrate": 832000
+                                },
+                                {
+                                    "url": "https://video.twimg.com/ext_tw_video/1145812789090537472/pu/pl/E8Qhv47gs5X8TH2e.m3u8?tag=10",
+                                    "content_type": "application/x-mpegURL"
+                                }
+                            ],
+                            "aspect_ratio": [
+                                30,
+                                53
+                            ],
+                            "duration_millis": 13130
+                        },
+                        "expanded_url": "https://twitter.com/RADIOGITANA/status/1145812905159532544/video/1",
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1145812789090537472/pu/img/h4Q4CEaR0g6Y-H6d.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1145812789090537472/pu/img/h4Q4CEaR0g6Y-H6d.jpg",
+                        "id_str": "1145812789090537472",
+                        "sizes": {
+                            "large": {
+                                "w": 480,
+                                "resize": "fit",
+                                "h": 848
+                            },
+                            "small": {
+                                "w": 385,
+                                "resize": "fit",
+                                "h": 680
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "resize": "crop",
+                                "h": 150
+                            },
+                            "medium": {
+                                "w": 480,
+                                "resize": "fit",
+                                "h": 848
+                            }
+                        },
+                        "indices": [
+                            109,
+                            132
+                        ]
+                    }
+                ]
+            },
+            "retweet_count": 0,
+            "id_str": "1145812905159532544",
+            "text": "Con nuestra App nos escuchan en todo el mundo.\nDesc\u00e1rgate Ya!\nDesde Brujas Belgica con Radio Gitana Ecuador. https://t.co/EnQTEOI3YC",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "entities": {
+                "symbols": [],
+                "hashtags": [],
+                "media": [
+                    {
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "type": "photo",
+                        "expanded_url": "https://twitter.com/RADIOGITANA/status/1145812905159532544/video/1",
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1145812789090537472/pu/img/h4Q4CEaR0g6Y-H6d.jpg",
+                        "indices": [
+                            109,
+                            132
+                        ],
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1145812789090537472/pu/img/h4Q4CEaR0g6Y-H6d.jpg",
+                        "url": "https://t.co/EnQTEOI3YC",
+                        "sizes": {
+                            "large": {
+                                "w": 480,
+                                "resize": "fit",
+                                "h": 848
+                            },
+                            "small": {
+                                "w": 385,
+                                "resize": "fit",
+                                "h": 680
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "resize": "crop",
+                                "h": 150
+                            },
+                            "medium": {
+                                "w": 480,
+                                "resize": "fit",
+                                "h": 848
+                            }
+                        },
+                        "id": 1145812789090537472,
+                        "id_str": "1145812789090537472",
+                        "display_url": "pic.twitter.com/EnQTEOI3YC"
+                    }
+                ],
+                "user_mentions": [],
+                "urls": []
+            }
+        },
+        {
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "contributors": null,
+            "quote_count": 0,
+            "in_reply_to_screen_name": null,
+            "quoted_status_id": 1145759570092068864,
+            "user": {
+                "profile_link_color": "1DA1F2",
+                "location": "Made in San Francisco de Quito",
+                "time_zone": null,
+                "screen_name": "fdavaloso",
+                "follow_request_sent": null,
+                "favourites_count": 9714,
+                "profile_use_background_image": true,
+                "url": "http://Instagram.com/fdavaloso",
+                "profile_text_color": "333333",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1111515570380386304/fUk6RouP_normal.jpg",
+                "is_translator": false,
+                "listed_count": 29,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1306473883/1548634397",
+                "contributors_enabled": false,
+                "protected": false,
+                "description": "De \u2018Derechas\u2019 y de @Tomorrowland. Taurino Adoptado del Tendido 7 de Madrid",
+                "default_profile_image": false,
+                "profile_background_color": "C0DEED",
+                "lang": null,
+                "notifications": null,
+                "followers_count": 1484,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1111515570380386304/fUk6RouP_normal.jpg",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "created_at": "Wed Mar 27 04:11:54 +0000 2013",
+                "geo_enabled": true,
+                "translator_type": "none",
+                "id": 1306473883,
+                "utc_offset": null,
+                "profile_background_tile": false,
+                "name": "Francisco X. D\u00e1valos",
+                "default_profile": true,
+                "friends_count": 2453,
+                "profile_sidebar_fill_color": "DDEEF6",
+                "following": null,
+                "id_str": "1306473883",
+                "profile_sidebar_border_color": "C0DEED",
+                "verified": false,
+                "statuses_count": 31865
+            },
+            "retweeted": false,
+            "favorite_count": 0,
+            "is_quote_status": true,
+            "id_str": "1145812991180443648",
+            "quoted_status": {
+                "in_reply_to_status_id_str": "1145715985355354117",
+                "reply_count": 2,
+                "contributors": null,
+                "quote_count": 0,
+                "in_reply_to_screen_name": "fdavaloso",
+                "user": {
+                    "profile_link_color": "1B95E0",
+                    "location": null,
+                    "time_zone": null,
+                    "screen_name": "ramirogarciaf",
+                    "follow_request_sent": null,
+                    "favourites_count": 10583,
+                    "profile_use_background_image": false,
+                    "url": "http://ramirogarciafalconi.wordpress.com",
+                    "profile_text_color": "000000",
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1145111119260000257/Q4s3vtqm_normal.jpg",
+                    "is_translator": false,
+                    "listed_count": 149,
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/750444343/1469645570",
+                    "contributors_enabled": false,
+                    "protected": false,
+                    "description": "Presidente de la Federaci\u00f3n Nacional de Abogados del Ecuador. Subdecano de la Facultad de Jurisprudencia de la Univ. Central del Ecuador. Columnista El Universo",
+                    "default_profile_image": false,
+                    "profile_background_color": "000000",
+                    "lang": null,
+                    "notifications": null,
+                    "followers_count": 58585,
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145111119260000257/Q4s3vtqm_normal.jpg",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "created_at": "Sat Aug 11 01:58:11 +0000 2012",
+                    "geo_enabled": true,
+                    "translator_type": "none",
+                    "id": 750444343,
+                    "utc_offset": null,
+                    "profile_background_tile": false,
+                    "name": "Ramiro Garc\u00eda F",
+                    "default_profile": false,
+                    "friends_count": 1039,
+                    "profile_sidebar_fill_color": "000000",
+                    "following": null,
+                    "id_str": "750444343",
+                    "profile_sidebar_border_color": "000000",
+                    "verified": false,
+                    "statuses_count": 53014
+                },
+                "retweeted": false,
+                "favorite_count": 2,
+                "is_quote_status": false,
+                "id_str": "1145759570092068864",
+                "in_reply_to_user_id": 1306473883,
+                "display_text_range": [
+                    11,
+                    42
+                ],
+                "in_reply_to_user_id_str": "1306473883",
+                "geo": null,
+                "created_at": "Mon Jul 01 18:22:23 +0000 2019",
+                "lang": "es",
+                "filter_level": "low",
+                "favorited": false,
+                "id": 1145759570092068864,
+                "place": null,
+                "entities": {
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": [
+                        {
+                            "id_str": "1306473883",
+                            "screen_name": "fdavaloso",
+                            "indices": [
+                                0,
+                                10
+                            ],
+                            "name": "Francisco X. D\u00e1valos",
+                            "id": 1306473883
+                        }
+                    ],
+                    "hashtags": []
+                },
+                "retweet_count": 0,
+                "truncated": false,
+                "text": "@fdavaloso Ya te puedes casar, festeja \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": 1145715985355354117,
+                "coordinates": null
+            },
+            "in_reply_to_user_id_str": null,
+            "reply_count": 0,
+            "extended_tweet": {
+                "full_text": "Es tragic\u00f3mico ver c\u00f3mo un pseudo defensor de la agenda LGBTIQ, utiliza al #MatrimonioIgualitarioEC para insultarme.\nAs\u00ed son los dinosaurios caducos que quieren mantenerse en fecha de vigencia.\nSaludos \u2018golos\u00edn\u2019",
+                "display_text_range": [
+                    0,
+                    211
+                ],
+                "entities": {
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "hashtags": [
+                        {
+                            "text": "MatrimonioIgualitarioEC",
+                            "indices": [
+                                75,
+                                99
+                            ]
+                        }
+                    ]
+                }
+            },
+            "geo": null,
+            "created_at": "Mon Jul 01 21:54:39 +0000 2019",
+            "lang": "es",
+            "filter_level": "low",
+            "favorited": false,
+            "id": 1145812991180443648,
+            "place": {
+                "country": "Ecuador",
+                "name": "Quito",
+                "attributes": {},
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -78.948466,
+                                -0.588618
+                            ],
+                            [
+                                -78.948466,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                -0.588618
+                            ]
+                        ]
+                    ]
+                },
+                "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+                "country_code": "EC",
+                "place_type": "city",
+                "id": "0177bc687a9ac697",
+                "full_name": "Quito, Ecuador"
+            },
+            "quoted_status_permalink": {
+                "url": "https://t.co/GjCawaZtcq",
+                "display": "twitter.com/ramirogarciaf/\u2026",
+                "expanded": "https://twitter.com/ramirogarciaf/status/1145759570092068864"
+            },
+            "timestamp_ms": "1562018079930",
+            "entities": {
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/0aaMDWmz6G",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "expanded_url": "https://twitter.com/i/web/status/1145812991180443648",
+                        "display_url": "twitter.com/i/web/status/1\u2026"
+                    }
+                ],
+                "user_mentions": [],
+                "hashtags": [
+                    {
+                        "text": "MatrimonioIgualitarioEC",
+                        "indices": [
+                            75,
+                            99
+                        ]
+                    }
+                ]
+            },
+            "retweet_count": 0,
+            "truncated": true,
+            "text": "Es tragic\u00f3mico ver c\u00f3mo un pseudo defensor de la agenda LGBTIQ, utiliza al #MatrimonioIgualitarioEC para insultarme\u2026 https://t.co/0aaMDWmz6G",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "quoted_status_id_str": "1145759570092068864",
+            "coordinates": null
+        }
+    ]
+}
