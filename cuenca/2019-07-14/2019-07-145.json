@@ -19209,7 +19209,7 @@
                 "statuses_count": 792,
                 "default_profile_image": false,
                 "followers_count": 105,
-                "utc_offset": null,
+                "profile_background_color": "000000",
                 "notifications": null,
                 "friends_count": 656,
                 "protected": false,
@@ -19218,7 +19218,7 @@
                 "profile_link_color": "F58EA8",
                 "default_profile": false,
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134458881281843200/HFclw1Eh_normal.jpg",
-                "profile_background_color": "000000",
+                "utc_offset": null,
                 "profile_use_background_image": false,
                 "profile_sidebar_border_color": "000000",
                 "profile_sidebar_fill_color": "000000",
@@ -19240,7 +19240,6 @@
             "user": {
                 "favourites_count": 261,
                 "following": null,
-                "utc_offset": null,
                 "url": null,
                 "time_zone": null,
                 "name": "Mario Molina Reino",
@@ -19262,6 +19261,7 @@
                 "default_profile_image": false,
                 "followers_count": 125,
                 "notifications": null,
+                "utc_offset": null,
                 "location": "Cuenca, Ecuador",
                 "friends_count": 188,
                 "protected": false,
@@ -19682,6 +19682,7 @@
             "contributors": null,
             "user": {
                 "favourites_count": 41205,
+                "location": "W\u00fcrzburg, Alemania",
                 "following": null,
                 "url": "https://youtu.be/z36OwKu7be4",
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
@@ -19702,9 +19703,8 @@
                 "screen_name": "GUSTAVOMIRAV",
                 "default_profile_image": false,
                 "followers_count": 949,
-                "notifications": null,
                 "utc_offset": null,
-                "location": "W\u00fcrzburg, Alemania",
+                "notifications": null,
                 "friends_count": 4994,
                 "protected": false,
                 "id": 125951412,
@@ -19897,7 +19897,6 @@
             "in_reply_to_screen_name": null,
             "user": {
                 "favourites_count": 1433,
-                "location": "Cuenca-Ecuador.  ",
                 "following": null,
                 "utc_offset": null,
                 "url": "http://www.unsion.tv",
@@ -19919,8 +19918,9 @@
                 "screen_name": "WILOPRADO",
                 "default_profile_image": false,
                 "followers_count": 2627,
-                "statuses_count": 6250,
                 "notifications": null,
+                "statuses_count": 6250,
+                "location": "Cuenca-Ecuador.  ",
                 "friends_count": 527,
                 "protected": false,
                 "id": 230495083,
@@ -20199,6 +20199,7 @@
             "contributors": null,
             "user": {
                 "favourites_count": 0,
+                "location": "Guayaquil, Ecuador",
                 "following": null,
                 "url": "https://www.youtube.com/channel/UCnFXupjK7HGYZWdR96KdMig?view_as=subscriber",
                 "profile_background_image_url_https": "",
@@ -20220,9 +20221,8 @@
                 "statuses_count": 2,
                 "default_profile_image": false,
                 "followers_count": 0,
-                "notifications": null,
                 "utc_offset": null,
-                "location": "Guayaquil, Ecuador",
+                "notifications": null,
                 "friends_count": 15,
                 "protected": false,
                 "id": 1037934297116798977,
@@ -20274,7 +20274,6 @@
             "in_reply_to_screen_name": "reyreysincorona",
             "user": {
                 "favourites_count": 24139,
-                "location": "Per\u00fa - Venezuela",
                 "following": null,
                 "utc_offset": null,
                 "url": null,
@@ -20285,6 +20284,7 @@
                 "created_at": "Thu Jun 25 20:01:59 +0000 2009",
                 "contributors_enabled": false,
                 "profile_text_color": "4A4442",
+                "profile_background_color": "F7E6EB",
                 "lang": null,
                 "description": "Soy Venezolana de nacimiento y en Per\u00fa desde 1994. Amante de la Libertad, la Democracia y la Paz. Persistente hasta alcanzar el \u00e9xito.\ud83c\uddfb\ud83c\uddea\ud83c\uddfa\ud83c\uddf8",
                 "geo_enabled": true,
@@ -20296,8 +20296,8 @@
                 "default_profile": false,
                 "default_profile_image": false,
                 "followers_count": 562,
-                "profile_background_color": "F7E6EB",
                 "notifications": null,
+                "location": "Per\u00fa - Venezuela",
                 "friends_count": 631,
                 "protected": false,
                 "id": 50751472,
@@ -20477,7 +20477,6 @@
                 "created_at": "Sat May 26 00:16:07 +0000 2012",
                 "contributors_enabled": false,
                 "profile_text_color": "333333",
-                "profile_background_color": "1A1B1F",
                 "lang": null,
                 "description": "Lo \u00fanico que te puede decir, es que yo no soy igual que el resto. M\u00e9dico.",
                 "geo_enabled": true,
@@ -20489,16 +20488,17 @@
                 "default_profile_image": false,
                 "followers_count": 1832,
                 "notifications": null,
-                "statuses_count": 17399,
+                "utc_offset": null,
                 "location": "Ecuador",
                 "friends_count": 1772,
                 "protected": false,
                 "id": 590432201,
                 "profile_background_tile": true,
                 "profile_link_color": "94D487",
+                "statuses_count": 17399,
                 "profile_use_background_image": true,
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144486250314813442/OgKn37ec_normal.jpg",
-                "utc_offset": null,
+                "profile_background_color": "1A1B1F",
                 "default_profile": false,
                 "profile_sidebar_border_color": "FFFFFF",
                 "profile_sidebar_fill_color": "F3F3F3",
@@ -20543,6 +20543,7 @@
                 "created_at": "Wed Mar 17 19:24:16 +0000 2010",
                 "contributors_enabled": false,
                 "profile_text_color": "333333",
+                "profile_background_color": "C0DEED",
                 "lang": null,
                 "description": "Terr\u00edcola, investigadora de la vida. Soy la Diani, no la Riny \ud83d\ude43",
                 "geo_enabled": true,
@@ -20551,20 +20552,19 @@
                 "listed_count": 1,
                 "id_str": "123954947",
                 "screen_name": "DianiRomeroS",
-                "statuses_count": 6783,
                 "default_profile_image": false,
                 "followers_count": 173,
-                "profile_background_color": "C0DEED",
+                "statuses_count": 6783,
                 "notifications": null,
                 "friends_count": 297,
                 "protected": false,
                 "id": 123954947,
                 "profile_background_tile": false,
                 "profile_link_color": "1DA1F2",
-                "profile_use_background_image": true,
+                "default_profile": true,
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139417581901635585/P10v9Svz_normal.jpg",
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "default_profile": true,
+                "profile_use_background_image": true,
                 "profile_sidebar_border_color": "C0DEED",
                 "profile_sidebar_fill_color": "DDEEF6",
                 "verified": false,
@@ -20650,8 +20650,8 @@
             "filter_level": "low",
             "lang": "pt",
             "place": {
-                "country_code": "CO",
                 "place_type": "country",
+                "id": "0639360bd49a15e3",
                 "bounding_box": {
                     "coordinates": [
                         [
@@ -20675,8 +20675,8 @@
                     ],
                     "type": "Polygon"
                 },
-                "id": "0639360bd49a15e3",
                 "full_name": "Colombia",
+                "country_code": "CO",
                 "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
                 "country": "Colombia",
                 "name": "Colombia",
@@ -20702,7 +20702,6 @@
             "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
             "user": {
                 "favourites_count": 1993,
-                "follow_request_sent": null,
                 "following": null,
                 "url": "https://www.instagram.com/wilfranqg16/",
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
@@ -20716,12 +20715,12 @@
                 "lang": null,
                 "description": "idiomas \ud83c\udde8\ud83c\uddf4\ud83c\udde7\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8",
                 "geo_enabled": true,
-                "profile_background_color": "000000",
+                "follow_request_sent": null,
                 "is_translator": false,
                 "listed_count": 0,
                 "id_str": "2259397945",
                 "screen_name": "wilfranqg16",
-                "profile_sidebar_fill_color": "000000",
+                "statuses_count": 807,
                 "default_profile_image": false,
                 "followers_count": 710,
                 "notifications": null,
@@ -20732,14 +20731,617 @@
                 "id": 2259397945,
                 "profile_background_tile": false,
                 "profile_link_color": "19CF86",
-                "profile_use_background_image": false,
+                "default_profile": false,
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150253873405321216/CyLRVtvs_normal.jpg",
-                "statuses_count": 807,
+                "profile_background_color": "000000",
+                "profile_use_background_image": false,
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "verified": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2259397945/1563059164"
+            },
+            "geo": null
+        },
+        {
+            "in_reply_to_user_id": null,
+            "retweeted": false,
+            "in_reply_to_status_id": null,
+            "text": "Heard uu",
+            "quote_count": 0,
+            "in_reply_to_status_id_str": null,
+            "contributors": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "favourites_count": 6516,
+                "location": "Manhattan, NY",
+                "following": null,
+                "utc_offset": null,
+                "url": "http://juliesjourneyy.org",
+                "time_zone": null,
+                "name": "frescobar",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1132870107150147584/qUuSKL8Q_normal.jpg",
+                "translator_type": "none",
+                "created_at": "Fri Nov 19 00:27:30 +0000 2010",
+                "contributors_enabled": false,
+                "profile_text_color": "000000",
+                "lang": null,
+                "description": "Pace U' 20| I run shit like cardio | Colombiana",
+                "geo_enabled": true,
+                "follow_request_sent": null,
+                "is_translator": false,
+                "listed_count": 11,
+                "id_str": "217251848",
+                "screen_name": "itsEmily_SON",
+                "default_profile": false,
+                "default_profile_image": false,
+                "followers_count": 1281,
+                "profile_background_color": "FFFFFF",
+                "notifications": null,
+                "friends_count": 312,
+                "protected": false,
+                "id": 217251848,
+                "profile_background_tile": true,
+                "profile_link_color": "000000",
+                "statuses_count": 64996,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1132870107150147584/qUuSKL8Q_normal.jpg",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_use_background_image": true,
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "verified": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/217251848/1560101255"
+            },
+            "geo": null,
+            "lang": "en",
+            "place": {
+                "place_type": "country",
+                "id": "0639360bd49a15e3",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -81.728111,
+                                -4.227073
+                            ],
+                            [
+                                -81.728111,
+                                13.390292
+                            ],
+                            [
+                                -66.854502,
+                                13.390292
+                            ],
+                            [
+                                -66.854502,
+                                -4.227073
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "full_name": "Colombia",
+                "country_code": "CO",
+                "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
+                "country": "Colombia",
+                "name": "Colombia",
+                "attributes": {}
+            },
+            "favorite_count": 0,
+            "reply_count": 0,
+            "id_str": "1150256422401302528",
+            "truncated": false,
+            "in_reply_to_user_id_str": null,
+            "created_at": "Sun Jul 14 04:11:16 +0000 2019",
+            "is_quote_status": false,
+            "coordinates": null,
+            "favorited": false,
+            "retweet_count": 0,
+            "id": 1150256422401302528,
+            "entities": {
+                "urls": [],
+                "symbols": [],
+                "hashtags": [],
+                "user_mentions": []
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "timestamp_ms": "1563077476488",
+            "filter_level": "low"
+        },
+        {
+            "in_reply_to_user_id": 4018239755,
+            "retweeted": false,
+            "timestamp_ms": "1563077504620",
+            "in_reply_to_status_id": 1150048510059958272,
+            "text": "@PoderCiuEC @Lato_777 HAY QUE INSTAURAR LA PENA DE MUERTE , PARA DELINCUENTES , VIOLADORES Y POL\u00cdTICOS CORRUPTOS.....\u00a1\u00a1\u00a1",
+            "quote_count": 0,
+            "in_reply_to_status_id_str": "1150048510059958272",
+            "created_at": "Sun Jul 14 04:11:44 +0000 2019",
+            "in_reply_to_screen_name": "PoderCiuEC",
+            "filter_level": "low",
+            "lang": "es",
+            "place": {
+                "place_type": "country",
+                "id": "4e43cac8250a8b20",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -92.008973,
+                                -5.013285
+                            ],
+                            [
+                                -92.008973,
+                                1.681834
+                            ],
+                            [
+                                -75.192627,
+                                1.681834
+                            ],
+                            [
+                                -75.192627,
+                                -5.013285
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "full_name": "Ecuador",
+                "country_code": "EC",
+                "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+                "country": "Ecuador",
+                "name": "Ecuador",
+                "attributes": {}
+            },
+            "favorite_count": 0,
+            "reply_count": 0,
+            "id_str": "1150256540395417600",
+            "truncated": false,
+            "in_reply_to_user_id_str": "4018239755",
+            "display_text_range": [
+                22,
+                120
+            ],
+            "is_quote_status": false,
+            "coordinates": null,
+            "favorited": false,
+            "retweet_count": 0,
+            "id": 1150256540395417600,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 4018239755,
+                        "id_str": "4018239755",
+                        "screen_name": "PoderCiuEC",
+                        "name": "Poder Ciudadano EC",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    },
+                    {
+                        "id": 935966664516165633,
+                        "id_str": "935966664516165633",
+                        "screen_name": "Lato_777",
+                        "name": "Logos",
+                        "indices": [
+                            12,
+                            21
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "hashtags": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "contributors": null,
+            "user": {
+                "favourites_count": 12312,
+                "following": null,
+                "url": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "time_zone": null,
+                "name": "MANOLO  ANDRADE",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/687978323134296064/4P9vN9Wk_normal.png",
+                "translator_type": "none",
+                "created_at": "Wed Jun 30 17:34:20 +0000 2010",
+                "contributors_enabled": false,
+                "profile_text_color": "333333",
+                "profile_background_color": "ACDED6",
+                "lang": null,
+                "description": "[   YO  SOY   LA  VOZ  DEL PUEBLO ]",
+                "geo_enabled": true,
+                "follow_request_sent": null,
+                "is_translator": false,
+                "listed_count": 2,
+                "id_str": "161368964",
+                "screen_name": "MANOLITHIS",
+                "default_profile_image": false,
+                "followers_count": 219,
+                "notifications": null,
+                "statuses_count": 5936,
+                "location": "CUENCA - ECUADOR",
+                "friends_count": 65,
+                "protected": false,
+                "id": 161368964,
+                "profile_background_tile": false,
+                "profile_link_color": "038543",
+                "profile_use_background_image": true,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/687978323134296064/4P9vN9Wk_normal.png",
+                "utc_offset": null,
+                "default_profile": false,
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "verified": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/161368964/1424397058"
+            },
+            "geo": null
+        },
+        {
+            "in_reply_to_user_id": null,
+            "retweeted": false,
+            "in_reply_to_status_id": null,
+            "text": "Un beso fugaz \ud83d\ude0d\ud83d\ude18para ti @davidbisbal que digo van 2 mas jejeje @EIncreiblePeru https://t.co/3eCvKvLus9",
+            "in_reply_to_status_id_str": null,
+            "quote_count": 0,
+            "created_at": "Sun Jul 14 04:12:33 +0000 2019",
+            "in_reply_to_screen_name": null,
+            "user": {
+                "favourites_count": 1697,
+                "location": "rubiq20@gmail.com",
+                "following": null,
+                "utc_offset": null,
+                "url": null,
+                "time_zone": null,
+                "name": "David Bisbal Per\u00f9_Lima",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1100517862492569607/DM9SHcDl_normal.png",
+                "translator_type": "none",
+                "created_at": "Thu Jun 28 03:43:37 +0000 2018",
+                "contributors_enabled": false,
+                "profile_text_color": "000000",
+                "lang": null,
+                "description": "\ud83c\uddf5\ud83c\uddea",
+                "geo_enabled": true,
+                "follow_request_sent": null,
+                "is_translator": false,
+                "listed_count": 0,
+                "id_str": "1012179686028390401",
+                "screen_name": "ESMERAL59992164",
+                "statuses_count": 604,
+                "default_profile_image": false,
+                "followers_count": 40,
+                "profile_background_color": "000000",
+                "notifications": null,
+                "friends_count": 213,
+                "protected": false,
+                "id": 1012179686028390401,
+                "profile_background_tile": false,
+                "profile_link_color": "E81C4F",
+                "profile_use_background_image": false,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1100517862492569607/DM9SHcDl_normal.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                 "default_profile": false,
                 "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "verified": false,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1012179686028390401/1539668156"
+            },
+            "geo": null,
+            "lang": "es",
+            "place": {
+                "place_type": "country",
+                "id": "2dfa9ecb0179a4e4",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -81.328148,
+                                -18.349728
+                            ],
+                            [
+                                -81.328148,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -0.03884
+                            ],
+                            [
+                                -68.673088,
+                                -18.349728
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "full_name": "Peru",
+                "country_code": "PE",
+                "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+                "country": "Peru",
+                "name": "Peru",
+                "attributes": {}
+            },
+            "favorite_count": 0,
+            "reply_count": 0,
+            "id_str": "1150256744146382848",
+            "truncated": false,
+            "in_reply_to_user_id_str": null,
+            "display_text_range": [
+                0,
+                78
+            ],
+            "is_quote_status": false,
+            "coordinates": null,
+            "possibly_sensitive": false,
+            "favorited": false,
+            "retweet_count": 0,
+            "id": 1150256744146382848,
+            "extended_entities": {
+                "media": [
+                    {
+                        "indices": [
+                            79,
+                            102
+                        ],
+                        "id_str": "1150256522724818944",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            }
+                        },
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150256522724818944/pu/img/K_XZGUIc08MKkcZL.jpg",
+                        "url": "https://t.co/3eCvKvLus9",
+                        "expanded_url": "https://twitter.com/ESMERAL59992164/status/1150256744146382848/video/1",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150256522724818944/pu/img/K_XZGUIc08MKkcZL.jpg",
+                        "id": 1150256522724818944,
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "display_url": "pic.twitter.com/3eCvKvLus9",
+                        "video_info": {
+                            "variants": [
+                                {
+                                    "content_type": "video/mp4",
+                                    "bitrate": 832000,
+                                    "url": "https://video.twimg.com/ext_tw_video/1150256522724818944/pu/vid/640x360/9d35oV6B9XkdVxpz.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "video/mp4",
+                                    "bitrate": 256000,
+                                    "url": "https://video.twimg.com/ext_tw_video/1150256522724818944/pu/vid/480x270/hYGwAPIUCgkt4QrP.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "video/mp4",
+                                    "bitrate": 2176000,
+                                    "url": "https://video.twimg.com/ext_tw_video/1150256522724818944/pu/vid/1280x720/NClTvrtx84TIfm35.mp4?tag=10"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1150256522724818944/pu/pl/DLH_2MGZrlJ6poc8.m3u8?tag=10"
+                                }
+                            ],
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 561
+                        },
+                        "type": "video"
+                    }
+                ]
+            },
+            "entities": {
+                "media": [
+                    {
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1150256522724818944/pu/img/K_XZGUIc08MKkcZL.jpg",
+                        "id": 1150256522724818944,
+                        "id_str": "1150256522724818944",
+                        "additional_media_info": {
+                            "monetizable": false
+                        },
+                        "indices": [
+                            79,
+                            102
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1150256522724818944/pu/img/K_XZGUIc08MKkcZL.jpg",
+                        "url": "https://t.co/3eCvKvLus9",
+                        "expanded_url": "https://twitter.com/ESMERAL59992164/status/1150256744146382848/video/1",
+                        "display_url": "pic.twitter.com/3eCvKvLus9",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            }
+                        }
+                    }
+                ],
+                "urls": [],
+                "symbols": [],
+                "hashtags": [],
+                "user_mentions": [
+                    {
+                        "id": 57099808,
+                        "id_str": "57099808",
+                        "screen_name": "davidbisbal",
+                        "name": "David Bisbal",
+                        "indices": [
+                            24,
+                            36
+                        ]
+                    },
+                    {
+                        "id": 3073443935,
+                        "id_str": "3073443935",
+                        "screen_name": "EIncreiblePeru",
+                        "name": "E'Increible Per\u00fa",
+                        "indices": [
+                            63,
+                            78
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "contributors": null,
+            "timestamp_ms": "1563077553198",
+            "filter_level": "low"
+        },
+        {
+            "in_reply_to_user_id": 256651733,
+            "retweeted": false,
+            "timestamp_ms": "1563077611999",
+            "in_reply_to_status_id": 1150256534875705351,
+            "text": "@Khate85 Sera tanto tiempo sin bailar  ya deberia salir de baile",
+            "quote_count": 0,
+            "created_at": "Sun Jul 14 04:13:31 +0000 2019",
+            "in_reply_to_status_id_str": "1150256534875705351",
+            "in_reply_to_screen_name": "Khate85",
+            "filter_level": "low",
+            "lang": "es",
+            "place": {
+                "country_code": "EC",
+                "place_type": "city",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -79.60064,
+                                -3.175114
+                            ],
+                            [
+                                -79.60064,
+                                -2.556976
+                            ],
+                            [
+                                -78.848059,
+                                -2.556976
+                            ],
+                            [
+                                -78.848059,
+                                -3.175114
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "id": "013cb38e7fe501ae",
+                "full_name": "Cuenca, Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/013cb38e7fe501ae.json",
+                "country": "Ecuador",
+                "name": "Cuenca",
+                "attributes": {}
+            },
+            "favorite_count": 0,
+            "reply_count": 0,
+            "id_str": "1150256990775652353",
+            "truncated": false,
+            "in_reply_to_user_id_str": "256651733",
+            "display_text_range": [
+                9,
+                64
+            ],
+            "is_quote_status": false,
+            "coordinates": null,
+            "favorited": false,
+            "retweet_count": 0,
+            "id": 1150256990775652353,
+            "entities": {
+                "user_mentions": [
+                    {
+                        "id": 256651733,
+                        "id_str": "256651733",
+                        "screen_name": "Khate85",
+                        "name": "KattySha\u2728\ud83c\udf0a",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "hashtags": [],
+                "urls": []
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "contributors": null,
+            "user": {
+                "favourites_count": 1688,
+                "follow_request_sent": null,
+                "following": null,
+                "url": null,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "time_zone": null,
+                "name": "Jose Tacuri",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1143011546756472833/QDiaWEMr_normal.jpg",
+                "translator_type": "none",
+                "created_at": "Sat Aug 29 12:50:34 +0000 2015",
+                "contributors_enabled": false,
+                "profile_text_color": "333333",
+                "lang": null,
+                "description": null,
+                "geo_enabled": true,
+                "profile_background_color": "C0DEED",
+                "is_translator": false,
+                "listed_count": 0,
+                "id_str": "3480451276",
+                "screen_name": "Joselopepyn",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "default_profile_image": false,
+                "followers_count": 60,
+                "notifications": null,
+                "utc_offset": null,
+                "location": "Cuenca, Ecuador",
+                "friends_count": 1035,
+                "protected": false,
+                "id": 3480451276,
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_use_background_image": true,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143011546756472833/QDiaWEMr_normal.jpg",
+                "statuses_count": 76,
+                "default_profile": true,
+                "profile_sidebar_border_color": "C0DEED",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                 "verified": false,
-                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2259397945/1563059164"
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3480451276/1560659184"
             },
             "geo": null
         }

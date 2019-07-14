@@ -9,7 +9,7 @@ import datetime
 
 # Initial values
 URL = "https://us1.locationiq.com/v1/search.php"
-
+VIEWBOX_GUAYAQUIL = '-79.95912,-2.287573,-79.856351,-2.053362'
 KEYS = [
     #Byron
     '42e21cf0c2eb57',
