@@ -1,3 +1,4 @@
+# script que obtiene los tweets.se ejecuta 3 veces por cada ciudad(cada una con token de usuario diferente)
 from __future__ import absolute_import, print_function
 import sys
 from tweepy.streaming import StreamListener
