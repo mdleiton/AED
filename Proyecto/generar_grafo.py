@@ -2,9 +2,9 @@
 import csv
 import pandas as pandaExport
 import numpy as np
-TIPO = "ABIERTOS"
+TIPO = "CERRADOS"
 CIUDADES = ['GUAYAQUIL.csv', "CUENCA.csv", "QUITO.csv"]
-FILE_NAME = CIUDADES[2]
+FILE_NAME = CIUDADES[0]
 valido = pandaExport.read_csv('actualizado'+TIPO + FILE_NAME,sep=",",encoding ="utf-8",error_bad_lines=False)
 valido = valido.sort_values(by=["NUMERO_RUC","NUMERO_ESTABLECIMIENTO"],ascending=[True,True])
 
