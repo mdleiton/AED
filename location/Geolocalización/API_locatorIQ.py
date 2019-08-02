@@ -10,6 +10,7 @@ import datetime
 # Initial values
 URL = "https://us1.locationiq.com/v1/search.php"
 VIEWBOX_GUAYAQUIL = '-79.95912,-2.287573,-79.856351,-2.053362'
+VIEWBOX_CUENCA = '-79.598348,-3.176061,-78.847109,-2.557808'
 KEYS = [
     #Byron
     '42e21cf0c2eb57',
@@ -24,20 +25,14 @@ KEYS = [
     '42e21cf0c2eb57'
     ]
 
-FILES = [('finalMayorIgual3_2QUITO.csv',992150),('QUITO.csv',1284051),('CUENCA.csv',218315)]
+FILES = [('CUENCA.csv',992150),('QUITO.csv',1284051),('CUENCA.csv',218315)]
 MAX_RATE = 10000
 
-file_id = open('next_id.txt','r+')
-file_origin = open('origin.txt','r+')
 file_success = open('success.csv','a')
 file_fail = open('fail.csv','a')
 file_log = open('log.txt','a')
-id = int(file_id.read())
-file_id.seek(0)
-num_origin = int(file_origin.read())
-origin,max_ids = FILES[num_origin]
-file_origin.seek(0)
-VIEWBOX_GUAYAQUIL = '-79.95912,-2.287573,-79.856351,-2.053362'
+id = 0
+origin,max_ids = FILES[0]
 VIEWBOX_QUITO = '-78.619545,-0.365889,-78.441315,-0.047208'
 # load initial data
 data = pandaExport.read_csv(origin,sep=",",encoding ="UTF-8",error_bad_lines=False)
@@ -61,7 +56,7 @@ def get_response(key,query):
         'key':key,
         'q': query,
         'format': 'json',
-        'viewbox' :VIEWBOX_QUITO,
+        'viewbox' :VIEWBOX_CUENCA,
         'bounded' : 1
     }
     return requests.get(URL, params=data)
@@ -127,20 +122,7 @@ for i in range(0,MAX_RATE*len(KEYS)):
     if id > max_ids:
         file_log.write('-------------------------End file----------------------')
         break
-        
-    
-# Update next_id per next_day
-if id > max_ids:    
-    file_id.write('0')
-    file_id.close()
-    num_origin+=1
-    file_origin.write(str(num_origin))
-    file_origin.close()
-else:
-    file_id.write(str(id))
-    file_id.close()
-    file_origin.close()
-    
+
 file_log.close()
 file_success.close()
 file_fail.close()

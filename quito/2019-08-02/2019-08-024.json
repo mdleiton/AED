@@ -1,0 +1,311 @@
+{
+    "data": [
+        {
+            "favorite_count": 0,
+            "reply_count": 0,
+            "coordinates": null,
+            "display_text_range": [
+                10,
+                22
+            ],
+            "in_reply_to_user_id": 6250142,
+            "geo": null,
+            "in_reply_to_user_id_str": "6250142",
+            "filter_level": "low",
+            "id": 1157273443970310145,
+            "in_reply_to_screen_name": "sick_boy",
+            "contributors": null,
+            "truncated": false,
+            "quote_count": 0,
+            "place": {
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -78.948466,
+                                -0.588618
+                            ],
+                            [
+                                -78.948466,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                0.255477
+                            ],
+                            [
+                                -78.164897,
+                                -0.588618
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "attributes": {},
+                "country": "Ecuador",
+                "name": "Quito",
+                "full_name": "Quito, Ecuador",
+                "place_type": "city",
+                "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+                "id": "0177bc687a9ac697",
+                "country_code": "EC"
+            },
+            "is_quote_status": false,
+            "user": {
+                "translator_type": "none",
+                "favourites_count": 3699,
+                "location": "Pujil\u00ed, Ecuador",
+                "lang": null,
+                "name": "EdjagSarz",
+                "verified": false,
+                "profile_background_tile": false,
+                "url": null,
+                "listed_count": 4,
+                "description": "!Nunca pares, nunca te conformes, hasta que lo bueno sea mejor y lo mejor excelente!",
+                "followers_count": 248,
+                "profile_text_color": "333333",
+                "geo_enabled": true,
+                "friends_count": 653,
+                "follow_request_sent": null,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/743832172512026624/dmmfs8Qc_normal.jpg",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/525881547/1394456004",
+                "default_profile": false,
+                "id_str": "525881547",
+                "profile_use_background_image": true,
+                "screen_name": "Edjagsarz",
+                "profile_background_color": "022330",
+                "created_at": "Fri Mar 16 00:24:51 +0000 2012",
+                "utc_offset": null,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "protected": false,
+                "id": 525881547,
+                "default_profile_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/743832172512026624/dmmfs8Qc_normal.jpg",
+                "notifications": null,
+                "profile_sidebar_border_color": "A8C7F7",
+                "is_translator": false,
+                "profile_link_color": "0084B4",
+                "statuses_count": 16319,
+                "following": null,
+                "time_zone": null,
+                "contributors_enabled": false
+            },
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "name": "Sick!",
+                        "indices": [
+                            0,
+                            9
+                        ],
+                        "id_str": "6250142",
+                        "id": 6250142,
+                        "screen_name": "sick_boy"
+                    }
+                ],
+                "urls": []
+            },
+            "id_str": "1157273443970310145",
+            "in_reply_to_status_id": 1157143894666039296,
+            "retweeted": false,
+            "timestamp_ms": "1564750464800",
+            "created_at": "Fri Aug 02 12:54:24 +0000 2019",
+            "text": "@sick_boy Face to face",
+            "lang": "en",
+            "in_reply_to_status_id_str": "1157143894666039296",
+            "favorited": false,
+            "retweet_count": 0,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+        },
+        {
+            "favorite_count": 0,
+            "reply_count": 0,
+            "coordinates": null,
+            "lang": "es",
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "geo": null,
+            "in_reply_to_user_id_str": null,
+            "filter_level": "low",
+            "quoted_status_id_str": "1157071620734947330",
+            "retweet_count": 0,
+            "in_reply_to_screen_name": null,
+            "contributors": null,
+            "truncated": false,
+            "id_str": "1157273537222193157",
+            "place": {
+                "full_name": "Ecuador",
+                "attributes": {},
+                "country": "Ecuador",
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -92.008973,
+                                -5.013285
+                            ],
+                            [
+                                -92.008973,
+                                1.681834
+                            ],
+                            [
+                                -75.192627,
+                                1.681834
+                            ],
+                            [
+                                -75.192627,
+                                -5.013285
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "name": "Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+                "place_type": "country",
+                "id": "4e43cac8250a8b20",
+                "country_code": "EC"
+            },
+            "is_quote_status": true,
+            "user": {
+                "translator_type": "none",
+                "favourites_count": 5058,
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                "name": "marian",
+                "url": null,
+                "follow_request_sent": null,
+                "verified": false,
+                "listed_count": 3,
+                "id": 517218616,
+                "followers_count": 477,
+                "profile_text_color": "362720",
+                "default_profile_image": false,
+                "default_profile": false,
+                "friends_count": 181,
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1156000095575265280/XiybbNcj_normal.jpg",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                "description": "tan bonita, tan linda y tan pura que le da celos al cielo\u2661",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/517218616/1564465595",
+                "following": null,
+                "profile_sidebar_fill_color": "E5507E",
+                "geo_enabled": true,
+                "id_str": "517218616",
+                "screen_name": "Marirosadooo",
+                "profile_background_color": "131516",
+                "created_at": "Wed Mar 07 04:46:19 +0000 2012",
+                "utc_offset": null,
+                "location": null,
+                "protected": false,
+                "lang": null,
+                "profile_use_background_image": true,
+                "time_zone": null,
+                "notifications": null,
+                "profile_sidebar_border_color": "FFFFFF",
+                "is_translator": false,
+                "profile_link_color": "9266CC",
+                "statuses_count": 19480,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156000095575265280/XiybbNcj_normal.jpg",
+                "contributors_enabled": false
+            },
+            "in_reply_to_user_id": null,
+            "quoted_status_permalink": {
+                "expanded": "https://twitter.com/bdwhores/status/1157071620734947330",
+                "display": "twitter.com/bdwhores/statu\u2026",
+                "url": "https://t.co/mckfTBG4Gj"
+            },
+            "in_reply_to_status_id": null,
+            "retweeted": false,
+            "timestamp_ms": "1564750487033",
+            "created_at": "Fri Aug 02 12:54:47 +0000 2019",
+            "text": "Soy yo",
+            "id": 1157273537222193157,
+            "in_reply_to_status_id_str": null,
+            "quoted_status": {
+                "favorite_count": 2390,
+                "reply_count": 24,
+                "coordinates": null,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "geo": null,
+                "in_reply_to_user_id_str": null,
+                "filter_level": "low",
+                "lang": "es",
+                "in_reply_to_screen_name": null,
+                "contributors": null,
+                "truncated": false,
+                "quote_count": 85,
+                "place": null,
+                "is_quote_status": false,
+                "user": {
+                    "translator_type": "regular",
+                    "favourites_count": 10608,
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "name": "Whores",
+                    "url": null,
+                    "follow_request_sent": null,
+                    "verified": false,
+                    "listed_count": 275,
+                    "id": 1320965912,
+                    "followers_count": 431727,
+                    "profile_text_color": "333333",
+                    "default_profile_image": false,
+                    "default_profile": true,
+                    "friends_count": 87,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/643517666481844224/vCHs2o_A_normal.jpg",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "description": "Entre m\u00e1s te valga madre, m\u00e1s disfrutar\u00e1s la vida. #WhoresTeam ||",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320965912/1445054791",
+                    "following": null,
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "geo_enabled": false,
+                    "id_str": "1320965912",
+                    "screen_name": "bdwhores",
+                    "profile_background_color": "C0DEED",
+                    "created_at": "Mon Apr 01 19:02:35 +0000 2013",
+                    "utc_offset": null,
+                    "location": "Puebla || CDMX || Monterrey",
+                    "protected": false,
+                    "lang": null,
+                    "profile_use_background_image": true,
+                    "time_zone": null,
+                    "notifications": null,
+                    "profile_sidebar_border_color": "C0DEED",
+                    "is_translator": false,
+                    "profile_link_color": "1DA1F2",
+                    "statuses_count": 18262,
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/643517666481844224/vCHs2o_A_normal.jpg",
+                    "contributors_enabled": false
+                },
+                "in_reply_to_user_id": null,
+                "id_str": "1157071620734947330",
+                "in_reply_to_status_id": null,
+                "retweeted": false,
+                "created_at": "Thu Aug 01 23:32:26 +0000 2019",
+                "text": "Me pone muy nerviosa que me digan \"elige t\u00fa\" o \"como t\u00fa quieras\" porque soy la persona mas indecisa del mundo.",
+                "id": 1157071620734947330,
+                "in_reply_to_status_id_str": null,
+                "favorited": false,
+                "retweet_count": 1163,
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>"
+            },
+            "favorited": false,
+            "quoted_status_id": 1157071620734947330,
+            "quote_count": 0,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>"
+        }
+    ]
+}
