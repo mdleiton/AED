@@ -13,6 +13,7 @@
                 "profile_text_color": "333333",
                 "screen_name": "Claribeltax",
                 "geo_enabled": true,
+                "verified": false,
                 "followers_count": 218,
                 "profile_sidebar_fill_color": "DDEEF6",
                 "description": null,
@@ -22,7 +23,7 @@
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                 "statuses_count": 6487,
-                "verified": false,
+                "location": "Guayaquil-Ecuador",
                 "friends_count": 416,
                 "favourites_count": 1409,
                 "profile_background_color": "C0DEED",
@@ -36,7 +37,6 @@
                 "follow_request_sent": null,
                 "default_profile_image": false,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/984863875643400192/7QFTLIkI_normal.jpg",
-                "location": "Guayaquil-Ecuador",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/984863875643400192/7QFTLIkI_normal.jpg",
                 "listed_count": 1,
@@ -52,8 +52,9 @@
                 "urls": [],
                 "hashtags": []
             },
+            "text": "Hilo hilarante!!! \ud83e\udd23\ud83d\ude02\ud83d\ude04",
             "place": {
-                "country_code": "EC",
+                "country": "Ecuador",
                 "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
                 "place_type": "city",
                 "full_name": "Guayaquil, Ecuador",
@@ -82,8 +83,8 @@
                 },
                 "name": "Guayaquil",
                 "id": "009924a469d7ace1",
-                "country": "Ecuador",
-                "attributes": {}
+                "attributes": {},
+                "country_code": "EC"
             },
             "favorited": false,
             "created_at": "Fri Aug 02 12:52:33 +0000 2019",
@@ -101,6 +102,7 @@
                     "profile_text_color": "333333",
                     "screen_name": "Latostadaa",
                     "geo_enabled": false,
+                    "verified": false,
                     "followers_count": 7954,
                     "profile_sidebar_fill_color": "DDEEF6",
                     "description": "\ud83d\udc10 de \u2764\ufe0f\n\nNo se crean todo lo que digo . \ud83d\ude44",
@@ -110,7 +112,7 @@
                     "contributors_enabled": false,
                     "profile_background_image_url_https": "",
                     "statuses_count": 16837,
-                    "verified": false,
+                    "location": "Ni de Aqu\u00ed ni de All\u00e1",
                     "friends_count": 519,
                     "favourites_count": 10081,
                     "profile_background_color": "F5F8FA",
@@ -124,7 +126,6 @@
                     "follow_request_sent": null,
                     "default_profile_image": false,
                     "profile_image_url": "http://pbs.twimg.com/profile_images/1151286210494717955/7br4ZGNQ_normal.jpg",
-                    "location": "Ni de Aqu\u00ed ni de All\u00e1",
                     "profile_background_image_url": "",
                     "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151286210494717955/7br4ZGNQ_normal.jpg",
                     "listed_count": 37,
@@ -133,7 +134,7 @@
                 },
                 "place": null,
                 "in_reply_to_screen_name": null,
-                "in_reply_to_user_id_str": null,
+                "filter_level": "low",
                 "entities": {
                     "symbols": [],
                     "user_mentions": [],
@@ -287,7 +288,7 @@
                 "retweet_count": 14395,
                 "text": "Tuve que llevar la lagartija de mi hijo al veterinario.\nEsto fue lo que ocurri\u00f3:\nUna noche, justo despu\u00e9s de cenar,\u2026 https://t.co/IV4G0cvdlI",
                 "retweeted": false,
-                "filter_level": "low",
+                "in_reply_to_user_id_str": null,
                 "contributors": null,
                 "reply_count": 1197,
                 "quote_count": 5602,
@@ -296,7 +297,6 @@
             "lang": "tl",
             "favorite_count": 0,
             "in_reply_to_status_id": null,
-            "quoted_status_id": 1156576679667621888,
             "geo": null,
             "quoted_status_id_str": "1156576679667621888",
             "in_reply_to_status_id_str": null,
@@ -310,7 +310,7 @@
             "id": 1157272978981359618,
             "in_reply_to_user_id": null,
             "retweet_count": 0,
-            "text": "Hilo hilarante!!! \ud83e\udd23\ud83d\ude02\ud83d\ude04",
+            "quoted_status_id": 1156576679667621888,
             "retweeted": false,
             "filter_level": "low",
             "contributors": null,
@@ -342,7 +342,7 @@
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
                 "listed_count": 3,
-                "verified": false,
+                "location": null,
                 "friends_count": 181,
                 "geo_enabled": true,
                 "profile_background_color": "131516",
@@ -356,7 +356,7 @@
                 "default_profile_image": false,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/1156000095575265280/XiybbNcj_normal.jpg",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
-                "location": null,
+                "verified": false,
                 "profile_link_color": "9266CC",
                 "id_str": "517218616",
                 "profile_use_background_image": true
@@ -365,6 +365,7 @@
                 "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
                 "place_type": "country",
                 "full_name": "Ecuador",
+                "attributes": {},
                 "bounding_box": {
                     "coordinates": [
                         [
@@ -389,9 +390,8 @@
                     "type": "Polygon"
                 },
                 "name": "Ecuador",
-                "country": "Ecuador",
                 "id": "4e43cac8250a8b20",
-                "attributes": {},
+                "country": "Ecuador",
                 "country_code": "EC"
             },
             "in_reply_to_screen_name": null,
@@ -431,7 +431,7 @@
                     "contributors_enabled": false,
                     "profile_background_image_url_https": "",
                     "listed_count": 12,
-                    "verified": false,
+                    "location": "DFW, TX",
                     "friends_count": 1517,
                     "geo_enabled": false,
                     "profile_background_color": "F5F8FA",
@@ -445,7 +445,7 @@
                     "default_profile_image": false,
                     "profile_image_url": "http://pbs.twimg.com/profile_images/1157107327767646214/NXfJf5Rd_normal.jpg",
                     "profile_background_image_url": "",
-                    "location": "DFW, TX",
+                    "verified": false,
                     "profile_link_color": "1DA1F2",
                     "id_str": "1135783088750059522",
                     "profile_use_background_image": true
@@ -496,11 +496,11 @@
             "id": 1157272982412288000,
             "in_reply_to_user_id": null,
             "retweet_count": 0,
-            "text": "Me",
+            "quoted_status_id": 1156609132532850688,
             "retweeted": false,
             "in_reply_to_user_id_str": null,
             "contributors": null,
-            "quoted_status_id": 1156609132532850688,
+            "text": "Me",
             "quote_count": 0,
             "id_str": "1157272982412288000"
         },
@@ -517,7 +517,6 @@
                 "profile_text_color": "000000",
                 "screen_name": "gloriagrandag",
                 "geo_enabled": true,
-                "verified": false,
                 "followers_count": 1274,
                 "profile_sidebar_fill_color": "000000",
                 "description": "Periodista y productora. Antes corresponsal de @AgenciaANSA.\nEl privilegio se paga con responsabilidad.",
@@ -527,7 +526,7 @@
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
                 "statuses_count": 12591,
-                "location": "Peru",
+                "verified": false,
                 "friends_count": 803,
                 "favourites_count": 2437,
                 "profile_background_color": "000000",
@@ -541,6 +540,7 @@
                 "follow_request_sent": null,
                 "default_profile_image": false,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/621892659666382848/krWWZa1S_normal.jpg",
+                "location": "Peru",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/621892659666382848/krWWZa1S_normal.jpg",
                 "listed_count": 22,
@@ -585,12 +585,11 @@
                     }
                 ]
             },
-            "text": "@ppmarino, felicitaciones. Recordar todo el da\u00f1o causado por terroristas en #Per\u00fa permitir\u00e1 que nuevas generaciones\u2026 https://t.co/y8xF5Etm71",
             "place": {
+                "country_code": "PE",
                 "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
                 "place_type": "country",
                 "full_name": "Peru",
-                "attributes": {},
                 "bounding_box": {
                     "coordinates": [
                         [
@@ -614,10 +613,10 @@
                     ],
                     "type": "Polygon"
                 },
-                "country": "Peru",
-                "id": "2dfa9ecb0179a4e4",
                 "name": "Peru",
-                "country_code": "PE"
+                "id": "2dfa9ecb0179a4e4",
+                "country": "Peru",
+                "attributes": {}
             },
             "favorited": false,
             "created_at": "Fri Aug 02 12:52:46 +0000 2019",
@@ -635,7 +634,6 @@
                     "profile_text_color": "333333",
                     "screen_name": "ppmarino",
                     "geo_enabled": true,
-                    "verified": false,
                     "followers_count": 63169,
                     "profile_sidebar_fill_color": "DDEEF6",
                     "description": "Periodista. Asesor en Comunicaciones. #Lima #Per\u00fa \ud83c\uddf5\ud83c\uddea",
@@ -645,7 +643,7 @@
                     "contributors_enabled": false,
                     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                     "statuses_count": 98400,
-                    "location": "Lima, Per\u00fa",
+                    "verified": false,
                     "friends_count": 2371,
                     "favourites_count": 31430,
                     "profile_background_color": "C0DEED",
@@ -659,6 +657,7 @@
                     "follow_request_sent": null,
                     "default_profile_image": false,
                     "profile_image_url": "http://pbs.twimg.com/profile_images/1156755528841928710/hdPK7La1_normal.jpg",
+                    "location": "Lima, Per\u00fa",
                     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                     "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156755528841928710/hdPK7La1_normal.jpg",
                     "listed_count": 310,
@@ -667,7 +666,7 @@
                 },
                 "place": null,
                 "in_reply_to_screen_name": null,
-                "filter_level": "low",
+                "in_reply_to_user_id_str": null,
                 "entities": {
                     "symbols": [],
                     "user_mentions": [],
@@ -831,7 +830,7 @@
                 "retweet_count": 301,
                 "text": "Buenas noches. El 1 de agosto de 2018 me propuse difundir las atrocidades cometidas por el terrorismo genocida cont\u2026 https://t.co/KCEgIDJ2JR",
                 "retweeted": false,
-                "in_reply_to_user_id_str": null,
+                "filter_level": "low",
                 "contributors": null,
                 "reply_count": 160,
                 "quote_count": 40,
@@ -841,6 +840,7 @@
             "lang": "es",
             "favorite_count": 0,
             "in_reply_to_status_id": null,
+            "quoted_status_id": 1157128338353340416,
             "geo": null,
             "quoted_status_id_str": "1157128338353340416",
             "extended_tweet": {
@@ -906,7 +906,7 @@
             "id": 1157273031045242881,
             "in_reply_to_user_id": 115121123,
             "retweet_count": 0,
-            "quoted_status_id": 1157128338353340416,
+            "text": "@ppmarino, felicitaciones. Recordar todo el da\u00f1o causado por terroristas en #Per\u00fa permitir\u00e1 que nuevas generaciones\u2026 https://t.co/y8xF5Etm71",
             "retweeted": false,
             "filter_level": "low",
             "contributors": null,
@@ -938,7 +938,7 @@
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
                 "listed_count": 3,
-                "location": null,
+                "verified": false,
                 "friends_count": 181,
                 "geo_enabled": true,
                 "profile_background_color": "131516",
@@ -952,13 +952,12 @@
                 "default_profile_image": false,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/1156000095575265280/XiybbNcj_normal.jpg",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
-                "verified": false,
+                "location": null,
                 "profile_link_color": "9266CC",
                 "id_str": "517218616",
                 "profile_use_background_image": true
             },
             "place": {
-                "country_code": "EC",
                 "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
                 "place_type": "country",
                 "full_name": "Ecuador",
@@ -985,10 +984,11 @@
                     ],
                     "type": "Polygon"
                 },
+                "name": "Ecuador",
                 "country": "Ecuador",
                 "id": "4e43cac8250a8b20",
-                "name": "Ecuador",
-                "attributes": {}
+                "attributes": {},
+                "country_code": "EC"
             },
             "in_reply_to_screen_name": null,
             "filter_level": "low",
@@ -1009,36 +1009,36 @@
                     "url": null,
                     "id": 888889011045113856,
                     "lang": null,
-                    "time_zone": null,
+                    "statuses_count": 557,
                     "favourites_count": 2587,
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123350999186456577/67LPgjXY_normal.jpg",
                     "name": "Marlene Britos",
                     "notifications": null,
                     "is_translator": false,
-                    "created_at": "Sat Jul 22 22:30:29 +0000 2017",
+                    "profile_text_color": "333333",
                     "screen_name": "MarleneBritos2",
-                    "following": null,
+                    "translator_type": "none",
                     "followers_count": 417,
                     "profile_sidebar_fill_color": "DDEEF6",
                     "description": null,
                     "default_profile": true,
                     "utc_offset": null,
-                    "profile_text_color": "333333",
+                    "created_at": "Sat Jul 22 22:30:29 +0000 2017",
                     "contributors_enabled": false,
                     "profile_background_image_url_https": "",
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123350999186456577/67LPgjXY_normal.jpg",
+                    "location": "San Juan Nepomuceno",
                     "friends_count": 556,
                     "geo_enabled": false,
                     "profile_background_color": "F5F8FA",
-                    "translator_type": "none",
+                    "time_zone": null,
                     "profile_link_color": "1DA1F2",
                     "profile_background_tile": false,
                     "protected": false,
                     "default_profile_image": false,
                     "profile_sidebar_border_color": "C0DEED",
-                    "statuses_count": 557,
+                    "following": null,
                     "follow_request_sent": null,
                     "profile_image_url": "http://pbs.twimg.com/profile_images/1123350999186456577/67LPgjXY_normal.jpg",
-                    "location": "San Juan Nepomuceno",
                     "profile_background_image_url": "",
                     "verified": false,
                     "listed_count": 0,
@@ -1091,11 +1091,11 @@
             "id": 1157273068701671424,
             "in_reply_to_user_id": null,
             "retweet_count": 0,
-            "quoted_status_id": 1156722235450826752,
+            "text": "JAJAJA ay",
             "retweeted": false,
             "in_reply_to_user_id_str": null,
             "contributors": null,
-            "text": "JAJAJA ay",
+            "quoted_status_id": 1156722235450826752,
             "quote_count": 0,
             "id_str": "1157273068701671424"
         },
@@ -1112,6 +1112,7 @@
                 "profile_text_color": "333333",
                 "screen_name": "MaydyZabala",
                 "geo_enabled": true,
+                "verified": false,
                 "followers_count": 351,
                 "profile_sidebar_fill_color": "DDEEF6",
                 "description": "Mujer, Humana, Abogada, Directora acad\u00e9mica @aequitas, Defensora de los DDHH. Sue\u00f1o con un activismo m\u00e1s riguroso, sociedades respetuosas y diversas",
@@ -1121,7 +1122,7 @@
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                 "statuses_count": 1428,
-                "verified": false,
+                "location": "Cuenca, Ecuador",
                 "friends_count": 236,
                 "favourites_count": 2436,
                 "profile_background_color": "C0DEED",
@@ -1135,7 +1136,6 @@
                 "follow_request_sent": null,
                 "default_profile_image": false,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/1114376432254373889/0rpSNzVu_normal.jpg",
-                "location": "Cuenca, Ecuador",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/1114376432254373889/0rpSNzVu_normal.jpg",
                 "listed_count": 0,
@@ -1144,7 +1144,7 @@
             },
             "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
             "in_reply_to_screen_name": null,
-            "in_reply_to_user_id_str": null,
+            "filter_level": "low",
             "entities": {
                 "symbols": [],
                 "user_mentions": [
@@ -1183,10 +1183,10 @@
             },
             "created_at": "Fri Aug 02 12:52:57 +0000 2019",
             "place": {
-                "country": "Ecuador",
                 "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
                 "place_type": "city",
                 "full_name": "Guayaquil, Ecuador",
+                "attributes": {},
                 "bounding_box": {
                     "coordinates": [
                         [
@@ -1210,9 +1210,9 @@
                     ],
                     "type": "Polygon"
                 },
-                "name": "Guayaquil",
+                "country": "Ecuador",
                 "id": "009924a469d7ace1",
-                "attributes": {},
+                "name": "Guayaquil",
                 "country_code": "EC"
             },
             "favorited": false,
@@ -1264,7 +1264,7 @@
             "retweet_count": 0,
             "text": "Un trabajo impecable de @wambraEc \u27a1\ufe0fhttps://t.co/F6zNS6BvRC \u00bfQue pasa con el aborto en Ecuador? L\u00e9alo, le acercar\u00e1\u2026 https://t.co/IMvbSqnRXB",
             "retweeted": false,
-            "filter_level": "low",
+            "in_reply_to_user_id_str": null,
             "contributors": null,
             "reply_count": 0,
             "quote_count": 0,
@@ -1294,7 +1294,7 @@
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
                 "listed_count": 69,
-                "verified": false,
+                "location": "GUAYAQUIL, ECUADOR",
                 "friends_count": 565,
                 "geo_enabled": true,
                 "profile_background_color": "820FA8",
@@ -1308,16 +1308,16 @@
                 "default_profile_image": false,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/895503781357637632/kL04gQXz_normal.jpg",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
-                "location": "GUAYAQUIL, ECUADOR",
+                "verified": false,
                 "profile_link_color": "0E0E0F",
                 "id_str": "188340013",
                 "profile_use_background_image": true
             },
             "place": {
+                "country_code": "EC",
                 "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
                 "place_type": "city",
                 "full_name": "Guayaquil, Ecuador",
-                "attributes": {},
                 "bounding_box": {
                     "coordinates": [
                         [
@@ -1341,10 +1341,10 @@
                     ],
                     "type": "Polygon"
                 },
-                "name": "Guayaquil",
-                "id": "009924a469d7ace1",
                 "country": "Ecuador",
-                "country_code": "EC"
+                "id": "009924a469d7ace1",
+                "name": "Guayaquil",
+                "attributes": {}
             },
             "in_reply_to_screen_name": null,
             "filter_level": "low",
@@ -1427,7 +1427,6 @@
                 "profile_text_color": "333333",
                 "screen_name": "BolivarBeltran_",
                 "geo_enabled": true,
-                "verified": false,
                 "followers_count": 317,
                 "profile_sidebar_fill_color": "DDEEF6",
                 "description": "amante del futbol, Hincha del mas grande del Ecuador BSC.\ud83d\udd31\nGuayaquil- Ecuador\nestudiante de Comunicacion social. \ud83d\udc4d",
@@ -1437,7 +1436,7 @@
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                 "statuses_count": 7352,
-                "location": null,
+                "verified": false,
                 "friends_count": 413,
                 "favourites_count": 7086,
                 "profile_background_color": "1A1B1F",
@@ -1451,6 +1450,7 @@
                 "follow_request_sent": null,
                 "default_profile_image": false,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/1073246524547760128/zid7UENg_normal.jpg",
+                "location": null,
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073246524547760128/zid7UENg_normal.jpg",
                 "listed_count": 0,
@@ -1466,9 +1466,8 @@
                 "urls": [],
                 "hashtags": []
             },
-            "text": "El chiste del a\u00f1o. \ud83d\ude02\ud83d\ude02\ud83d\ude02",
             "place": {
-                "country_code": "EC",
+                "country": "Ecuador",
                 "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
                 "place_type": "city",
                 "full_name": "Guayaquil, Ecuador",
@@ -1497,8 +1496,8 @@
                 },
                 "name": "Guayaquil",
                 "id": "009924a469d7ace1",
-                "country": "Ecuador",
-                "attributes": {}
+                "attributes": {},
+                "country_code": "EC"
             },
             "favorited": false,
             "created_at": "Fri Aug 02 12:54:18 +0000 2019",
@@ -1516,7 +1515,6 @@
                     "profile_text_color": "333333",
                     "screen_name": "JefeUrbano",
                     "geo_enabled": true,
-                    "verified": false,
                     "followers_count": 10795,
                     "profile_sidebar_fill_color": "DCF2F5",
                     "description": "Disl\u00e9xico, el resto de mi biograf\u00eda se la comi\u00f3 el perro del primo del t\u00edo del vecino del pap\u00e1 de un amigo.",
@@ -1526,7 +1524,7 @@
                     "contributors_enabled": false,
                     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                     "statuses_count": 159320,
-                    "location": "Banana Republic",
+                    "verified": false,
                     "friends_count": 394,
                     "favourites_count": 212,
                     "profile_background_color": "C0DEED",
@@ -1540,6 +1538,7 @@
                     "follow_request_sent": null,
                     "default_profile_image": false,
                     "profile_image_url": "http://pbs.twimg.com/profile_images/1051844639383318528/Y7HCl0pm_normal.jpg",
+                    "location": "Banana Republic",
                     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                     "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051844639383318528/Y7HCl0pm_normal.jpg",
                     "listed_count": 51,
@@ -1576,7 +1575,7 @@
                 "lang": "es",
                 "favorite_count": 58,
                 "in_reply_to_status_id": null,
-                "text": "\u00bf\u00bf\u00bfCl\u00e1sico Sudamericajajaja? Noooooooo JAJAJAJAJAJAJAJA\nJAJAJAJA JAJAJAJAJAJA JAJAJAJA JAAAAAJUEPUTAFFFF!! https://t.co/5iQQfPw9rv",
+                "quoted_status_id": 1156915868821073921,
                 "quoted_status_id_str": "1156915868821073921",
                 "in_reply_to_status_id_str": null,
                 "geo": null,
@@ -1585,7 +1584,7 @@
                 "possibly_sensitive": false,
                 "in_reply_to_user_id": null,
                 "retweet_count": 31,
-                "quoted_status_id": 1156915868821073921,
+                "text": "\u00bf\u00bf\u00bfCl\u00e1sico Sudamericajajaja? Noooooooo JAJAJAJAJAJAJAJA\nJAJAJAJA JAJAJAJAJAJA JAJAJAJA JAAAAAJUEPUTAFFFF!! https://t.co/5iQQfPw9rv",
                 "retweeted": false,
                 "filter_level": "low",
                 "contributors": null,
@@ -1596,6 +1595,7 @@
             "lang": "es",
             "favorite_count": 0,
             "in_reply_to_status_id": null,
+            "quoted_status_id": 1156957417403555840,
             "geo": null,
             "quoted_status_id_str": "1156957417403555840",
             "in_reply_to_status_id_str": null,
@@ -1609,7 +1609,7 @@
             "id": 1157273416073916416,
             "in_reply_to_user_id": null,
             "retweet_count": 0,
-            "quoted_status_id": 1156957417403555840,
+            "text": "El chiste del a\u00f1o. \ud83d\ude02\ud83d\ude02\ud83d\ude02",
             "retweeted": false,
             "filter_level": "low",
             "contributors": null,
@@ -1641,7 +1641,7 @@
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                 "listed_count": 0,
-                "location": "Samborondon, Ecuador",
+                "verified": false,
                 "friends_count": 86,
                 "geo_enabled": true,
                 "profile_background_color": "C0DEED",
@@ -1655,7 +1655,7 @@
                 "default_profile_image": false,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/688793811057790976/Z6h5yCNo_normal.jpg",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "verified": false,
+                "location": "Samborondon, Ecuador",
                 "profile_link_color": "1DA1F2",
                 "id_str": "1537814226",
                 "profile_use_background_image": true
@@ -1702,6 +1702,7 @@
                 "url": "https://api.twitter.com/1.1/geo/id/016d8a4a6eb3af15.json",
                 "place_type": "city",
                 "full_name": "Samborondon, Ecuador",
+                "attributes": {},
                 "bounding_box": {
                     "coordinates": [
                         [
@@ -1726,9 +1727,8 @@
                     "type": "Polygon"
                 },
                 "name": "Samborondon",
-                "country": "Ecuador",
                 "id": "016d8a4a6eb3af15",
-                "attributes": {},
+                "country": "Ecuador",
                 "country_code": "EC"
             },
             "display_text_range": [
@@ -1769,6 +1769,7 @@
                 "profile_text_color": "333333",
                 "screen_name": "MarcosToroEc",
                 "geo_enabled": true,
+                "verified": false,
                 "followers_count": 298,
                 "profile_sidebar_fill_color": "DDEEF6",
                 "description": "Ingeniero Comercial , Contador P\u00fablico, pol\u00edtico, padre amoroso",
@@ -1778,7 +1779,7 @@
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "",
                 "statuses_count": 2818,
-                "verified": false,
+                "location": null,
                 "friends_count": 563,
                 "favourites_count": 5628,
                 "profile_background_color": "F5F8FA",
@@ -1792,7 +1793,6 @@
                 "follow_request_sent": null,
                 "default_profile_image": false,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/1099362167080583169/_abZO_bb_normal.jpg",
-                "location": null,
                 "profile_background_image_url": "",
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/1099362167080583169/_abZO_bb_normal.jpg",
                 "listed_count": 1,
@@ -1800,10 +1800,10 @@
                 "profile_use_background_image": true
             },
             "place": {
+                "country_code": "EC",
                 "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
                 "place_type": "city",
                 "full_name": "Guayaquil, Ecuador",
-                "attributes": {},
                 "bounding_box": {
                     "coordinates": [
                         [
@@ -1827,13 +1827,13 @@
                     ],
                     "type": "Polygon"
                 },
-                "country": "Ecuador",
-                "id": "009924a469d7ace1",
                 "name": "Guayaquil",
-                "country_code": "EC"
+                "id": "009924a469d7ace1",
+                "country": "Ecuador",
+                "attributes": {}
             },
             "in_reply_to_screen_name": null,
-            "in_reply_to_user_id_str": null,
+            "filter_level": "low",
             "entities": {
                 "symbols": [],
                 "user_mentions": [],
@@ -2061,7 +2061,7 @@
             "retweet_count": 0,
             "text": "La constancia y el deseo de superaci\u00f3n de las personas ha hecho que sigamos adelante creando m\u00e1s oportunidades de t\u2026 https://t.co/tnFZQfVxhr",
             "retweeted": false,
-            "filter_level": "low",
+            "in_reply_to_user_id_str": null,
             "contributors": null,
             "reply_count": 0,
             "quote_count": 0,
@@ -2073,14 +2073,15 @@
                 "url": null,
                 "id": 217515019,
                 "lang": null,
-                "time_zone": null,
+                "statuses_count": 5055,
                 "favourites_count": 836,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2311694393/images_normal.jpg",
                 "name": "Pedro",
                 "notifications": null,
                 "is_translator": false,
                 "profile_text_color": "333333",
                 "screen_name": "pedroa8a",
-                "following": null,
+                "translator_type": "none",
                 "followers_count": 164,
                 "profile_sidebar_fill_color": "DDEEF6",
                 "description": "Medicina Interna",
@@ -2089,29 +2090,28 @@
                 "created_at": "Fri Nov 19 18:55:29 +0000 2010",
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2311694393/images_normal.jpg",
+                "verified": false,
                 "friends_count": 394,
                 "geo_enabled": true,
                 "profile_background_color": "C0DEED",
-                "translator_type": "none",
+                "time_zone": null,
                 "profile_link_color": "1DA1F2",
                 "profile_background_tile": false,
                 "protected": false,
                 "default_profile_image": false,
                 "profile_sidebar_border_color": "C0DEED",
-                "statuses_count": 5055,
+                "following": null,
                 "follow_request_sent": null,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/2311694393/images_normal.jpg",
-                "location": null,
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "verified": false,
+                "location": null,
                 "listed_count": 0,
                 "id_str": "217515019",
                 "profile_use_background_image": true
             },
             "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
             "in_reply_to_screen_name": "ricardo11998811",
-            "filter_level": "low",
+            "in_reply_to_user_id_str": "2505004153",
             "entities": {
                 "symbols": [],
                 "user_mentions": [
@@ -2160,7 +2160,6 @@
                 "hashtags": []
             },
             "place": {
-                "country_code": "EC",
                 "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
                 "place_type": "city",
                 "full_name": "Guayaquil, Ecuador",
@@ -2187,10 +2186,11 @@
                     ],
                     "type": "Polygon"
                 },
+                "name": "Guayaquil",
                 "country": "Ecuador",
                 "id": "009924a469d7ace1",
-                "name": "Guayaquil",
-                "attributes": {}
+                "attributes": {},
+                "country_code": "EC"
             },
             "display_text_range": [
                 38,
@@ -2252,12 +2252,12 @@
             "id": 1157273483174469633,
             "in_reply_to_user_id": 2505004153,
             "retweet_count": 0,
+            "filter_level": "low",
             "text": "@ricardo11998811 @ZulayRL @kiketoro11 Es verdad, a Cesar Farias nadie lo quiere, tiene toda la raz\u00f3n pero esta mal\u2026 https://t.co/4EvZTexDpw",
             "retweeted": false,
             "created_at": "Fri Aug 02 12:54:34 +0000 2019",
             "contributors": null,
             "reply_count": 0,
-            "in_reply_to_user_id_str": "2505004153",
             "quote_count": 0,
             "id_str": "1157273483174469633"
         },
@@ -2274,7 +2274,6 @@
                 "profile_text_color": "362720",
                 "screen_name": "Marirosadooo",
                 "geo_enabled": true,
-                "verified": false,
                 "followers_count": 477,
                 "profile_sidebar_fill_color": "E5507E",
                 "description": "tan bonita, tan linda y tan pura que le da celos al cielo\u2661",
@@ -2284,7 +2283,7 @@
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
                 "statuses_count": 19480,
-                "location": null,
+                "verified": false,
                 "friends_count": 181,
                 "favourites_count": 5058,
                 "profile_background_color": "131516",
@@ -2298,6 +2297,7 @@
                 "follow_request_sent": null,
                 "default_profile_image": false,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/1156000095575265280/XiybbNcj_normal.jpg",
+                "location": null,
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156000095575265280/XiybbNcj_normal.jpg",
                 "listed_count": 3,
@@ -2313,12 +2313,11 @@
                 "urls": [],
                 "hashtags": []
             },
-            "text": "Soy yo",
             "place": {
-                "country": "Ecuador",
                 "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
                 "place_type": "country",
                 "full_name": "Ecuador",
+                "attributes": {},
                 "bounding_box": {
                     "coordinates": [
                         [
@@ -2342,9 +2341,9 @@
                     ],
                     "type": "Polygon"
                 },
-                "name": "Ecuador",
+                "country": "Ecuador",
                 "id": "4e43cac8250a8b20",
-                "attributes": {},
+                "name": "Ecuador",
                 "country_code": "EC"
             },
             "favorited": false,
@@ -2363,7 +2362,6 @@
                     "profile_text_color": "333333",
                     "screen_name": "bdwhores",
                     "geo_enabled": false,
-                    "verified": false,
                     "followers_count": 431727,
                     "profile_sidebar_fill_color": "DDEEF6",
                     "description": "Entre m\u00e1s te valga madre, m\u00e1s disfrutar\u00e1s la vida. #WhoresTeam ||",
@@ -2373,7 +2371,7 @@
                     "contributors_enabled": false,
                     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                     "statuses_count": 18262,
-                    "location": "Puebla || CDMX || Monterrey",
+                    "verified": false,
                     "friends_count": 87,
                     "favourites_count": 10608,
                     "profile_background_color": "C0DEED",
@@ -2387,6 +2385,7 @@
                     "follow_request_sent": null,
                     "default_profile_image": false,
                     "profile_image_url": "http://pbs.twimg.com/profile_images/643517666481844224/vCHs2o_A_normal.jpg",
+                    "location": "Puebla || CDMX || Monterrey",
                     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                     "profile_image_url_https": "https://pbs.twimg.com/profile_images/643517666481844224/vCHs2o_A_normal.jpg",
                     "listed_count": 275,
@@ -2426,6 +2425,7 @@
             "lang": "es",
             "favorite_count": 0,
             "in_reply_to_status_id": null,
+            "quoted_status_id": 1157071620734947330,
             "geo": null,
             "quoted_status_id_str": "1157071620734947330",
             "in_reply_to_status_id_str": null,
@@ -2439,7 +2439,7 @@
             "id": 1157273537222193157,
             "in_reply_to_user_id": null,
             "retweet_count": 0,
-            "quoted_status_id": 1157071620734947330,
+            "text": "Soy yo",
             "retweeted": false,
             "filter_level": "low",
             "contributors": null,
@@ -2471,7 +2471,7 @@
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
                 "listed_count": 1,
-                "location": "Ecuador",
+                "verified": false,
                 "friends_count": 737,
                 "geo_enabled": true,
                 "profile_background_color": "642D8B",
@@ -2485,16 +2485,16 @@
                 "default_profile_image": false,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/1149873075774730245/5DHnbgtd_normal.jpg",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
-                "verified": false,
+                "location": "Ecuador",
                 "profile_link_color": "F58EA8",
                 "id_str": "2361041241",
                 "profile_use_background_image": true
             },
             "place": {
+                "country_code": "EC",
                 "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
                 "place_type": "city",
                 "full_name": "Guayaquil, Ecuador",
-                "attributes": {},
                 "bounding_box": {
                     "coordinates": [
                         [
@@ -2518,10 +2518,10 @@
                     ],
                     "type": "Polygon"
                 },
-                "name": "Guayaquil",
-                "id": "009924a469d7ace1",
                 "country": "Ecuador",
-                "country_code": "EC"
+                "id": "009924a469d7ace1",
+                "name": "Guayaquil",
+                "attributes": {}
             },
             "in_reply_to_screen_name": null,
             "filter_level": "low",
@@ -2560,7 +2560,7 @@
                     "contributors_enabled": false,
                     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                     "listed_count": 722,
-                    "location": "ESPA\u00d1A",
+                    "verified": false,
                     "friends_count": 21941,
                     "geo_enabled": true,
                     "profile_background_color": "C0DEED",
@@ -2574,7 +2574,7 @@
                     "default_profile_image": false,
                     "profile_image_url": "http://pbs.twimg.com/profile_images/950448159624499201/4Kec6FO0_normal.jpg",
                     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                    "verified": false,
+                    "location": "ESPA\u00d1A",
                     "profile_link_color": "1DA1F2",
                     "id_str": "866651533",
                     "profile_use_background_image": true
@@ -2746,11 +2746,11 @@
             "id": 1157273550073602048,
             "in_reply_to_user_id": null,
             "retweet_count": 0,
-            "quoted_status_id": 1156585894046031874,
+            "text": "Jajajajajajja",
             "retweeted": false,
             "in_reply_to_user_id_str": null,
             "contributors": null,
-            "text": "Jajajajajajja",
+            "quoted_status_id": 1156585894046031874,
             "quote_count": 0,
             "id_str": "1157273550073602048"
         },
@@ -2767,6 +2767,7 @@
                 "profile_text_color": "3D1957",
                 "screen_name": "stefibtancourt",
                 "geo_enabled": true,
+                "verified": false,
                 "followers_count": 375,
                 "profile_sidebar_fill_color": "7AC3EE",
                 "description": "La vida es un viaje y yo la quiero disfrutar \ud83d\udc95novia  del mejor @pepudo_sin_pepa",
@@ -2776,7 +2777,7 @@
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
                 "statuses_count": 16400,
-                "verified": false,
+                "location": "Ecuador",
                 "friends_count": 737,
                 "favourites_count": 4133,
                 "profile_background_color": "642D8B",
@@ -2790,7 +2791,6 @@
                 "follow_request_sent": null,
                 "default_profile_image": false,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/1149873075774730245/5DHnbgtd_normal.jpg",
-                "location": "Ecuador",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149873075774730245/5DHnbgtd_normal.jpg",
                 "listed_count": 1,
@@ -2798,7 +2798,7 @@
                 "profile_use_background_image": true
             },
             "place": {
-                "country_code": "EC",
+                "country": "Ecuador",
                 "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
                 "place_type": "city",
                 "full_name": "Guayaquil, Ecuador",
@@ -2827,8 +2827,8 @@
                 },
                 "name": "Guayaquil",
                 "id": "009924a469d7ace1",
-                "country": "Ecuador",
-                "attributes": {}
+                "attributes": {},
+                "country_code": "EC"
             },
             "in_reply_to_screen_name": "Ana_Lorena_A",
             "in_reply_to_user_id_str": "966091454",
@@ -2879,38 +2879,38 @@
             "truncated": false,
             "user": {
                 "url": null,
+                "id": 2563543763,
                 "lang": null,
-                "statuses_count": 2376,
+                "following": null,
                 "favourites_count": 13873,
                 "name": "fernbon",
                 "notifications": null,
                 "is_translator": false,
-                "created_at": "Sun May 25 14:21:38 +0000 2014",
+                "profile_text_color": "333333",
                 "screen_name": "edoba6217",
                 "translator_type": "none",
-                "geo_enabled": true,
+                "verified": false,
                 "followers_count": 239,
                 "profile_sidebar_fill_color": "DDEEF6",
                 "description": "35",
                 "default_profile": true,
                 "utc_offset": null,
-                "profile_text_color": "333333",
+                "created_at": "Sun May 25 14:21:38 +0000 2014",
                 "contributors_enabled": false,
                 "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-                "verified": false,
+                "location": "gquil",
                 "friends_count": 2592,
-                "id": 2563543763,
+                "geo_enabled": true,
                 "profile_background_color": "C0DEED",
-                "time_zone": null,
+                "statuses_count": 2376,
                 "profile_link_color": "1DA1F2",
                 "profile_background_tile": false,
                 "protected": false,
                 "default_profile_image": false,
                 "profile_sidebar_border_color": "C0DEED",
-                "following": null,
+                "time_zone": null,
                 "follow_request_sent": null,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/706114041022976001/2mRJ_25W_normal.jpg",
-                "location": "gquil",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/706114041022976001/2mRJ_25W_normal.jpg",
                 "listed_count": 0,
@@ -2941,6 +2941,7 @@
                 "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
                 "place_type": "city",
                 "full_name": "Guayaquil, Ecuador",
+                "attributes": {},
                 "bounding_box": {
                     "coordinates": [
                         [
@@ -2965,9 +2966,8 @@
                     "type": "Polygon"
                 },
                 "name": "Guayaquil",
-                "country": "Ecuador",
                 "id": "009924a469d7ace1",
-                "attributes": {},
+                "country": "Ecuador",
                 "country_code": "EC"
             },
             "display_text_range": [
@@ -3001,24 +3001,23 @@
                 "url": null,
                 "id": 312205683,
                 "lang": null,
-                "following": null,
+                "time_zone": null,
                 "name": "Francis",
                 "notifications": null,
                 "is_translator": false,
                 "profile_text_color": "0C3E53",
                 "screen_name": "francisk_su",
-                "verified": false,
+                "geo_enabled": true,
                 "followers_count": 175,
                 "profile_sidebar_fill_color": "FFF7CC",
                 "description": "pet lover,foodie.",
                 "default_profile": false,
                 "utc_offset": null,
                 "created_at": "Mon Jun 06 19:06:00 +0000 2011",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
                 "contributors_enabled": false,
-                "geo_enabled": true,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
                 "statuses_count": 12292,
-                "location": "Guayaquil, Ecuador",
+                "verified": false,
                 "friends_count": 68,
                 "favourites_count": 11391,
                 "profile_background_color": "0099B9",
@@ -3026,15 +3025,16 @@
                 "profile_link_color": "3B94D9",
                 "profile_background_tile": false,
                 "protected": false,
-                "default_profile_image": false,
-                "listed_count": 1,
+                "translator_type": "none",
                 "profile_sidebar_border_color": "FFFFFF",
-                "time_zone": null,
+                "following": null,
                 "follow_request_sent": null,
+                "default_profile_image": false,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/1124657365540851712/VAW-ZFwO_normal.jpg",
+                "location": "Guayaquil, Ecuador",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/1124657365540851712/VAW-ZFwO_normal.jpg",
-                "translator_type": "none",
+                "listed_count": 1,
                 "id_str": "312205683",
                 "profile_use_background_image": true
             },
@@ -3058,12 +3058,11 @@
                 "urls": [],
                 "hashtags": []
             },
-            "text": "Mire @abdalabucaram  \ud83d\udc4c",
             "place": {
+                "country_code": "EC",
                 "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
                 "place_type": "city",
                 "full_name": "Guayaquil, Ecuador",
-                "attributes": {},
                 "bounding_box": {
                     "coordinates": [
                         [
@@ -3087,10 +3086,10 @@
                     ],
                     "type": "Polygon"
                 },
-                "country": "Ecuador",
-                "id": "009924a469d7ace1",
                 "name": "Guayaquil",
-                "country_code": "EC"
+                "id": "009924a469d7ace1",
+                "country": "Ecuador",
+                "attributes": {}
             },
             "favorited": false,
             "created_at": "Fri Aug 02 12:55:43 +0000 2019",
@@ -3101,24 +3100,23 @@
                     "url": "https://www.facebook.com/IvanGrandaM/",
                     "id": 2249418181,
                     "lang": null,
-                    "following": null,
+                    "time_zone": null,
                     "name": "Iv\u00e1n Granda Molina",
                     "notifications": null,
                     "is_translator": false,
                     "profile_text_color": "000000",
                     "screen_name": "IvanGrandaM",
-                    "verified": false,
+                    "geo_enabled": true,
                     "followers_count": 15297,
                     "profile_sidebar_fill_color": "000000",
                     "description": "Secretario Anticorrupci\u00f3n del Ecuador \ud83c\uddea\ud83c\udde8",
                     "default_profile": false,
                     "utc_offset": null,
                     "created_at": "Mon Dec 16 22:34:55 +0000 2013",
-                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                     "contributors_enabled": false,
-                    "geo_enabled": true,
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                     "statuses_count": 12051,
-                    "location": "Ecuador",
+                    "verified": false,
                     "friends_count": 2110,
                     "favourites_count": 5921,
                     "profile_background_color": "000000",
@@ -3126,21 +3124,22 @@
                     "profile_link_color": "3B94D9",
                     "profile_background_tile": false,
                     "protected": false,
-                    "default_profile_image": false,
-                    "listed_count": 48,
+                    "translator_type": "none",
                     "profile_sidebar_border_color": "000000",
-                    "time_zone": null,
+                    "following": null,
                     "follow_request_sent": null,
+                    "default_profile_image": false,
                     "profile_image_url": "http://pbs.twimg.com/profile_images/1096557798643634176/DigII7MJ_normal.jpg",
+                    "location": "Ecuador",
                     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                     "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096557798643634176/DigII7MJ_normal.jpg",
-                    "translator_type": "none",
+                    "listed_count": 48,
                     "id_str": "2249418181",
                     "profile_use_background_image": false
                 },
                 "place": null,
                 "in_reply_to_screen_name": null,
-                "filter_level": "low",
+                "in_reply_to_user_id_str": null,
                 "entities": {
                     "symbols": [],
                     "user_mentions": [
@@ -3318,7 +3317,7 @@
                 "retweet_count": 139,
                 "text": "Gracias al trabajo coordinado entre la Secretar\u00eda Anticorrupci\u00f3n, @FiscaliaEcuador y @PoliciaEcuador evitamos que Y\u2026 https://t.co/JUyUbiGAH8",
                 "retweeted": false,
-                "in_reply_to_user_id_str": null,
+                "filter_level": "low",
                 "contributors": null,
                 "reply_count": 61,
                 "quote_count": 15,
@@ -3327,6 +3326,7 @@
             "lang": "en",
             "favorite_count": 0,
             "in_reply_to_status_id": null,
+            "quoted_status_id": 1157153221678206977,
             "geo": null,
             "quoted_status_id_str": "1157153221678206977",
             "in_reply_to_status_id_str": null,
@@ -3340,7 +3340,7 @@
             "id": 1157273774011682816,
             "in_reply_to_user_id": null,
             "retweet_count": 0,
-            "quoted_status_id": 1157153221678206977,
+            "text": "Mire @abdalabucaram  \ud83d\udc4c",
             "retweeted": false,
             "filter_level": "low",
             "contributors": null,
@@ -3353,15 +3353,14 @@
             "user": {
                 "url": null,
                 "lang": null,
-                "time_zone": null,
-                "profile_image_url_https": "https://pbs.twimg.com/profile_images/706114041022976001/2mRJ_25W_normal.jpg",
+                "statuses_count": 2377,
+                "favourites_count": 13874,
                 "name": "fernbon",
-                "id_str": "2563543763",
                 "notifications": null,
                 "is_translator": false,
                 "created_at": "Sun May 25 14:21:38 +0000 2014",
                 "screen_name": "edoba6217",
-                "following": null,
+                "translator_type": "none",
                 "geo_enabled": true,
                 "followers_count": 239,
                 "profile_sidebar_fill_color": "DDEEF6",
@@ -3370,24 +3369,25 @@
                 "utc_offset": null,
                 "profile_text_color": "333333",
                 "contributors_enabled": false,
-                "favourites_count": 13874,
-                "location": "gquil",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "verified": false,
                 "friends_count": 2592,
                 "id": 2563543763,
                 "profile_background_color": "C0DEED",
-                "translator_type": "none",
+                "time_zone": null,
                 "profile_link_color": "1DA1F2",
                 "profile_background_tile": false,
                 "protected": false,
                 "default_profile_image": false,
                 "profile_sidebar_border_color": "C0DEED",
-                "statuses_count": 2377,
+                "following": null,
                 "follow_request_sent": null,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/706114041022976001/2mRJ_25W_normal.jpg",
+                "location": "gquil",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-                "verified": false,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/706114041022976001/2mRJ_25W_normal.jpg",
                 "listed_count": 0,
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "id_str": "2563543763",
                 "profile_use_background_image": true
             },
             "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
@@ -3411,7 +3411,6 @@
                 "hashtags": []
             },
             "place": {
-                "country_code": "EC",
                 "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
                 "place_type": "city",
                 "full_name": "Guayaquil, Ecuador",
@@ -3438,10 +3437,11 @@
                     ],
                     "type": "Polygon"
                 },
+                "name": "Guayaquil",
                 "country": "Ecuador",
                 "id": "009924a469d7ace1",
-                "name": "Guayaquil",
-                "attributes": {}
+                "attributes": {},
+                "country_code": "EC"
             },
             "display_text_range": [
                 15,
@@ -3474,37 +3474,37 @@
                 "url": null,
                 "id": 221440455,
                 "lang": null,
-                "statuses_count": 12552,
-                "favourites_count": 4039,
+                "following": null,
                 "name": "Maria Jose Izquierdo",
                 "notifications": null,
                 "is_translator": false,
                 "profile_text_color": "333333",
                 "screen_name": "mjizquierdo",
+                "verified": false,
                 "followers_count": 805,
                 "profile_sidebar_fill_color": "DDEEF6",
                 "description": "Marito y Vale mi vida entera \ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66 Guayaquile\u00f1a y Barcelonista - Maratonista en proceso \ud83c\udfc3\ud83c\udffb\u200d\u2640\ufe0f @Downtownrungye",
                 "default_profile": true,
                 "utc_offset": null,
                 "created_at": "Tue Nov 30 17:39:04 +0000 2010",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
                 "contributors_enabled": false,
                 "geo_enabled": true,
-                "listed_count": 10,
-                "verified": false,
+                "statuses_count": 12552,
+                "location": "Guayaquil, Ecuador",
                 "friends_count": 1160,
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "favourites_count": 4039,
                 "profile_background_color": "C0DEED",
-                "time_zone": null,
                 "profile_banner_url": "https://pbs.twimg.com/profile_banners/221440455/1477420660",
                 "profile_link_color": "1DA1F2",
                 "profile_background_tile": false,
                 "protected": false,
                 "default_profile_image": false,
+                "listed_count": 10,
                 "profile_sidebar_border_color": "C0DEED",
-                "following": null,
+                "time_zone": null,
                 "follow_request_sent": null,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/1073423414633877510/-JrQ9yVF_normal.jpg",
-                "location": "Guayaquil, Ecuador",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073423414633877510/-JrQ9yVF_normal.jpg",
                 "translator_type": "none",
@@ -3512,10 +3512,10 @@
                 "profile_use_background_image": true
             },
             "place": {
-                "country": "Ecuador",
                 "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
                 "place_type": "city",
                 "full_name": "Guayaquil, Ecuador",
+                "attributes": {},
                 "bounding_box": {
                     "coordinates": [
                         [
@@ -3539,9 +3539,9 @@
                     ],
                     "type": "Polygon"
                 },
-                "name": "Guayaquil",
+                "country": "Ecuador",
                 "id": "009924a469d7ace1",
-                "attributes": {},
+                "name": "Guayaquil",
                 "country_code": "EC"
             },
             "in_reply_to_screen_name": "AlecCardenas",
@@ -3592,29 +3592,29 @@
         {
             "truncated": false,
             "user": {
-                "notifications": null,
                 "url": "http://Instagram.com/leeonorv",
                 "lang": null,
-                "statuses_count": 129864,
+                "time_zone": null,
                 "profile_image_url_https": "https://pbs.twimg.com/profile_images/1072679389828182016/XTNgDOXq_normal.jpg",
                 "name": "Leonor",
-                "follow_request_sent": null,
                 "translator_type": "regular",
+                "notifications": null,
                 "is_translator": false,
                 "created_at": "Sat Sep 11 01:09:41 +0000 2010",
                 "screen_name": "LeeonorV",
                 "following": null,
                 "geo_enabled": true,
-                "profile_sidebar_fill_color": "0CEB65",
                 "followers_count": 2701,
-                "profile_text_color": "333333",
+                "profile_sidebar_fill_color": "0CEB65",
+                "id_str": "189348727",
                 "description": "Lejos de todo el ruido y las opciones, toda la gente y sus opiniones",
-                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "default_profile": false,
                 "utc_offset": null,
-                "friends_count": 675,
+                "profile_text_color": "333333",
                 "contributors_enabled": false,
                 "favourites_count": 43720,
-                "verified": false,
+                "location": "Guayaquil",
+                "friends_count": 675,
                 "id": 189348727,
                 "profile_background_color": "000000",
                 "profile_banner_url": "https://pbs.twimg.com/profile_banners/189348727/1498793316",
@@ -3623,20 +3623,363 @@
                 "protected": false,
                 "default_profile_image": false,
                 "profile_sidebar_border_color": "000000",
-                "time_zone": null,
-                "profile_use_background_image": true,
-                "default_profile": false,
+                "statuses_count": 129864,
+                "follow_request_sent": null,
                 "profile_image_url": "http://pbs.twimg.com/profile_images/1072679389828182016/XTNgDOXq_normal.jpg",
                 "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-                "location": "Guayaquil",
+                "verified": false,
                 "listed_count": 25,
-                "id_str": "189348727"
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_use_background_image": true
             },
             "place": {
+                "country_code": "EC",
                 "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
                 "place_type": "city",
                 "full_name": "Guayaquil, Ecuador",
-                "attributes": {},
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -80.467605,
+                                -3.063716
+                            ],
+                            [
+                                -80.467605,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -1.962274
+                            ],
+                            [
+                                -79.714781,
+                                -3.063716
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "country": "Ecuador",
+                "id": "009924a469d7ace1",
+                "name": "Guayaquil",
+                "attributes": {}
+            },
+            "in_reply_to_screen_name": null,
+            "filter_level": "low",
+            "entities": {
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "hashtags": []
+            },
+            "reply_count": 0,
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "favorited": false,
+            "created_at": "Fri Aug 02 12:56:19 +0000 2019",
+            "coordinates": null,
+            "quoted_status": {
+                "truncated": false,
+                "user": {
+                    "url": "http://Instagram.com/Keven.Victoria",
+                    "lang": null,
+                    "time_zone": null,
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029866442676752392/CX0g1rWe_normal.jpg",
+                    "name": "Keven\ud83e\uddf8",
+                    "translator_type": "none",
+                    "notifications": null,
+                    "is_translator": false,
+                    "created_at": "Thu Apr 05 03:27:22 +0000 2018",
+                    "screen_name": "fructosepapi",
+                    "following": null,
+                    "geo_enabled": true,
+                    "followers_count": 39737,
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "id_str": "981735017129938944",
+                    "description": "8teen // Venmo&CashApp: fructosepapi // email: kvictoria0421@gmail.com",
+                    "default_profile": true,
+                    "utc_offset": null,
+                    "profile_text_color": "333333",
+                    "contributors_enabled": false,
+                    "favourites_count": 14010,
+                    "location": "New York, NY",
+                    "friends_count": 689,
+                    "id": 981735017129938944,
+                    "profile_background_color": "F5F8FA",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/981735017129938944/1522983708",
+                    "profile_link_color": "1DA1F2",
+                    "profile_background_tile": false,
+                    "protected": false,
+                    "default_profile_image": false,
+                    "profile_sidebar_border_color": "C0DEED",
+                    "statuses_count": 11027,
+                    "follow_request_sent": null,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1029866442676752392/CX0g1rWe_normal.jpg",
+                    "profile_background_image_url": "",
+                    "verified": false,
+                    "listed_count": 75,
+                    "profile_background_image_url_https": "",
+                    "profile_use_background_image": true
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_screen_name": null,
+                "filter_level": "low",
+                "entities": {
+                    "user_mentions": [],
+                    "symbols": [],
+                    "media": [
+                        {
+                            "url": "https://t.co/9lS2RBSFkr",
+                            "indices": [
+                                11,
+                                34
+                            ],
+                            "media_url_https": "https://pbs.twimg.com/media/EA26e-cXUAAFIaa.jpg",
+                            "display_url": "pic.twitter.com/9lS2RBSFkr",
+                            "media_url": "http://pbs.twimg.com/media/EA26e-cXUAAFIaa.jpg",
+                            "expanded_url": "https://twitter.com/fructosepapi/status/1156785724458512385/photo/1",
+                            "id": 1156785720624893952,
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "h": 194,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                },
+                                "medium": {
+                                    "h": 214,
+                                    "resize": "fit",
+                                    "w": 750
+                                },
+                                "large": {
+                                    "h": 214,
+                                    "resize": "fit",
+                                    "w": 750
+                                }
+                            },
+                            "id_str": "1156785720624893952"
+                        }
+                    ],
+                    "urls": [],
+                    "hashtags": []
+                },
+                "place": null,
+                "display_text_range": [
+                    0,
+                    10
+                ],
+                "favorited": false,
+                "in_reply_to_status_id_str": null,
+                "coordinates": null,
+                "lang": "en",
+                "favorite_count": 93451,
+                "in_reply_to_status_id": null,
+                "extended_entities": {
+                    "media": [
+                        {
+                            "url": "https://t.co/9lS2RBSFkr",
+                            "indices": [
+                                11,
+                                34
+                            ],
+                            "media_url_https": "https://pbs.twimg.com/media/EA26e-cXUAAFIaa.jpg",
+                            "display_url": "pic.twitter.com/9lS2RBSFkr",
+                            "media_url": "http://pbs.twimg.com/media/EA26e-cXUAAFIaa.jpg",
+                            "expanded_url": "https://twitter.com/fructosepapi/status/1156785724458512385/photo/1",
+                            "id": 1156785720624893952,
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "h": 194,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                },
+                                "medium": {
+                                    "h": 214,
+                                    "resize": "fit",
+                                    "w": 750
+                                },
+                                "large": {
+                                    "h": 214,
+                                    "resize": "fit",
+                                    "w": 750
+                                }
+                            },
+                            "id_str": "1156785720624893952"
+                        },
+                        {
+                            "url": "https://t.co/9lS2RBSFkr",
+                            "indices": [
+                                11,
+                                34
+                            ],
+                            "media_url_https": "https://pbs.twimg.com/media/EA26e-YX4AUn74k.jpg",
+                            "display_url": "pic.twitter.com/9lS2RBSFkr",
+                            "media_url": "http://pbs.twimg.com/media/EA26e-YX4AUn74k.jpg",
+                            "expanded_url": "https://twitter.com/fructosepapi/status/1156785724458512385/photo/1",
+                            "id": 1156785720608153605,
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "h": 401,
+                                    "resize": "fit",
+                                    "w": 680
+                                },
+                                "thumb": {
+                                    "h": 150,
+                                    "resize": "crop",
+                                    "w": 150
+                                },
+                                "medium": {
+                                    "h": 588,
+                                    "resize": "fit",
+                                    "w": 998
+                                },
+                                "large": {
+                                    "h": 588,
+                                    "resize": "fit",
+                                    "w": 998
+                                }
+                            },
+                            "id_str": "1156785720608153605"
+                        }
+                    ]
+                },
+                "created_at": "Thu Aug 01 04:36:23 +0000 2019",
+                "geo": null,
+                "is_quote_status": false,
+                "id": 1156785724458512385,
+                "possibly_sensitive": false,
+                "in_reply_to_user_id": null,
+                "retweet_count": 24053,
+                "text": "WE\u2019RE FREE https://t.co/9lS2RBSFkr",
+                "retweeted": false,
+                "in_reply_to_user_id_str": null,
+                "contributors": null,
+                "reply_count": 221,
+                "quote_count": 1371,
+                "id_str": "1156785724458512385"
+            },
+            "lang": "es",
+            "favorite_count": 0,
+            "in_reply_to_status_id": null,
+            "quoted_status_permalink": {
+                "url": "https://t.co/rGEjpH9wai",
+                "expanded": "https://twitter.com/fructosepapi/status/1156785724458512385",
+                "display": "twitter.com/fructosepapi/s\u2026"
+            },
+            "quoted_status_id_str": "1156785724458512385",
+            "in_reply_to_status_id_str": null,
+            "geo": null,
+            "timestamp_ms": "1564750579395",
+            "is_quote_status": true,
+            "id": 1157273924616577024,
+            "in_reply_to_user_id": null,
+            "retweet_count": 0,
+            "quoted_status_id": 1156785724458512385,
+            "retweeted": false,
+            "in_reply_to_user_id_str": null,
+            "contributors": null,
+            "text": "Al Fin amigos.",
+            "quote_count": 0,
+            "id_str": "1157273924616577024"
+        },
+        {
+            "truncated": true,
+            "user": {
+                "url": "http://www.casamorada.net",
+                "id": 278172126,
+                "lang": null,
+                "statuses_count": 12912,
+                "favourites_count": 7250,
+                "name": "Casa Morada",
+                "notifications": null,
+                "is_translator": false,
+                "profile_text_color": "663B12",
+                "screen_name": "casamoradaEC",
+                "followers_count": 3430,
+                "profile_sidebar_fill_color": "DAECF4",
+                "description": "Iniciativas culturales; garaje de libros y cad\u00e1ver exquisito ediciones",
+                "default_profile": false,
+                "utc_offset": null,
+                "created_at": "Wed Apr 06 19:11:13 +0000 2011",
+                "contributors_enabled": false,
+                "geo_enabled": true,
+                "listed_count": 33,
+                "verified": false,
+                "friends_count": 1226,
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_color": "C6E2EE",
+                "time_zone": null,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/278172126/1430757870",
+                "profile_link_color": "1F98C7",
+                "profile_background_tile": false,
+                "protected": false,
+                "default_profile_image": false,
+                "profile_sidebar_border_color": "C6E2EE",
+                "following": null,
+                "follow_request_sent": null,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000672853492/af8564445929eb6bf1720034ee59818d_normal.jpeg",
+                "location": "Guayaquil",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000672853492/af8564445929eb6bf1720034ee59818d_normal.jpeg",
+                "translator_type": "none",
+                "id_str": "278172126",
+                "profile_use_background_image": true
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_screen_name": null,
+            "in_reply_to_user_id_str": null,
+            "entities": {
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "elhieloescrito",
+                        "id": 864527607756402688,
+                        "name": "\uff25\uff52\uff4e\uff45\uff53\uff54\uff4f \uff23\uff41\uff52\uff52\uff49\u00f8\uff4e",
+                        "id_str": "864527607756402688",
+                        "indices": [
+                            68,
+                            83
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/WDWzeSe6dP",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "expanded_url": "https://twitter.com/i/web/status/1157273976281980928",
+                        "display_url": "twitter.com/i/web/status/1\u2026"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "indices": [
+                            46,
+                            57
+                        ],
+                        "text": "clubmorado"
+                    }
+                ]
+            },
+            "place": {
+                "country": "Ecuador",
+                "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+                "place_type": "city",
+                "full_name": "Guayaquil, Ecuador",
                 "bounding_box": {
                     "coordinates": [
                         [
@@ -3662,237 +4005,255 @@
                 },
                 "name": "Guayaquil",
                 "id": "009924a469d7ace1",
+                "attributes": {},
+                "country_code": "EC"
+            },
+            "favorited": false,
+            "created_at": "Fri Aug 02 12:56:31 +0000 2019",
+            "coordinates": null,
+            "in_reply_to_status_id_str": null,
+            "lang": "es",
+            "favorite_count": 0,
+            "in_reply_to_status_id": null,
+            "extended_tweet": {
+                "full_text": "Agosto, la Casa vibra: 4 Garaje de libros, 6  #clubmorado  recibe a @elhieloescrito para comentar El dia que me faltes, el 9 di\u00e1logo lit. ecuat. contempor\u00e1nea en @EspanolaLib con @leonardvalencia y E. Carri\u00f3n; el 10 vamos con La Colectiva al MAAC, el 15 presentaci\u00f3n del Conde.",
+                "display_text_range": [
+                    0,
+                    277
+                ],
+                "entities": {
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "elhieloescrito",
+                            "id": 864527607756402688,
+                            "name": "\uff25\uff52\uff4e\uff45\uff53\uff54\uff4f \uff23\uff41\uff52\uff52\uff49\u00f8\uff4e",
+                            "id_str": "864527607756402688",
+                            "indices": [
+                                68,
+                                83
+                            ]
+                        },
+                        {
+                            "screen_name": "EspanolaLib",
+                            "id": 300958927,
+                            "name": "Librer\u00edaEspa\u00f1ola",
+                            "id_str": "300958927",
+                            "indices": [
+                                162,
+                                174
+                            ]
+                        },
+                        {
+                            "screen_name": "leonardvalencia",
+                            "id": 15160433,
+                            "name": "Leonardo Valencia",
+                            "id_str": "15160433",
+                            "indices": [
+                                179,
+                                195
+                            ]
+                        }
+                    ],
+                    "urls": [],
+                    "hashtags": [
+                        {
+                            "indices": [
+                                46,
+                                57
+                            ],
+                            "text": "clubmorado"
+                        }
+                    ]
+                }
+            },
+            "geo": null,
+            "timestamp_ms": "1564750591713",
+            "is_quote_status": false,
+            "id": 1157273976281980928,
+            "in_reply_to_user_id": null,
+            "retweet_count": 0,
+            "text": "Agosto, la Casa vibra: 4 Garaje de libros, 6  #clubmorado  recibe a @elhieloescrito para comentar El dia que me fal\u2026 https://t.co/WDWzeSe6dP",
+            "retweeted": false,
+            "filter_level": "low",
+            "contributors": null,
+            "reply_count": 0,
+            "quote_count": 0,
+            "id_str": "1157273976281980928"
+        },
+        {
+            "truncated": true,
+            "user": {
+                "notifications": null,
+                "url": null,
+                "lang": null,
+                "statuses_count": 8721,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/814268832386871300/1BC65g0J_normal.jpg",
+                "name": "Rodrigo J\u00e1come",
+                "follow_request_sent": null,
+                "translator_type": "none",
+                "is_translator": false,
+                "created_at": "Tue Jan 19 23:29:27 +0000 2016",
+                "screen_name": "ecuprensa",
+                "following": null,
+                "geo_enabled": true,
+                "profile_sidebar_fill_color": "000000",
+                "followers_count": 347,
+                "profile_text_color": "000000",
+                "description": "Emprendedor que sue\u00f1a con pa\u00eds sin corrupci\u00f3n y con verdadera justicia social.",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "utc_offset": null,
+                "friends_count": 365,
+                "contributors_enabled": false,
+                "favourites_count": 6267,
+                "verified": false,
+                "id": 4828030624,
+                "profile_background_color": "000000",
+                "profile_link_color": "1B95E0",
+                "profile_background_tile": false,
+                "protected": false,
+                "default_profile_image": false,
+                "profile_sidebar_border_color": "000000",
+                "time_zone": null,
+                "profile_use_background_image": false,
+                "default_profile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/814268832386871300/1BC65g0J_normal.jpg",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "location": "Quito, Ecuador",
+                "listed_count": 3,
+                "id_str": "4828030624"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_screen_name": "economista33",
+            "filter_level": "low",
+            "entities": {
+                "user_mentions": [
+                    {
+                        "screen_name": "economista33",
+                        "id": 198723699,
+                        "name": "Jorge Rodriguez T \u00a9",
+                        "id_str": "198723699",
+                        "indices": [
+                            0,
+                            13
+                        ]
+                    },
+                    {
+                        "screen_name": "AsambleaEcuador",
+                        "id": 56502954,
+                        "name": "Asamblea Nacional",
+                        "id_str": "56502954",
+                        "indices": [
+                            14,
+                            30
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/U3GAWS9Zg1",
+                        "indices": [
+                            116,
+                            139
+                        ],
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "expanded_url": "https://twitter.com/i/web/status/1157273992904028161"
+                    }
+                ]
+            },
+            "extended_tweet": {
+                "display_text_range": [
+                    31,
+                    310
+                ],
+                "full_text": "@economista33 @AsambleaEcuador La Ley de Extinci\u00f3n de Dominio esta tan guardada en la Asamblea que la ped\u00ed con los t\u00edpicos oficios y nada, fui personalmente al archivo y constat\u00e9 que lo guardaron tan, pero tan bien, que ya no aparece\nComo la parte 3 del informe Gabela, aqu\u00ed se puede desaparecer cualquier cosa",
+                "entities": {
+                    "user_mentions": [
+                        {
+                            "screen_name": "economista33",
+                            "id": 198723699,
+                            "name": "Jorge Rodriguez T \u00a9",
+                            "id_str": "198723699",
+                            "indices": [
+                                0,
+                                13
+                            ]
+                        },
+                        {
+                            "screen_name": "AsambleaEcuador",
+                            "id": 56502954,
+                            "name": "Asamblea Nacional",
+                            "id_str": "56502954",
+                            "indices": [
+                                14,
+                                30
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "hashtags": [],
+                    "urls": []
+                }
+            },
+            "place": {
+                "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+                "place_type": "country",
+                "full_name": "Ecuador",
+                "attributes": {},
+                "bounding_box": {
+                    "coordinates": [
+                        [
+                            [
+                                -92.008973,
+                                -5.013285
+                            ],
+                            [
+                                -92.008973,
+                                1.681834
+                            ],
+                            [
+                                -75.192627,
+                                1.681834
+                            ],
+                            [
+                                -75.192627,
+                                -5.013285
+                            ]
+                        ]
+                    ],
+                    "type": "Polygon"
+                },
+                "name": "Ecuador",
+                "id": "4e43cac8250a8b20",
                 "country": "Ecuador",
                 "country_code": "EC"
             },
-            "in_reply_to_screen_name": null,
-            "filter_level": "low",
-            "entities": {
-                "user_mentions": [],
-                "symbols": [],
-                "hashtags": [],
-                "urls": []
-            },
-            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "display_text_range": [
+                31,
+                140
+            ],
             "favorited": false,
-            "in_reply_to_status_id_str": null,
+            "in_reply_to_status_id_str": "1157263876859277313",
             "coordinates": null,
-            "reply_count": 0,
-            "quoted_status": {
-                "truncated": false,
-                "user": {
-                    "notifications": null,
-                    "url": "http://Instagram.com/Keven.Victoria",
-                    "lang": null,
-                    "statuses_count": 11027,
-                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1029866442676752392/CX0g1rWe_normal.jpg",
-                    "name": "Keven\ud83e\uddf8",
-                    "follow_request_sent": null,
-                    "translator_type": "none",
-                    "is_translator": false,
-                    "created_at": "Thu Apr 05 03:27:22 +0000 2018",
-                    "screen_name": "fructosepapi",
-                    "following": null,
-                    "geo_enabled": true,
-                    "profile_sidebar_fill_color": "DDEEF6",
-                    "followers_count": 39737,
-                    "profile_text_color": "333333",
-                    "description": "8teen // Venmo&CashApp: fructosepapi // email: kvictoria0421@gmail.com",
-                    "profile_background_image_url_https": "",
-                    "utc_offset": null,
-                    "friends_count": 689,
-                    "contributors_enabled": false,
-                    "favourites_count": 14010,
-                    "verified": false,
-                    "id": 981735017129938944,
-                    "profile_background_color": "F5F8FA",
-                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/981735017129938944/1522983708",
-                    "profile_link_color": "1DA1F2",
-                    "profile_background_tile": false,
-                    "protected": false,
-                    "default_profile_image": false,
-                    "profile_sidebar_border_color": "C0DEED",
-                    "time_zone": null,
-                    "profile_use_background_image": true,
-                    "default_profile": true,
-                    "profile_image_url": "http://pbs.twimg.com/profile_images/1029866442676752392/CX0g1rWe_normal.jpg",
-                    "profile_background_image_url": "",
-                    "location": "New York, NY",
-                    "listed_count": 75,
-                    "id_str": "981735017129938944"
-                },
-                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-                "in_reply_to_screen_name": null,
-                "filter_level": "low",
-                "entities": {
-                    "user_mentions": [],
-                    "symbols": [],
-                    "hashtags": [],
-                    "urls": [],
-                    "media": [
-                        {
-                            "url": "https://t.co/9lS2RBSFkr",
-                            "indices": [
-                                11,
-                                34
-                            ],
-                            "media_url_https": "https://pbs.twimg.com/media/EA26e-cXUAAFIaa.jpg",
-                            "media_url": "http://pbs.twimg.com/media/EA26e-cXUAAFIaa.jpg",
-                            "display_url": "pic.twitter.com/9lS2RBSFkr",
-                            "id": 1156785720624893952,
-                            "type": "photo",
-                            "sizes": {
-                                "small": {
-                                    "h": 194,
-                                    "resize": "fit",
-                                    "w": 680
-                                },
-                                "thumb": {
-                                    "h": 150,
-                                    "resize": "crop",
-                                    "w": 150
-                                },
-                                "medium": {
-                                    "h": 214,
-                                    "resize": "fit",
-                                    "w": 750
-                                },
-                                "large": {
-                                    "h": 214,
-                                    "resize": "fit",
-                                    "w": 750
-                                }
-                            },
-                            "id_str": "1156785720624893952",
-                            "expanded_url": "https://twitter.com/fructosepapi/status/1156785724458512385/photo/1"
-                        }
-                    ]
-                },
-                "place": null,
-                "display_text_range": [
-                    0,
-                    10
-                ],
-                "favorited": false,
-                "in_reply_to_status_id_str": null,
-                "coordinates": null,
-                "favorite_count": 93451,
-                "in_reply_to_status_id": null,
-                "lang": "en",
-                "extended_entities": {
-                    "media": [
-                        {
-                            "url": "https://t.co/9lS2RBSFkr",
-                            "indices": [
-                                11,
-                                34
-                            ],
-                            "media_url_https": "https://pbs.twimg.com/media/EA26e-cXUAAFIaa.jpg",
-                            "media_url": "http://pbs.twimg.com/media/EA26e-cXUAAFIaa.jpg",
-                            "display_url": "pic.twitter.com/9lS2RBSFkr",
-                            "id": 1156785720624893952,
-                            "type": "photo",
-                            "sizes": {
-                                "small": {
-                                    "h": 194,
-                                    "resize": "fit",
-                                    "w": 680
-                                },
-                                "thumb": {
-                                    "h": 150,
-                                    "resize": "crop",
-                                    "w": 150
-                                },
-                                "medium": {
-                                    "h": 214,
-                                    "resize": "fit",
-                                    "w": 750
-                                },
-                                "large": {
-                                    "h": 214,
-                                    "resize": "fit",
-                                    "w": 750
-                                }
-                            },
-                            "id_str": "1156785720624893952",
-                            "expanded_url": "https://twitter.com/fructosepapi/status/1156785724458512385/photo/1"
-                        },
-                        {
-                            "url": "https://t.co/9lS2RBSFkr",
-                            "indices": [
-                                11,
-                                34
-                            ],
-                            "media_url_https": "https://pbs.twimg.com/media/EA26e-YX4AUn74k.jpg",
-                            "media_url": "http://pbs.twimg.com/media/EA26e-YX4AUn74k.jpg",
-                            "display_url": "pic.twitter.com/9lS2RBSFkr",
-                            "id": 1156785720608153605,
-                            "type": "photo",
-                            "sizes": {
-                                "small": {
-                                    "h": 401,
-                                    "resize": "fit",
-                                    "w": 680
-                                },
-                                "thumb": {
-                                    "h": 150,
-                                    "resize": "crop",
-                                    "w": 150
-                                },
-                                "medium": {
-                                    "h": 588,
-                                    "resize": "fit",
-                                    "w": 998
-                                },
-                                "large": {
-                                    "h": 588,
-                                    "resize": "fit",
-                                    "w": 998
-                                }
-                            },
-                            "id_str": "1156785720608153605",
-                            "expanded_url": "https://twitter.com/fructosepapi/status/1156785724458512385/photo/1"
-                        }
-                    ]
-                },
-                "created_at": "Thu Aug 01 04:36:23 +0000 2019",
-                "geo": null,
-                "is_quote_status": false,
-                "id": 1156785724458512385,
-                "possibly_sensitive": false,
-                "in_reply_to_user_id": null,
-                "retweet_count": 24053,
-                "text": "WE\u2019RE FREE https://t.co/9lS2RBSFkr",
-                "retweeted": false,
-                "in_reply_to_user_id_str": null,
-                "contributors": null,
-                "reply_count": 221,
-                "quote_count": 1371,
-                "id_str": "1156785724458512385"
-            },
             "favorite_count": 0,
-            "in_reply_to_status_id": null,
+            "in_reply_to_status_id": 1157263876859277313,
             "lang": "es",
-            "quoted_status_permalink": {
-                "url": "https://t.co/rGEjpH9wai",
-                "expanded": "https://twitter.com/fructosepapi/status/1156785724458512385",
-                "display": "twitter.com/fructosepapi/s\u2026"
-            },
-            "quoted_status_id_str": "1156785724458512385",
-            "created_at": "Fri Aug 02 12:56:19 +0000 2019",
+            "created_at": "Fri Aug 02 12:56:35 +0000 2019",
             "geo": null,
-            "timestamp_ms": "1564750579395",
-            "is_quote_status": true,
-            "id": 1157273924616577024,
-            "in_reply_to_user_id": null,
+            "timestamp_ms": "1564750595676",
+            "is_quote_status": false,
+            "id": 1157273992904028161,
+            "in_reply_to_user_id": 198723699,
             "retweet_count": 0,
-            "text": "Al Fin amigos.",
+            "text": "@economista33 @AsambleaEcuador La Ley de Extinci\u00f3n de Dominio esta tan guardada en la Asamblea que la ped\u00ed con los\u2026 https://t.co/U3GAWS9Zg1",
             "retweeted": false,
-            "in_reply_to_user_id_str": null,
+            "in_reply_to_user_id_str": "198723699",
             "contributors": null,
-            "quoted_status_id": 1156785724458512385,
+            "reply_count": 0,
             "quote_count": 0,
-            "id_str": "1157273924616577024"
+            "id_str": "1157273992904028161"
         }
     ]
 }
