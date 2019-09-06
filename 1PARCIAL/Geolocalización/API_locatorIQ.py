@@ -12,17 +12,7 @@ URL = "https://us1.locationiq.com/v1/search.php"
 VIEWBOX_GUAYAQUIL = '-79.95912,-2.287573,-79.856351,-2.053362'
 VIEWBOX_CUENCA = '-79.598348,-3.176061,-78.847109,-2.557808'
 KEYS = [
-    #Byron
-    '42e21cf0c2eb57',
-    #Mauricio
-    '679e8ce7ebef3d',
-    '682ff2322d6870',
-    'f2453ef379d738',
-    '28315e9c4f5a69',
-    '66f24e7bf9fe3c',
-    # GeanCarlo
-    '7d3f9e46790faa',
-    '42e21cf0c2eb57'
+    # AGREGAR CREDENTIALES
     ]
 
 FILES = [('CUENCA.csv',992150),('QUITO.csv',1284051),('CUENCA.csv',218315)]
