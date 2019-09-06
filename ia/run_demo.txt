@@ -1,0 +1,6 @@
+#acceso
+source env/bin/activate 
+
+
+#ejecutar
+python manage.py runserver

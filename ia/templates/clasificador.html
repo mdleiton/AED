@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+{% block js %}
+{% endblock %}
+
+{% block contenido %}
+<div class="offset-md-1 col-md-10">
+	<form action="" method="post">
+  	{% csrf_token %}
+  		<div class = "row justify-content-center mr-1 ml-1">
+    		<label class="mt-1">&nbsp; Usuario &nbsp;</label>
+    		<input class="col-md-10"  name="data" required value="{{data}}">
+    		<button class="btn btn-primary" id="">identificar</button>
+    		<br/>
+  		</div>
+	</form>
+</div>
+
+<div class="offset-md-1 col-md-10">
+{% if result %}
+	<br>
+    <div class="list-group">
+	  <a href="#" class="list-group-item active">Tipo: {{result}}</a>
+	</div> 
+	{% endif %}
+</div>
+
+<div class="offset-md-3 col-md-6">
+	<br><br>
+	<h1 class="text-center">Proyecto:<br> Análisis del Comportamiento de Trolls polı́ticos ecuatorianos en Twitter</h1>
+	<h2>Introduction</h2>
+	<p class="text-justify">Hoy en dı́a, es muy común escuchar la palabra ”Trolls”
+en redes sociales como Twitter. Es de conocimiento general
+que un troll es un individuo que adopta un comportamiento
+antisocial, provocando e irritando a otros usuarios de una
+plataforma social en lı́nea; teniendo una actividad o muy
+negativa o muy positiva, y cuyo efecto es descarrilar la
+evolución normal de una discusión en lı́nea y posiblemente
+para detenerla. </p>El objetivo de este proyecto es análizar el
+comportamiento de usuarios de la red social, establecer que
+features son las más relevantes para poder clasificar usuarios
+como Trolls o no Trolls mediante Regresión Logı́stica o
+algún tipo de red neuronal.</p> Primero hicimos nuestro conjunto
+de datos de tweets de diferentes usuarios que encontramos
+manualmente y etiquetamos como ”trolls” y ”no trolls”. Luego
+definimos las caracterı́sticas (features) de los datos obtenidos
+para nuestra regresión logı́stica, y evaluamos la precisión de
+nuestro modelo.</p> Más adelante en este documento explicaremos
+en detalle las caracterı́sticas utilizadas y cómo mejoramos
+nuestra precisión.</p>
+
+	<h2>Autores</h2>
+	<div class="list-group">
+		<a href="#" class="list-group-item ">Murillo Mendoza Geancarlo</a>
+		<a href="#" class="list-group-item ">Leiton Lázaro Mauricio David</a>
+		<a href="#" class="list-group-item ">Povea Murillo Byron</a>
+		<a href="#" class="list-group-item ">Saigua Labre Daniel</a>
+	</div> 
+</div>
+{% endblock %}
